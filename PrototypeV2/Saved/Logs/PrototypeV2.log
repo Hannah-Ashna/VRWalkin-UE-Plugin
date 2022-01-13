@@ -684,3 +684,1236 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.13-19.59.30:620][618]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/Street631D44F3446FA9A822DC71A1EEC9C525.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/VehicleBP/Sedan/Street.uasset'
 [2022.01.13-19.59.30:644][618]AssetCheck: New page: Asset Save: Street
 [2022.01.13-19.59.30:644][618]LogContentValidation: Display: Validating Blueprint /Game/VehicleBP/Sedan/Street.Street
+[2022.01.13-20.01.21:519][692]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleBP/Sedan/AI_Sedan.AI_Sedan
+[2022.01.13-20.08.55:966][226]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.01.13-20.08.56:012][226]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/VehicleExampleMap_Auto14B75435D43C16A48F3981C859A0A8086.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/Autosaves/Game/VehicleBP/Maps/VehicleExampleMap_Auto1.umap'
+[2022.01.13-20.08.56:014][226]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/VehicleExampleMap' took 0.106
+[2022.01.13-20.08.56:014][226]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.106
+[2022.01.13-20.08.56:015][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleBP/Sedan/AI_Sedan] ([1] browsable assets)...
+[2022.01.13-20.08.56:056][226]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleBP/Sedan/AI_Sedan.AI_Sedan]
+[2022.01.13-20.08.56:056][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleBP/Sedan/AI_Sedan]
+[2022.01.13-20.08.56:080][226]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/AI_Sedan_Auto12108425B4AA285D87419EE9F3D0D83CF.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/Autosaves/Game/VehicleBP/Sedan/AI_Sedan_Auto1.uasset'
+[2022.01.13-20.08.56:082][226]LogFileHelpers: Auto-saving content packages took 0.068
+[2022.01.13-20.10.51:797][234]LogSlate: Window 'Get Path' being destroyed
+[2022.01.13-20.10.53:214][319]BlueprintLog: New page: Compile AI_Sedan
+[2022.01.13-20.10.53:287][319]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.01.13-20.10.53:925][350]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/AI_Sedan0DBD1E364EEC567167E5E38BCF97C723.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/VehicleBP/Sedan/AI_Sedan.uasset'
+[2022.01.13-20.10.53:941][350]AssetCheck: New page: Asset Save: AI_Sedan
+[2022.01.13-20.10.53:942][350]LogContentValidation: Display: Validating Blueprint /Game/VehicleBP/Sedan/AI_Sedan.AI_Sedan
+[2022.01.13-20.10.55:368][433]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.13-20.10.55:395][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.13-20.10.55:402][433]PIE: New page: PIE session: VehicleExampleMap (13 Jan 2022, 20:10:55)
+[2022.01.13-20.10.55:416][433]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.01.13-20.10.55:419][433]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.01.13-20.10.55:420][433]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2022.01.13-20.10.55:436][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015971s)
+[2022.01.13-20.10.55:438][433]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2022.01.13-20.10.55:439][433]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026DA6B68600), frame # 10433
+[2022.01.13-20.10.55:439][433]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026D88BBE480), frame # 10433
+[2022.01.13-20.10.55:439][433]LogPlayLevel: PIE: World Init took: (0.001953s)
+[2022.01.13-20.10.55:439][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.018752s)
+[2022.01.13-20.10.55:471][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.01.13-20.10.55:476][433]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.13-20.10.55:476][433]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.13-20.10.55:476][433]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.13-20.10.55:476][433]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.13-20.10.55:476][433]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.13-20.10.55:476][433]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.13-20.10.55:476][433]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.13-20.10.55:476][433]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.13-20.10.55:476][433]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.13-20.10.55:476][433]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.13-20.10.55:481][433]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.13-20.10.55:481][433]LogAudioMixer: Display: 1: FrontRight
+[2022.01.13-20.10.55:512][433]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.01.13-20.10.55:512][433]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.13-20.10.55:512][433]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.13-20.10.55:512][433]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.13-20.10.55:512][433]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.13-20.10.55:524][433]LogInit: FAudioDevice initialized.
+[2022.01.13-20.10.55:547][433]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.01.13-20.10.55:585][433]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2022.01.13-20.10.55
+[2022.01.13-20.10.55:591][433]LogWorld: Bringing up level for play took: 0.011170
+[2022.01.13-20.10.55:592][433]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.01.13-20.10.55:625][433]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.01.13-20.10.55:637][433]PIE: Server logged in
+[2022.01.13-20.10.55:639][433]PIE: Play in editor total start time 0.263 seconds.
+[2022.01.13-20.11.03:262][872]LogBlueprintUserMessages: [Street_10] Street_10.Spline
+[2022.01.13-20.11.03:276][873]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:293][874]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:310][875]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:326][876]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:343][877]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:360][878]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:376][879]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:392][880]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:409][881]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:426][882]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:443][883]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:460][884]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:476][885]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:493][886]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:509][887]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:526][888]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:543][889]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:559][890]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:576][891]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:593][892]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:610][893]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:627][894]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:643][895]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:660][896]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:677][897]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:693][898]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:710][899]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:726][900]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:743][901]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:759][902]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:777][903]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:793][904]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:810][905]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:826][906]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:843][907]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:860][908]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:877][909]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:893][910]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:909][911]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:926][912]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:943][913]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:960][914]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:976][915]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.03:993][916]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:010][917]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:026][918]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:043][919]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:060][920]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:077][921]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:093][922]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:110][923]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:126][924]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:143][925]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:160][926]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:176][927]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:193][928]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:211][929]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:227][930]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:243][931]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:260][932]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:276][933]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:293][934]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:310][935]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:327][936]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:343][937]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:360][938]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:376][939]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:393][940]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:410][941]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:426][942]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:443][943]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:460][944]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:476][945]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:493][946]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:510][947]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:527][948]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:544][949]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:560][950]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:577][951]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:594][952]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:610][953]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:626][954]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:643][955]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:660][956]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:677][957]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:693][958]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:710][959]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:726][960]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:743][961]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:760][962]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:777][963]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:793][964]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:809][965]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:826][966]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:843][967]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:860][968]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:876][969]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:893][970]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:909][971]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:926][972]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:943][973]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:960][974]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:976][975]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.04:993][976]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:011][977]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:026][978]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:042][979]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:060][980]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:076][981]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:093][982]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:110][983]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:126][984]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:143][985]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:160][986]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:176][987]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:193][988]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:210][989]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:226][990]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:243][991]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:260][992]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:276][993]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:293][994]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:310][995]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:326][996]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:343][997]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:360][998]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:376][999]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:393][  0]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:410][  1]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:426][  2]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:443][  3]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:459][  4]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:476][  5]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:493][  6]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:510][  7]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:526][  8]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:543][  9]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:559][ 10]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:576][ 11]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:593][ 12]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:610][ 13]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:627][ 14]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:644][ 15]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:660][ 16]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:677][ 17]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:694][ 18]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:710][ 19]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:727][ 20]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:743][ 21]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:760][ 22]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:777][ 23]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:793][ 24]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:810][ 25]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:826][ 26]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:844][ 27]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:860][ 28]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:877][ 29]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:894][ 30]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:911][ 31]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:926][ 32]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:943][ 33]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:960][ 34]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:976][ 35]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.05:993][ 36]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:010][ 37]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:026][ 38]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:043][ 39]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:060][ 40]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:076][ 41]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:093][ 42]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:110][ 43]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:127][ 44]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:144][ 45]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:161][ 46]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:177][ 47]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:193][ 48]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:210][ 49]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:226][ 50]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:243][ 51]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:260][ 52]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:277][ 53]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:293][ 54]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:310][ 55]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:326][ 56]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:344][ 57]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:360][ 58]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:377][ 59]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:393][ 60]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:411][ 61]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:427][ 62]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:443][ 63]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:460][ 64]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:477][ 65]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:493][ 66]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:511][ 67]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:527][ 68]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:543][ 69]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:560][ 70]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:577][ 71]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:594][ 72]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:611][ 73]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:627][ 74]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:643][ 75]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:660][ 76]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:677][ 77]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:693][ 78]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:710][ 79]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:727][ 80]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:744][ 81]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:761][ 82]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:777][ 83]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:794][ 84]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:811][ 85]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:827][ 86]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:843][ 87]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:861][ 88]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:877][ 89]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:894][ 90]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:911][ 91]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:927][ 92]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:944][ 93]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:960][ 94]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:977][ 95]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.06:993][ 96]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:010][ 97]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:027][ 98]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:043][ 99]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:061][100]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:077][101]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:094][102]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:110][103]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:127][104]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:143][105]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:160][106]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:178][107]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:193][108]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:211][109]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:227][110]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:244][111]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:260][112]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:277][113]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:294][114]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:311][115]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:327][116]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:344][117]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:361][118]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:377][119]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:394][120]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:411][121]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:427][122]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:444][123]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:461][124]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:477][125]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:494][126]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:511][127]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:527][128]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:543][129]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:561][130]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:578][131]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:594][132]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:610][133]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:627][134]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:643][135]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:661][136]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:677][137]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:694][138]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:711][139]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:727][140]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:744][141]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:760][142]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:777][143]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:794][144]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:810][145]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:827][146]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:844][147]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:860][148]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:877][149]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:893][150]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:911][151]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:927][152]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:943][153]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:960][154]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:977][155]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.07:994][156]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:011][157]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:027][158]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:044][159]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:061][160]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:077][161]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:094][162]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:111][163]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:127][164]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:144][165]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:160][166]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:177][167]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:194][168]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:211][169]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:227][170]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:244][171]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:260][172]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:277][173]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:294][174]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:311][175]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:327][176]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:344][177]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:361][178]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:377][179]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:394][180]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:410][181]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:427][182]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:444][183]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:461][184]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:477][185]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:494][186]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:511][187]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:527][188]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:544][189]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:560][190]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:577][191]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:594][192]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:611][193]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:627][194]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:644][195]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:661][196]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:677][197]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:694][198]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:711][199]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:727][200]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:744][201]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:761][202]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:777][203]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:794][204]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:811][205]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:827][206]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:844][207]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:860][208]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:877][209]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:893][210]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:911][211]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:928][212]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:944][213]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:961][214]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:977][215]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.08:994][216]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:011][217]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:027][218]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:044][219]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:061][220]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:077][221]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:093][222]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:111][223]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:127][224]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:144][225]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:161][226]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:177][227]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:194][228]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:210][229]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:227][230]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:243][231]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:261][232]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:279][233]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:295][234]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:313][235]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:329][236]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:346][237]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:362][238]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:378][239]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:395][240]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:412][241]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:428][242]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:446][243]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:462][244]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:478][245]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:496][246]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:513][247]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:529][248]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:546][249]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:563][250]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:580][251]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:598][252]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:615][253]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:630][254]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:646][255]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:663][256]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:679][257]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:695][258]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:712][259]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:728][260]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:744][261]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:761][262]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:778][263]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:794][264]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:811][265]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:828][266]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:844][267]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:861][268]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:878][269]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:895][270]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:911][271]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:927][272]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:944][273]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:961][274]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:978][275]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.09:995][276]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:011][277]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:027][278]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:045][279]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:061][280]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:077][281]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:095][282]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:111][283]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:127][284]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:145][285]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:161][286]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:178][287]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:195][288]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:211][289]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:229][290]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:244][291]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:262][292]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:279][293]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:295][294]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:311][295]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:327][296]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:344][297]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:362][298]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:378][299]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:395][300]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:411][301]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:427][302]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:444][303]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:461][304]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:477][305]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:495][306]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:512][307]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:528][308]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:545][309]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:562][310]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:578][311]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:595][312]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:613][313]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:628][314]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:644][315]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:665][316]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:678][317]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:697][318]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:712][319]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:728][320]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:745][321]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:762][322]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:780][323]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:796][324]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:813][325]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:829][326]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:844][327]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:862][328]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:879][329]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:896][330]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:913][331]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:930][332]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:947][333]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:962][334]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:979][335]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.10:995][336]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:012][337]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:028][338]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:046][339]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:061][340]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:079][341]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:097][342]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:112][343]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:129][344]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:144][345]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:161][346]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:177][347]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:195][348]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:211][349]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:228][350]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:245][351]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:260][352]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:278][353]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:294][354]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:310][355]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:327][356]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:344][357]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:361][358]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:378][359]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:395][360]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:412][361]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:429][362]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:445][363]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:461][364]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:478][365]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:494][366]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:511][367]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:528][368]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:545][369]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:561][370]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:578][371]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:595][372]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:611][373]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:628][374]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:645][375]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:662][376]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:678][377]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:695][378]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:712][379]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:729][380]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:745][381]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:761][382]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:778][383]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:795][384]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:811][385]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:828][386]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:845][387]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:861][388]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:878][389]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:894][390]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:911][391]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:928][392]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:945][393]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:961][394]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:978][395]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.11:995][396]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.12:011][397]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.12:028][398]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.12:045][399]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.12:062][400]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.12:078][401]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.12:095][402]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.12:111][403]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.11.12:143][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.13-20.11.12:143][403]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2022.01.13-20.11.12:146][403]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.13-20.11.12:146][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.13-20.11.12:163][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.13-20.11.12:169][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.13-20.11.12:229][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.13-20.11.12:231][403]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026D88BBE480), frame # 11403
+[2022.01.13-20.11.12:232][403]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026DA6B68600), frame # 11403
+[2022.01.13-20.11.12:254][403]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2022.01.13-20.11.12:281][404]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.01.13-20.11.22:252][969]LogEditorViewport: Clicking on Actor (LMB): Street_C (Street2)
+[2022.01.13-20.11.46:381][409]LogEditorViewport: Clicking on Actor (LMB): AI_Sedan_C (AI_Sedan)
+[2022.01.13-20.11.57:568][ 76]LogEditorViewport: Clicking on Actor (LMB): Street_C (Street2)
+[2022.01.13-20.11.58:715][144]Cmd: EDIT COPY
+[2022.01.13-20.11.58:965][158]Cmd: EDIT PASTE
+[2022.01.13-20.12.05:624][552]LogEditorViewport: Clicking on Actor (LMB): Street_C (Street3)
+[2022.01.13-20.12.10:211][825]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.13-20.12.10:218][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.13-20.12.10:218][825]PIE: New page: PIE session: VehicleExampleMap (13 Jan 2022, 20:12:10)
+[2022.01.13-20.12.10:218][825]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2022.01.13-20.12.10:232][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013611s)
+[2022.01.13-20.12.10:233][825]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2022.01.13-20.12.10:233][825]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026D758C1800), frame # 14825
+[2022.01.13-20.12.10:233][825]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026D92152200), frame # 14825
+[2022.01.13-20.12.10:233][825]LogPlayLevel: PIE: World Init took: (0.001249s)
+[2022.01.13-20.12.10:233][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.015029s)
+[2022.01.13-20.12.10:287][825]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.01.13-20.12.10:290][825]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.13-20.12.10:290][825]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.13-20.12.10:290][825]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.13-20.12.10:290][825]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.13-20.12.10:290][825]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.13-20.12.10:290][825]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.13-20.12.10:290][825]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.13-20.12.10:290][825]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.13-20.12.10:290][825]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.13-20.12.10:290][825]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.13-20.12.10:295][825]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.13-20.12.10:295][825]LogAudioMixer: Display: 1: FrontRight
+[2022.01.13-20.12.10:325][825]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.01.13-20.12.10:325][825]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.13-20.12.10:325][825]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.13-20.12.10:325][825]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.13-20.12.10:325][825]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.13-20.12.10:336][825]LogInit: FAudioDevice initialized.
+[2022.01.13-20.12.10:340][825]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.01.13-20.12.10:346][825]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2022.01.13-20.12.10
+[2022.01.13-20.12.10:346][825]LogWorld: Bringing up level for play took: 0.001930
+[2022.01.13-20.12.10:346][825]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.01.13-20.12.10:348][825]PIE: Server logged in
+[2022.01.13-20.12.10:348][825]PIE: Play in editor total start time 0.131 seconds.
+[2022.01.13-20.12.11:394][884]LogBlueprintUserMessages: [Street_10] Street_10.Spline
+[2022.01.13-20.12.11:410][885]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:427][886]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:444][887]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:461][888]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:477][889]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:494][890]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:511][891]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:528][892]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:544][893]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:561][894]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:578][895]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:594][896]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:611][897]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:628][898]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:644][899]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:660][900]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:677][901]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:693][902]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:710][903]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:727][904]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:744][905]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:761][906]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:778][907]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:794][908]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:811][909]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:828][910]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:844][911]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:861][912]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:877][913]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:894][914]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:910][915]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:928][916]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:944][917]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:961][918]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:977][919]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.11:994][920]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:011][921]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:028][922]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:044][923]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:061][924]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:078][925]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:095][926]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:110][927]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:128][928]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:144][929]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:161][930]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:177][931]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:194][932]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:210][933]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:227][934]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:244][935]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:260][936]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:278][937]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:294][938]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:311][939]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:327][940]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:344][941]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:360][942]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:377][943]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:394][944]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:411][945]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:427][946]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:444][947]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:461][948]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:477][949]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:495][950]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:512][951]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:528][952]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:544][953]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:561][954]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:578][955]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:594][956]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:611][957]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:628][958]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:644][959]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:661][960]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:679][961]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:694][962]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:711][963]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:711][963]LogBlueprintUserMessages: [Street_10] Street_10.Spline
+[2022.01.13-20.12.12:727][964]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:744][965]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:761][966]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:778][967]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:794][968]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:811][969]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:828][970]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:845][971]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:861][972]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:878][973]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:894][974]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:911][975]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:928][976]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:944][977]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:960][978]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:978][979]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.12:994][980]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:010][981]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:027][982]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:044][983]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:060][984]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:078][985]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:094][986]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:111][987]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:127][988]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:145][989]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:161][990]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:178][991]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:194][992]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:210][993]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:227][994]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:244][995]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:260][996]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:277][997]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:294][998]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:311][999]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:327][  0]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:344][  1]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:361][  2]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:377][  3]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:394][  4]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:411][  5]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:427][  6]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:444][  7]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:460][  8]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:477][  9]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:494][ 10]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:511][ 11]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:527][ 12]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:545][ 13]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:561][ 14]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:577][ 15]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:595][ 16]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:611][ 17]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:628][ 18]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:644][ 19]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:661][ 20]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:677][ 21]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:694][ 22]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:710][ 23]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:727][ 24]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:744][ 25]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:761][ 26]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:778][ 27]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:794][ 28]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:811][ 29]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:827][ 30]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:844][ 31]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:861][ 32]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:877][ 33]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:894][ 34]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:911][ 35]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:927][ 36]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:944][ 37]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:961][ 38]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:978][ 39]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.13:994][ 40]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.14:011][ 41]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.14:028][ 42]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.14:044][ 43]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.14:061][ 44]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.14:077][ 45]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.14:094][ 46]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.14:111][ 47]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.14:127][ 48]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.14:144][ 49]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.14:161][ 50]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.14:177][ 51]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.14:194][ 52]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.14:211][ 53]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.14:227][ 54]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.14:245][ 55]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.14:261][ 56]LogBlueprintUserMessages: [AI_Sedan_5] Street_10.Spline
+[2022.01.13-20.12.14:262][ 56]LogBlueprintUserMessages: [Street2_13] Street2_13.Spline
+[2022.01.13-20.12.14:278][ 57]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:294][ 58]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:311][ 59]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:328][ 60]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:344][ 61]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:361][ 62]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:378][ 63]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:394][ 64]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:411][ 65]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:428][ 66]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:444][ 67]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:461][ 68]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:478][ 69]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:494][ 70]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:511][ 71]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:528][ 72]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:544][ 73]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:560][ 74]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:578][ 75]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:595][ 76]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:611][ 77]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:627][ 78]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:644][ 79]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:661][ 80]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:678][ 81]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:694][ 82]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:711][ 83]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:728][ 84]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:744][ 85]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:761][ 86]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:778][ 87]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:794][ 88]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:811][ 89]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:828][ 90]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:845][ 91]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:861][ 92]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:877][ 93]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:894][ 94]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:911][ 95]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:927][ 96]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:944][ 97]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:960][ 98]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:977][ 99]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.14:994][100]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:011][101]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:028][102]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:044][103]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:061][104]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:078][105]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:094][106]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:111][107]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:128][108]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:144][109]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:161][110]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:178][111]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:194][112]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:210][113]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:228][114]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:244][115]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:261][116]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:277][117]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:294][118]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:310][119]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:327][120]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:344][121]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:360][122]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:378][123]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:394][124]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:411][125]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:427][126]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:444][127]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:460][128]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:477][129]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:494][130]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:511][131]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:528][132]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:544][133]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:561][134]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:578][135]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:596][136]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:611][137]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:628][138]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:644][139]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:661][140]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:677][141]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:694][142]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:711][143]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:728][144]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:744][145]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:760][146]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:778][147]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:794][148]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:811][149]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:828][150]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:844][151]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:861][152]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:877][153]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:894][154]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:910][155]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:927][156]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:944][157]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:960][158]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:977][159]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.15:994][160]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.16:011][161]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.16:027][162]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.16:044][163]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.16:061][164]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.16:077][165]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.16:094][166]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.16:111][167]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.16:128][168]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.16:144][169]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.16:160][170]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.16:177][171]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.16:194][172]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.16:210][173]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.16:228][174]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.16:245][175]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.16:261][176]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.16:277][177]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.16:294][178]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.16:310][179]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.16:328][180]LogBlueprintUserMessages: [AI_Sedan_5] Street2_13.Spline
+[2022.01.13-20.12.16:328][180]LogBlueprintUserMessages: [Street3] Street3.Spline
+[2022.01.13-20.12.16:344][181]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:361][182]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:377][183]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:394][184]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:410][185]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:427][186]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:444][187]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:461][188]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:478][189]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:495][190]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:511][191]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:528][192]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:545][193]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:561][194]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:578][195]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:594][196]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:611][197]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:628][198]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:645][199]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:661][200]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:677][201]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:694][202]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:711][203]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:728][204]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:744][205]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:761][206]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:778][207]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:795][208]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:811][209]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:827][210]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:844][211]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:861][212]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:877][213]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:894][214]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:911][215]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:927][216]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:944][217]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:960][218]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:978][219]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.16:994][220]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:011][221]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:027][222]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:044][223]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:060][224]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:077][225]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:078][225]LogBlueprintUserMessages: [Street3] Street3.Spline
+[2022.01.13-20.12.17:095][226]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:111][227]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:128][228]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:144][229]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:161][230]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:177][231]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:194][232]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:211][233]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:228][234]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:244][235]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:260][236]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:277][237]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:294][238]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:311][239]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:327][240]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:344][241]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:361][242]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:377][243]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:394][244]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:411][245]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:428][246]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:444][247]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:461][248]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:477][249]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:494][250]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:511][251]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:527][252]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:544][253]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:561][254]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:577][255]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:594][256]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:611][257]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:628][258]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:645][259]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:661][260]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:678][261]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:694][262]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:711][263]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:727][264]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:744][265]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:761][266]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:778][267]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:794][268]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:811][269]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:828][270]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:844][271]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:861][272]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:878][273]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:894][274]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:911][275]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:927][276]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:945][277]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:961][278]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:977][279]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.17:995][280]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:011][281]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:027][282]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:044][283]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:060][284]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:077][285]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:094][286]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:110][287]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:128][288]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:144][289]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:161][290]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:177][291]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:194][292]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:211][293]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:227][294]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:244][295]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:261][296]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:278][297]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:295][298]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:311][299]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:328][300]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:344][301]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:361][302]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:377][303]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:394][304]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:411][305]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:427][306]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:444][307]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:461][308]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:477][309]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:495][310]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:511][311]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:528][312]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:544][313]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:561][314]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:577][315]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:594][316]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:611][317]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:628][318]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:644][319]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:661][320]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:678][321]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:694][322]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:711][323]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:728][324]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:745][325]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:761][326]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:778][327]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:794][328]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:810][329]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:827][330]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:844][331]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:861][332]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:877][333]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:894][334]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:911][335]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:928][336]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:945][337]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:961][338]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:978][339]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.18:994][340]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:011][341]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:028][342]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:045][343]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:061][344]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:078][345]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:095][346]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:111][347]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:128][348]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:145][349]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:161][350]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:178][351]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:194][352]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:211][353]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:228][354]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:245][355]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:261][356]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:277][357]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:295][358]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:311][359]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:328][360]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:345][361]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:361][362]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:378][363]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:394][364]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:411][365]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:428][366]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:444][367]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:461][368]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:478][369]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:495][370]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:512][371]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:528][372]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:544][373]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:561][374]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:578][375]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:595][376]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:611][377]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:628][378]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:645][379]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:661][380]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:678][381]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:694][382]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:711][383]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:728][384]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:745][385]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:761][386]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:778][387]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:794][388]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:811][389]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:828][390]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:844][391]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:861][392]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:878][393]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:895][394]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:911][395]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:927][396]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:944][397]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:961][398]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:977][399]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.19:994][400]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:010][401]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:027][402]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:045][403]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:060][404]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:078][405]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:095][406]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:111][407]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:127][408]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:144][409]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:161][410]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:177][411]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:194][412]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:211][413]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:228][414]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:245][415]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:261][416]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:277][417]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:294][418]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:311][419]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:328][420]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:345][421]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:361][422]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:378][423]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:395][424]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:411][425]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:428][426]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:445][427]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:461][428]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:478][429]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:495][430]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:511][431]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:528][432]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:545][433]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:561][434]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:578][435]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:595][436]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:611][437]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:627][438]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:645][439]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:661][440]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:677][441]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:695][442]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:712][443]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:728][444]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:744][445]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:761][446]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:778][447]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:794][448]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:811][449]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:827][450]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:844][451]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:861][452]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:877][453]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:895][454]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:911][455]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:928][456]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:945][457]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:962][458]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:978][459]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.20:995][460]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.21:011][461]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.21:028][462]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.21:045][463]LogBlueprintUserMessages: [AI_Sedan_5] Street3.Spline
+[2022.01.13-20.12.21:092][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.13-20.12.21:092][463]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2022.01.13-20.12.21:092][463]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.13-20.12.21:092][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.13-20.12.21:105][463]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.13-20.12.21:110][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.13-20.12.21:177][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.13-20.12.21:177][463]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026D92152200), frame # 15463
+[2022.01.13-20.12.21:177][463]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026D758C1800), frame # 15463
+[2022.01.13-20.12.21:181][463]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.01.13-20.12.21:207][464]LogPlayLevel: Display: Destroying online subsystem :Context_8
