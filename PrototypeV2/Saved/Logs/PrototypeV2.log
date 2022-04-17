@@ -955,3 +955,1470 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.17-22.30.57:091][203]AssetCheck: New page: Asset Save: multiple assets
 [2022.04.17-22.30.57:091][203]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap
 [2022.04.17-22.30.57:091][203]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/VehicleExampleMap_BuiltData.VehicleExampleMap_BuiltData
+[2022.04.17-22.33.20:649][ 21]LogEditorFactories: Performing atomic reimport of [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/Textures/Road-TXTMap.png]
+[2022.04.17-22.33.20:658][ 21]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/Textures/Road-TXTMap.png)
+[2022.04.17-22.33.20:702][ 21]LogTexture: Display: Building textures: Road-TXTMap (AutoDXT, 1024X1024)
+[2022.04.17-22.33.21:184][ 21]LogEditorFactories: -- imported successfully
+[2022.04.17-22.37.42:120][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\FYP-Prototype\Textures\Road-ROUGHMap.png)
+[2022.04.17-22.37.42:152][492]LogTexture: Display: Building textures: Road-ROUGHMap (AutoDXT, 1024X1024)
+[2022.04.17-22.37.45:648][502]LogEditorViewport: Clicking on Actor (LMB): RoadActor_C (RoadActor2)
+[2022.04.17-22.37.50:262][768]LogEditorViewport: Clicking on Actor (LMB): RoadActor_C (RoadActor2)
+[2022.04.17-22.37.50:353][773]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Road)
+[2022.04.17-22.37.51:433][834]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Roads/RoadActor.RoadActor
+[2022.04.17-22.37.56:140][ 77]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Roads/Materials/RoadMaterial.RoadMaterial
+[2022.04.17-22.37.56:142][ 77]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.37.56:203][ 77]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.37.56:211][ 77]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.37.56:224][ 77]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.37.56:224][ 77]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.37.56:224][ 77]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.37.56:224][ 77]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.37.56:224][ 77]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.37.56:224][ 77]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.37.56:224][ 77]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.37.56:224][ 77]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.37.56:225][ 77]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.17-22.37.57:779][141]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2022.04.17-22.37.57:780][141]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.04.17-22.37.58:104][158]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.04.17-22.37.58:104][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.17-22.37.58:226][158]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.04.17-22.37.58:281][159]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.04.17-22.37.58:361][160]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.04.17-22.37.58:441][165]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.04.17-22.37.58:441][165]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.04.17-22.37.59:210][210]MaterialEditorStats: Base pass shader: 113 instructions
+[2022.04.17-22.37.59:210][210]MaterialEditorStats: Base pass shader with Surface Lightmap: 134 instructions
+[2022.04.17-22.37.59:210][210]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2022.04.17-22.37.59:210][210]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.37.59:211][210]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.17-22.37.59:211][210]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.17-22.37.59:211][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.38.02:901][393]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.38.02:907][393]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2022.04.17-22.38.02:914][393]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2022.04.17-22.38.02:914][393]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2022.04.17-22.38.02:914][393]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2022.04.17-22.38.02:914][393]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.04.17-22.38.02:914][393]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2022.04.17-22.38.02:914][393]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.04.17-22.38.02:914][393]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.04.17-22.38.02:914][393]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.04.17-22.38.02:915][393]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.17-22.38.02:918][393]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2022.04.17-22.38.03:873][433]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2022.04.17-22.38.03:900][434]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2022.04.17-22.38.04:220][445]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.38.04:493][460]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.04.17-22.38.04:522][461]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2022.04.17-22.38.04:556][462]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.04.17-22.38.04:562][462]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2022.04.17-22.38.04:586][463]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.04.17-22.38.05:083][487]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2022.04.17-22.38.05:168][492]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-22.38.05:230][496]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.04.17-22.38.05:263][497]MaterialEditorStats: Base pass shader: 113 instructions
+[2022.04.17-22.38.05:263][497]MaterialEditorStats: Base pass shader with Surface Lightmap: 134 instructions
+[2022.04.17-22.38.05:263][497]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2022.04.17-22.38.05:263][497]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.38.05:263][497]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.17-22.38.05:263][497]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.17-22.38.05:263][497]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.38.08:075][636]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.38.08:086][636]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2022.04.17-22.38.08:090][636]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.38.08:090][636]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.38.08:090][636]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.38.08:090][636]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.38.08:090][636]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.38.08:090][636]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.38.08:090][636]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.38.08:090][636]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.38.09:069][684]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2022.04.17-22.38.09:134][687]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.04.17-22.38.09:436][704]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.04.17-22.38.09:722][720]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2022.04.17-22.38.09:787][724]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.04.17-22.38.09:787][724]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.04.17-22.38.09:803][725]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.04.17-22.38.10:297][754]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.04.17-22.38.10:298][754]MaterialEditorStats: Base pass shader with Surface Lightmap: 149 instructions
+[2022.04.17-22.38.10:298][754]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.04.17-22.38.10:298][754]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.38.10:298][754]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.17-22.38.10:298][754]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.17-22.38.10:298][754]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.38.10:388][758]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.38.10:402][758]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2022.04.17-22.38.10:402][758]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2022.04.17-22.38.10:472][759]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2022.04.17-22.38.10:472][759]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2022.04.17-22.38.10:472][759]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2022.04.17-22.38.10:499][761]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.04.17-22.38.10:670][770]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.38.10:686][771]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.04.17-22.38.11:358][802]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2022.04.17-22.38.11:651][817]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.04.17-22.38.11:765][824]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.04.17-22.38.12:575][866]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.04.17-22.38.12:575][866]MaterialEditorStats: Base pass shader with Surface Lightmap: 149 instructions
+[2022.04.17-22.38.12:575][866]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.04.17-22.38.12:575][866]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.38.12:575][866]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.17-22.38.12:575][866]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.17-22.38.12:575][866]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.38.22:696][427]LogMaterialEditor: Saving and Compiling material RoadMaterial
+[2022.04.17-22.38.23:203][427]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.38.23:247][427]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.38.23:247][427]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.38.23:247][427]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.38.23:247][427]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.38.23:247][427]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.38.23:247][427]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.38.23:247][427]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.38.23:247][427]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.38.23:272][427]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.38.23:412][427]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2022.04.17-22.38.23:428][427]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.17-22.38.24:532][427]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2022.04.17-22.38.24:532][427]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2022.04.17-22.38.24:532][427]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2022.04.17-22.38.24:532][427]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2022.04.17-22.38.24:532][427]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2022.04.17-22.38.24:532][427]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2022.04.17-22.38.24:532][427]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2022.04.17-22.38.25:049][427]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2022.04.17-22.38.25:050][427]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2022.04.17-22.38.25:050][427]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2022.04.17-22.38.25:050][427]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.38.25:050][427]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2022.04.17-22.38.25:050][427]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.04.17-22.38.25:063][427]TextureStreamingBuild: Display: Compiling optional shaders took 1.643 seconds.
+[2022.04.17-22.38.25:124][427]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2022.04.17-22.38.26:286][427]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.04.17-22.38.26:286][427]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2022.04.17-22.38.26:286][427]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.04.17-22.38.27:376][427]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.04.17-22.38.27:376][427]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.04.17-22.38.27:897][427]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/RoadMaterialDAD5DE764D1931B7D60BD6B5559D00BE.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/Roads/Materials/RoadMaterial.uasset'
+[2022.04.17-22.38.27:939][427]AssetCheck: New page: Asset Save: RoadMaterial
+[2022.04.17-22.38.27:939][427]LogContentValidation: Display: Validating Material /Game/Roads/Materials/RoadMaterial.RoadMaterial
+[2022.04.17-22.38.27:945][427]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.04.17-22.38.27:945][427]MaterialEditorStats: Base pass shader with Surface Lightmap: 149 instructions
+[2022.04.17-22.38.27:945][427]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.04.17-22.38.27:945][427]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.38.27:945][427]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.17-22.38.27:945][427]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.17-22.38.27:945][427]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.38.48:378][633]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.38.48:386][633]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.38.48:400][635]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.38.48:401][635]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.38.48:401][635]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.38.48:401][635]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.38.48:401][635]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.38.48:401][635]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.38.48:401][635]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.38.48:401][635]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.38.49:753][713]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.17-22.38.49:804][716]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-22.38.50:122][735]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.17-22.38.50:860][778]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.04.17-22.38.50:860][778]MaterialEditorStats: Base pass shader with Surface Lightmap: 149 instructions
+[2022.04.17-22.38.50:860][778]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.04.17-22.38.50:860][778]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.38.50:860][778]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.17-22.38.50:860][778]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.17-22.38.50:860][778]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.38.52:546][879]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.38.52:553][879]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.38.52:584][882]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.38.52:584][882]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.38.52:584][882]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.38.52:584][882]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.38.52:584][882]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.38.52:584][882]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.38.52:584][882]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.38.52:584][882]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.38.53:533][936]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.17-22.38.53:564][938]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-22.38.53:931][960]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.17-22.38.54:557][997]MaterialEditorStats: Base pass shader: 123 instructions
+[2022.04.17-22.38.54:557][997]MaterialEditorStats: Base pass shader with Surface Lightmap: 150 instructions
+[2022.04.17-22.38.54:557][997]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2022.04.17-22.38.54:557][997]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.38.54:557][997]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.17-22.38.54:557][997]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.17-22.38.54:557][997]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.38.56:448][110]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.38.56:455][110]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.38.56:467][112]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.38.56:486][113]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.38.56:486][113]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.38.56:486][113]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.38.56:486][113]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.38.56:486][113]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.38.56:486][113]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.38.56:486][113]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.38.57:380][164]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.17-22.38.57:413][166]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-22.38.57:797][189]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.17-22.38.58:437][227]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.04.17-22.38.58:437][227]MaterialEditorStats: Base pass shader with Surface Lightmap: 149 instructions
+[2022.04.17-22.38.58:437][227]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.04.17-22.38.58:437][227]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.38.58:437][227]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.17-22.38.58:437][227]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.17-22.38.58:437][227]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.39.00:949][373]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.39.00:989][374]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.39.00:989][374]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.39.00:989][374]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.39.00:989][374]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.39.00:989][374]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.39.00:990][374]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.39.00:990][374]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.39.00:990][374]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.39.01:923][428]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.17-22.39.01:972][431]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-22.39.02:339][453]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.17-22.39.03:061][496]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.04.17-22.39.03:061][496]MaterialEditorStats: Base pass shader with Surface Lightmap: 149 instructions
+[2022.04.17-22.39.03:062][496]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.04.17-22.39.03:062][496]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.39.03:062][496]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.17-22.39.03:062][496]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.17-22.39.03:062][496]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.39.09:861][904]LogMaterialEditor: Saving and Compiling material RoadMaterial
+[2022.04.17-22.39.10:402][904]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.39.10:432][904]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.39.10:432][904]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.39.10:432][904]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.39.10:432][904]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.39.10:432][904]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.39.10:432][904]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.39.10:432][904]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.39.10:432][904]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.39.10:472][904]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.39.10:622][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.04.17-22.39.10:642][904]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.17-22.39.11:740][904]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2022.04.17-22.39.11:740][904]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2022.04.17-22.39.11:740][904]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2022.04.17-22.39.12:281][904]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2022.04.17-22.39.12:281][904]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2022.04.17-22.39.12:281][904]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2022.04.17-22.39.12:281][904]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2022.04.17-22.39.12:281][904]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2022.04.17-22.39.12:281][904]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2022.04.17-22.39.12:281][904]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2022.04.17-22.39.12:281][904]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2022.04.17-22.39.12:328][904]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2022.04.17-22.39.12:343][904]TextureStreamingBuild: Display: Compiling optional shaders took 1.713 seconds.
+[2022.04.17-22.39.12:385][904]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.04.17-22.39.12:385][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.04.17-22.39.14:157][904]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.04.17-22.39.14:698][904]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2022.04.17-22.39.14:698][904]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.04.17-22.39.14:698][904]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.04.17-22.39.14:698][904]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.04.17-22.39.15:679][904]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/RoadMaterialB131277144E5D405CD4379A9F4BA2378.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/Roads/Materials/RoadMaterial.uasset'
+[2022.04.17-22.39.15:717][904]AssetCheck: New page: Asset Save: RoadMaterial
+[2022.04.17-22.39.15:717][904]LogContentValidation: Display: Validating Material /Game/Roads/Materials/RoadMaterial.RoadMaterial
+[2022.04.17-22.39.15:723][904]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.04.17-22.39.15:723][904]MaterialEditorStats: Base pass shader with Surface Lightmap: 149 instructions
+[2022.04.17-22.39.15:723][904]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.04.17-22.39.15:723][904]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.39.15:723][904]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.17-22.39.15:723][904]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.17-22.39.15:723][904]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.39.56:685][529]LogEditorFactories: Performing atomic reimport of [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/Textures/Road-ROUGHMap.png]
+[2022.04.17-22.39.56:691][529]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/Textures/Road-ROUGHMap.png)
+[2022.04.17-22.39.56:720][529]LogTexture: Display: Building textures: Road-ROUGHMap (AutoDXT, 1024X1024)
+[2022.04.17-22.39.57:216][529]LogEditorFactories: -- imported successfully
+[2022.04.17-22.40.57:025][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.04.17-22.40.57:031][513]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/VehicleExampleMap' took 0.024
+[2022.04.17-22.40.57:035][513]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Road-TXTMap] ([1] browsable assets)...
+[2022.04.17-22.40.57:041][513]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Road-TXTMap.Road-TXTMap]
+[2022.04.17-22.40.57:041][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Road-TXTMap]
+[2022.04.17-22.40.57:049][513]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/Road-TXTMap_Auto13841321E4EAABD2D163ADABB1E5B0F2D.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/Autosaves/Game/Textures/Road-TXTMap_Auto1.uasset'
+[2022.04.17-22.40.57:050][513]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Road-ROUGHMap] ([1] browsable assets)...
+[2022.04.17-22.40.57:057][513]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Road-ROUGHMap.Road-ROUGHMap]
+[2022.04.17-22.40.57:057][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Road-ROUGHMap]
+[2022.04.17-22.40.57:065][513]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/Road-ROUGHMap_Auto1CAB0BC484220055872F3B7800D51D950.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/Autosaves/Game/Textures/Road-ROUGHMap_Auto1.uasset'
+[2022.04.17-22.40.57:066][513]LogFileHelpers: Auto-saving content packages took 0.035
+[2022.04.17-22.41.55:649][823]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\FYP-Prototype\Textures\Road-NORMALMap.png)
+[2022.04.17-22.41.55:692][823]LogTexture: Display: Building textures: Road-NORMALMap (BC5, 1024X1024)
+[2022.04.17-22.41.59:164][917]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.41.59:170][917]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2022.04.17-22.41.59:180][917]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2022.04.17-22.41.59:180][917]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2022.04.17-22.41.59:180][917]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2022.04.17-22.41.59:181][917]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.04.17-22.41.59:181][917]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2022.04.17-22.41.59:181][917]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.04.17-22.41.59:181][917]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.04.17-22.41.59:181][917]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.04.17-22.41.59:184][917]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.17-22.41.59:188][917]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2022.04.17-22.41.59:191][917]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2022.04.17-22.42.00:707][973]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2022.04.17-22.42.00:738][973]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2022.04.17-22.42.01:028][982]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2022.04.17-22.42.01:225][986]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2022.04.17-22.42.01:325][989]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.42.01:326][989]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.42.01:326][989]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.04.17-22.42.01:365][992]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2022.04.17-22.42.01:976][ 18]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2022.04.17-22.42.01:992][ 19]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.04.17-22.42.02:056][ 22]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.04.17-22.42.02:067][ 22]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.04.17-22.42.02:067][ 22]MaterialEditorStats: Base pass shader with Surface Lightmap: 149 instructions
+[2022.04.17-22.42.02:067][ 22]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.04.17-22.42.02:067][ 22]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.42.02:067][ 22]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.17-22.42.02:067][ 22]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.17-22.42.02:067][ 22]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.42.02:172][ 28]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.04.17-22.42.02:289][ 34]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.04.17-22.42.02:305][ 35]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.04.17-22.42.02:440][ 43]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.04.17-22.42.02:498][ 46]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.42.02:522][ 46]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2022.04.17-22.42.02:525][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2022.04.17-22.42.02:908][ 64]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2022.04.17-22.42.03:073][ 73]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2022.04.17-22.42.03:126][ 76]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2022.04.17-22.42.03:126][ 76]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2022.04.17-22.42.03:378][ 90]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2022.04.17-22.42.03:487][ 96]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.04.17-22.42.03:487][ 96]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2022.04.17-22.42.04:146][123]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2022.04.17-22.42.04:147][123]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2022.04.17-22.42.04:487][135]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.04.17-22.42.04:487][135]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.04.17-22.42.04:647][144]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.17-22.42.04:893][153]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-22.42.04:950][155]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.04.17-22.42.05:538][186]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.04.17-22.42.05:538][186]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2022.04.17-22.42.05:538][186]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2022.04.17-22.42.05:538][186]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.42.05:538][186]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.17-22.42.05:539][186]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-22.42.05:539][186]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.42.17:897][777]LogMaterialEditor: Saving and Compiling material RoadMaterial
+[2022.04.17-22.42.18:434][777]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.42.18:465][777]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.42.18:465][777]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.42.18:465][777]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.42.18:465][777]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.42.18:465][777]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.42.18:465][777]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.42.18:465][777]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.42.18:465][777]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.42.18:511][777]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.42.18:651][777]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2022.04.17-22.42.18:670][777]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.17-22.42.19:781][777]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2022.04.17-22.42.19:781][777]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2022.04.17-22.42.19:781][777]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2022.04.17-22.42.20:330][777]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2022.04.17-22.42.20:330][777]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2022.04.17-22.42.20:330][777]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2022.04.17-22.42.20:330][777]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2022.04.17-22.42.20:330][777]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2022.04.17-22.42.20:641][777]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2022.04.17-22.42.20:641][777]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2022.04.17-22.42.20:641][777]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2022.04.17-22.42.20:641][777]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.04.17-22.42.20:644][777]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2022.04.17-22.42.20:647][777]TextureStreamingBuild: Display: Compiling optional shaders took 1.988 seconds.
+[2022.04.17-22.42.20:711][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.04.17-22.42.21:886][777]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.04.17-22.42.22:430][777]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2022.04.17-22.42.22:430][777]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.04.17-22.42.22:975][777]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.04.17-22.42.22:975][777]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.04.17-22.42.23:867][777]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/RoadMaterial87F4D2864FFBBAE4ABD288A0FB0894A4.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/Roads/Materials/RoadMaterial.uasset'
+[2022.04.17-22.42.23:913][777]AssetCheck: New page: Asset Save: RoadMaterial
+[2022.04.17-22.42.23:913][777]LogContentValidation: Display: Validating Material /Game/Roads/Materials/RoadMaterial.RoadMaterial
+[2022.04.17-22.42.23:915][777]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.04.17-22.42.23:915][777]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2022.04.17-22.42.23:915][777]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2022.04.17-22.42.23:915][777]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.42.23:915][777]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.17-22.42.23:915][777]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-22.42.23:915][777]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.42.40:197][738]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.17-22.42.40:211][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.17-22.42.40:212][738]PIE: New page: PIE session: VehicleExampleMap (18 Apr 2022, 00:42:40)
+[2022.04.17-22.42.40:212][738]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2022.04.17-22.42.40:236][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025376s)
+[2022.04.17-22.42.40:237][738]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2022.04.17-22.42.40:238][738]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001533238AA00), frame # 26738
+[2022.04.17-22.42.40:241][738]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001533F406840), frame # 26738
+[2022.04.17-22.42.40:241][738]LogPlayLevel: PIE: World Init took: (0.005104s)
+[2022.04.17-22.42.40:241][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.030680s)
+[2022.04.17-22.42.40:268][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.04.17-22.42.40:272][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.17-22.42.40:273][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.17-22.42.40:273][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.17-22.42.40:273][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.17-22.42.40:273][738]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.17-22.42.40:273][738]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.17-22.42.40:273][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.17-22.42.40:273][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.17-22.42.40:273][738]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.17-22.42.40:273][738]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.17-22.42.40:280][738]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.17-22.42.40:280][738]LogAudioMixer: Display: 1: FrontRight
+[2022.04.17-22.42.40:303][738]LogAudioMixer: Display: Using Audio Device Headphones (Elgato Wave:1)
+[2022.04.17-22.42.40:303][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.17-22.42.40:303][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.17-22.42.40:303][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.17-22.42.40:303][738]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.17-22.42.40:317][738]LogInit: FAudioDevice initialized.
+[2022.04.17-22.42.40:324][738]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.17-22.42.40:334][738]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2022.04.17-23.42.40
+[2022.04.17-22.42.40:334][738]LogWorld: Bringing up level for play took: 0.006196
+[2022.04.17-22.42.40:334][738]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.04.17-22.42.40:338][738]PIE: Server logged in
+[2022.04.17-22.42.40:338][738]PIE: Play in editor total start time 0.128 seconds.
+[2022.04.17-22.42.58:515][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.17-22.42.58:515][824]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2022.04.17-22.42.58:515][824]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.17-22.42.58:516][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.17-22.42.58:526][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.17-22.42.58:529][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.17-22.42.58:545][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.17-22.42.58:564][824]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001533F406840), frame # 27824
+[2022.04.17-22.42.58:564][824]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001533238AA00), frame # 27824
+[2022.04.17-22.42.58:566][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.04.17-22.42.58:596][825]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.04.17-22.43.11:060][566]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.43.11:088][567]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.43.11:088][567]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.43.11:088][567]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.43.11:088][567]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.43.11:088][567]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.43.11:088][567]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.43.11:088][567]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.43.11:088][567]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.43.11:098][567]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.04.17-22.43.12:530][637]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2022.04.17-22.43.12:583][640]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.04.17-22.43.12:938][659]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.43.13:036][660]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2022.04.17-22.43.13:217][671]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2022.04.17-22.43.13:218][671]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2022.04.17-22.43.13:252][673]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2022.04.17-22.43.13:302][676]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2022.04.17-22.43.13:368][680]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.04.17-22.43.14:007][712]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2022.04.17-22.43.14:127][719]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.04.17-22.43.14:411][735]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2022.04.17-22.43.14:758][754]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.04.17-22.43.14:834][758]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.04.17-22.43.15:108][772]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.04.17-22.43.15:138][774]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.04.17-22.43.15:285][775]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.04.17-22.43.15:286][775]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.04.17-22.43.16:195][820]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.04.17-22.43.16:195][820]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2022.04.17-22.43.16:195][820]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2022.04.17-22.43.16:195][820]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.43.16:195][820]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.17-22.43.16:195][820]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-22.43.16:195][820]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.43.26:325][395]LogLinker: Warning: While loading '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/Roads/Materials/CrossRoadMaterial.uasset' failed to load '/Game/Textures/CrossRoad-UVTemplate': Can't find file.
+[2022.04.17-22.43.26:326][395]LogLinker: Warning: While loading '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/Roads/Materials/CrossRoadMaterial.uasset' failed to load '/Game/Textures/CrossRoad-UVTemplate': Can't find file.
+[2022.04.17-22.43.26:326][395]LogLinker: Warning: While loading '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/Roads/Materials/CrossRoadMaterial.uasset' failed to load '/Game/Textures/CrossRoad-UVTemplate': Can't find file.
+[2022.04.17-22.43.26:327][395]LogLinker: Warning: While loading '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/Roads/Materials/CrossRoadMaterial.uasset' failed to load '/Game/Textures/CrossRoad-UVTemplate': Can't find file.
+[2022.04.17-22.43.26:327][395]LogLinker: Warning: While loading '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/Roads/Materials/CrossRoadMaterial.uasset' failed to load '/Game/Textures/CrossRoad-UVTemplate': Can't find file.
+[2022.04.17-22.43.26:327][395]LoadErrors: Failed to load /Game/Textures/CrossRoad-UVTemplate.CrossRoad-UVTemplate Referenced by CrossRoadMaterial
+[2022.04.17-22.43.26:327][395]LogLinker: Warning: While loading '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/Roads/Materials/CrossRoadMaterial.uasset' failed to load '/Game/Textures/CrossRoad-UVTemplate': Can't find file.
+[2022.04.17-22.43.26:327][395]LogLinker: Warning: While loading '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/Roads/Materials/CrossRoadMaterial.uasset' failed to load '/Game/Textures/CrossRoad-UVTemplate': Can't find file.
+[2022.04.17-22.43.26:327][395]LoadErrors: Failed to load /Game/Textures/CrossRoad-UVTemplate.CrossRoad-UVTemplate Referenced by MaterialExpressionTextureSample_2
+[2022.04.17-22.43.26:329][395]LogLinker: Warning: While loading '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/Roads/Materials/CrossRoadMaterial.uasset' failed to load '/Game/Textures/CrossRoad-UVTemplate': Can't find file.
+[2022.04.17-22.43.26:334][395]LogMaterial: Display: Missing cached shader map for material CrossRoadMaterial, compiling. 
+[2022.04.17-22.43.26:335][395]LogMaterial: Warning: C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\FYP-Prototype\PrototypeV2\Content\Roads\Materials\CrossRoadMaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.17-22.43.26:336][395]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.17-22.43.26:363][395]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Roads/Materials/CrossRoadMaterial.CrossRoadMaterial
+[2022.04.17-22.43.26:365][395]LogMaterial: Display: Missing cached shader map for material CrossRoadMaterial, compiling. 
+[2022.04.17-22.43.26:365][395]LogMaterial: Warning: /Engine/Transient.CrossRoadMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.17-22.43.26:365][395]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.17-22.43.26:472][395]LogMaterial: Display: Missing cached shader map for material CrossRoadMaterial, compiling. 
+[2022.04.17-22.43.26:473][395]LogMaterial: Warning: /Engine/Transient.CrossRoadMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.17-22.43.26:473][395]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.17-22.43.26:475][395]LogMaterial: Display: Missing cached shader map for material CrossRoadMaterial, compiling. 
+[2022.04.17-22.43.26:475][395]LogMaterial: Warning: /Engine/Transient.CrossRoadMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.17-22.43.26:475][395]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.17-22.43.26:482][395]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2022.04.17-22.43.26:483][395]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2022.04.17-22.43.26:495][395]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.04.17-22.43.26:495][395]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.04.17-22.43.26:495][395]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.04.17-22.43.26:495][395]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.04.17-22.43.26:568][395]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2022.04.17-22.43.29:949][563]LogSlate: Window 'CrossRoadMaterial' being destroyed
+[2022.04.17-22.43.29:998][563]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.04.17-22.43.29:998][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.17-22.43.31:059][620]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.43.31:079][621]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.43.31:079][621]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.43.31:079][621]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.43.31:079][621]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.43.31:079][621]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.43.31:079][621]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.43.31:079][621]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.43.31:079][621]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.43.32:252][671]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.17-22.43.32:252][671]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-22.43.32:640][683]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.17-22.43.33:134][703]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.43.33:146][703]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.43.33:146][703]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.43.33:146][703]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2022.04.17-22.43.33:146][703]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.04.17-22.43.33:146][703]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2022.04.17-22.43.33:417][717]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2022.04.17-22.43.33:493][718]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2022.04.17-22.43.33:633][725]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2022.04.17-22.43.34:195][752]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.04.17-22.43.34:639][775]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.04.17-22.43.34:687][778]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.04.17-22.43.35:465][810]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.04.17-22.43.35:465][810]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2022.04.17-22.43.35:465][810]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2022.04.17-22.43.35:465][810]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.43.35:465][810]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.17-22.43.35:465][810]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-22.43.35:465][810]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.43.39:431][ 36]LogMaterialEditor: Saving and Compiling material RoadMaterial
+[2022.04.17-22.43.39:971][ 36]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.43.40:000][ 36]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.43.40:000][ 36]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.43.40:000][ 36]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.43.40:000][ 36]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.43.40:000][ 36]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.43.40:001][ 36]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.43.40:001][ 36]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.43.40:001][ 36]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.43.40:043][ 36]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.43.40:209][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2022.04.17-22.43.40:231][ 36]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.17-22.43.41:341][ 36]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2022.04.17-22.43.41:341][ 36]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2022.04.17-22.43.41:341][ 36]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2022.04.17-22.43.41:888][ 36]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2022.04.17-22.43.41:888][ 36]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2022.04.17-22.43.41:888][ 36]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2022.04.17-22.43.41:888][ 36]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2022.04.17-22.43.41:888][ 36]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2022.04.17-22.43.42:104][ 36]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2022.04.17-22.43.42:104][ 36]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2022.04.17-22.43.42:104][ 36]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2022.04.17-22.43.42:104][ 36]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2022.04.17-22.43.42:117][ 36]TextureStreamingBuild: Display: Compiling optional shaders took 1.902 seconds.
+[2022.04.17-22.43.42:162][ 36]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.04.17-22.43.42:162][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2022.04.17-22.43.43:344][ 36]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.04.17-22.43.43:887][ 36]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.04.17-22.43.43:887][ 36]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.17-22.43.44:428][ 36]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.04.17-22.43.44:428][ 36]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.04.17-22.43.44:956][ 36]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/RoadMaterial62A28A224927E2CE8CB3518F6DBB50F6.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/Roads/Materials/RoadMaterial.uasset'
+[2022.04.17-22.43.44:990][ 36]AssetCheck: New page: Asset Save: RoadMaterial
+[2022.04.17-22.43.44:990][ 36]LogContentValidation: Display: Validating Material /Game/Roads/Materials/RoadMaterial.RoadMaterial
+[2022.04.17-22.43.44:995][ 36]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.04.17-22.43.44:996][ 36]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2022.04.17-22.43.44:996][ 36]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2022.04.17-22.43.44:996][ 36]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.43.44:996][ 36]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.17-22.43.44:996][ 36]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-22.43.44:996][ 36]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.43.53:861][560]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.17-22.43.53:874][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.17-22.43.53:875][560]PIE: New page: PIE session: VehicleExampleMap (18 Apr 2022, 00:43:53)
+[2022.04.17-22.43.53:875][560]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2022.04.17-22.43.53:899][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023807s)
+[2022.04.17-22.43.53:899][560]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2022.04.17-22.43.53:899][560]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000153AF3C5A00), frame # 30560
+[2022.04.17-22.43.53:899][560]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001530545B880), frame # 30560
+[2022.04.17-22.43.53:899][560]LogPlayLevel: PIE: World Init took: (0.001223s)
+[2022.04.17-22.43.53:899][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.025191s)
+[2022.04.17-22.43.53:926][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.04.17-22.43.53:928][560]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.17-22.43.53:928][560]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.17-22.43.53:928][560]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.17-22.43.53:928][560]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.17-22.43.53:928][560]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.17-22.43.53:928][560]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.17-22.43.53:928][560]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.17-22.43.53:928][560]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.17-22.43.53:928][560]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.17-22.43.53:928][560]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.17-22.43.53:936][560]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.17-22.43.53:936][560]LogAudioMixer: Display: 1: FrontRight
+[2022.04.17-22.43.53:959][560]LogAudioMixer: Display: Using Audio Device Headphones (Elgato Wave:1)
+[2022.04.17-22.43.53:959][560]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.17-22.43.53:960][560]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.17-22.43.53:960][560]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.17-22.43.53:960][560]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.17-22.43.53:973][560]LogInit: FAudioDevice initialized.
+[2022.04.17-22.43.53:984][560]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.17-22.43.53:996][560]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2022.04.17-23.43.53
+[2022.04.17-22.43.53:997][560]LogWorld: Bringing up level for play took: 0.008070
+[2022.04.17-22.43.53:997][560]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.04.17-22.43.54:001][560]PIE: Server logged in
+[2022.04.17-22.43.54:002][560]PIE: Play in editor total start time 0.129 seconds.
+[2022.04.17-22.44.00:606][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.17-22.44.00:606][951]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2022.04.17-22.44.00:606][951]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.17-22.44.00:607][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.17-22.44.00:618][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.17-22.44.00:620][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.17-22.44.00:639][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.17-22.44.00:661][951]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001530545B880), frame # 30951
+[2022.04.17-22.44.00:661][951]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000153AF3C5A00), frame # 30951
+[2022.04.17-22.44.00:663][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.04.17-22.44.00:703][952]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.04.17-22.44.03:132][ 74]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.44.03:147][ 75]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.44.03:147][ 75]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.44.03:147][ 75]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.44.03:147][ 75]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.44.03:147][ 75]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.44.03:147][ 75]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.44.03:147][ 75]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.44.03:147][ 75]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.44.04:210][132]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.17-22.44.04:242][134]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-22.44.04:681][160]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.17-22.44.05:443][205]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.04.17-22.44.05:443][205]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2022.04.17-22.44.05:443][205]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2022.04.17-22.44.05:444][205]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.44.05:444][205]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.17-22.44.05:444][205]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-22.44.05:444][205]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.44.10:636][503]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.44.10:664][504]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.44.10:664][504]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.44.10:665][504]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.44.10:665][504]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.44.10:665][504]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.44.10:665][504]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.44.10:665][504]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.44.10:665][504]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.44.11:713][556]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.17-22.44.11:852][560]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-22.44.12:200][578]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.17-22.44.12:913][619]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.04.17-22.44.12:913][619]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2022.04.17-22.44.12:913][619]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2022.04.17-22.44.12:914][619]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.44.12:914][619]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.17-22.44.12:914][619]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-22.44.12:914][619]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.44.13:081][629]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.44.13:089][629]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.44.13:100][630]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.44.13:100][630]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.44.13:100][630]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.44.13:100][630]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.44.13:100][630]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.44.13:100][630]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.44.13:100][630]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.44.13:100][630]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.44.14:188][690]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.17-22.44.14:189][690]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-22.44.14:568][710]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.17-22.44.15:386][756]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.04.17-22.44.15:386][756]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2022.04.17-22.44.15:386][756]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2022.04.17-22.44.15:386][756]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.44.15:386][756]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.17-22.44.15:386][756]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-22.44.15:386][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.44.20:262][ 34]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.44.20:283][ 35]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.44.20:283][ 35]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.44.20:284][ 35]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.44.20:284][ 35]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.44.20:284][ 35]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.44.20:284][ 35]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.44.20:284][ 35]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.44.20:284][ 35]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.44.21:383][ 85]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.04.17-22.44.21:383][ 85]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.04.17-22.44.21:816][111]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.17-22.44.22:521][153]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.04.17-22.44.22:521][153]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2022.04.17-22.44.22:521][153]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2022.04.17-22.44.22:521][153]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.44.22:521][153]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.17-22.44.22:521][153]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-22.44.22:521][153]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.44.26:635][397]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.44.26:644][397]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.44.26:656][398]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.44.26:656][398]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.44.26:656][398]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.44.26:656][398]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.44.26:656][398]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.44.26:656][398]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.44.26:656][398]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.44.26:656][398]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.44.27:678][456]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.17-22.44.27:727][459]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-22.44.28:106][482]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.17-22.44.28:779][522]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.04.17-22.44.28:779][522]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2022.04.17-22.44.28:779][522]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.04.17-22.44.28:779][522]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.44.28:779][522]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.17-22.44.28:780][522]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-22.44.28:780][522]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.44.30:548][628]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.44.30:556][628]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.44.30:566][629]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.44.30:566][629]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.44.30:566][629]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.44.30:566][629]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.44.30:566][629]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.44.30:566][629]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.44.30:566][629]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.44.30:566][629]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.44.31:605][690]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.17-22.44.31:637][692]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-22.44.32:018][715]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.17-22.44.32:692][755]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.04.17-22.44.32:692][755]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2022.04.17-22.44.32:692][755]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2022.04.17-22.44.32:692][755]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.44.32:692][755]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.17-22.44.32:692][755]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-22.44.32:692][755]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.44.37:213][ 26]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.44.37:220][ 26]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.44.37:232][ 27]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.44.37:232][ 27]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.44.37:232][ 27]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.44.37:232][ 27]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.44.37:232][ 27]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.44.37:232][ 27]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.44.37:232][ 27]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.44.37:232][ 27]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.44.38:348][ 92]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.04.17-22.44.38:366][ 93]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.04.17-22.44.38:681][112]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.17-22.44.39:610][167]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.04.17-22.44.39:610][167]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2022.04.17-22.44.39:610][167]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2022.04.17-22.44.39:610][167]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.44.39:610][167]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.17-22.44.39:610][167]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-22.44.39:610][167]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.44.42:630][328]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.44.42:655][330]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.44.42:655][330]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.44.42:655][330]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.44.42:655][330]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.44.42:655][330]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.44.42:655][330]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.44.42:655][330]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.44.42:655][330]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.44.43:722][384]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.17-22.44.43:739][385]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-22.44.44:155][410]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.17-22.44.44:929][456]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.04.17-22.44.44:929][456]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2022.04.17-22.44.44:929][456]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2022.04.17-22.44.44:929][456]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.44.44:929][456]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.17-22.44.44:929][456]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-22.44.44:929][456]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.44.47:617][614]LogMaterialEditor: Saving and Compiling material RoadMaterial
+[2022.04.17-22.44.48:187][614]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.44.48:234][614]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.44.48:234][614]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.44.48:234][614]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.44.48:234][614]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.44.48:234][614]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.44.48:234][614]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.44.48:234][614]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.44.48:234][614]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.44.48:255][614]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.44.48:401][614]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2022.04.17-22.44.48:421][614]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.17-22.44.49:510][614]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2022.04.17-22.44.49:510][614]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2022.04.17-22.44.49:510][614]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2022.04.17-22.44.50:051][614]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2022.04.17-22.44.50:051][614]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2022.04.17-22.44.50:051][614]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2022.04.17-22.44.50:051][614]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2022.04.17-22.44.50:051][614]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2022.04.17-22.44.50:271][614]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2022.04.17-22.44.50:271][614]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2022.04.17-22.44.50:272][614]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2022.04.17-22.44.50:272][614]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2022.04.17-22.44.50:279][614]TextureStreamingBuild: Display: Compiling optional shaders took 1.871 seconds.
+[2022.04.17-22.44.50:334][614]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.04.17-22.44.50:334][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.04.17-22.44.52:083][614]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.04.17-22.44.52:083][614]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2022.04.17-22.44.52:083][614]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.04.17-22.44.52:624][614]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.04.17-22.44.52:624][614]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.04.17-22.44.53:323][614]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/RoadMaterial08584C4447F48FE5154895BC299553EC.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/Roads/Materials/RoadMaterial.uasset'
+[2022.04.17-22.44.53:359][614]AssetCheck: New page: Asset Save: RoadMaterial
+[2022.04.17-22.44.53:359][614]LogContentValidation: Display: Validating Material /Game/Roads/Materials/RoadMaterial.RoadMaterial
+[2022.04.17-22.44.53:365][614]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.04.17-22.44.53:365][614]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2022.04.17-22.44.53:365][614]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2022.04.17-22.44.53:365][614]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.44.53:365][614]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.17-22.44.53:365][614]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-22.44.53:365][614]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.45.07:399][447]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.17-22.45.07:418][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.17-22.45.07:418][447]PIE: New page: PIE session: VehicleExampleMap (18 Apr 2022, 00:45:07)
+[2022.04.17-22.45.07:419][447]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2022.04.17-22.45.07:447][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029033s)
+[2022.04.17-22.45.07:449][447]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2022.04.17-22.45.07:449][447]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001542104B800), frame # 34447
+[2022.04.17-22.45.07:449][447]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000153993E4180), frame # 34447
+[2022.04.17-22.45.07:449][447]LogPlayLevel: PIE: World Init took: (0.001686s)
+[2022.04.17-22.45.07:450][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.030929s)
+[2022.04.17-22.45.07:482][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.04.17-22.45.07:485][447]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.17-22.45.07:485][447]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.17-22.45.07:485][447]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.17-22.45.07:485][447]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.17-22.45.07:485][447]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.17-22.45.07:485][447]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.17-22.45.07:485][447]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.17-22.45.07:485][447]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.17-22.45.07:486][447]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.17-22.45.07:486][447]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.17-22.45.07:494][447]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.17-22.45.07:494][447]LogAudioMixer: Display: 1: FrontRight
+[2022.04.17-22.45.07:522][447]LogAudioMixer: Display: Using Audio Device Headphones (Elgato Wave:1)
+[2022.04.17-22.45.07:523][447]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.17-22.45.07:523][447]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.17-22.45.07:523][447]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.17-22.45.07:523][447]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.17-22.45.07:542][447]LogInit: FAudioDevice initialized.
+[2022.04.17-22.45.07:552][447]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.17-22.45.07:564][447]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2022.04.17-23.45.07
+[2022.04.17-22.45.07:565][447]LogWorld: Bringing up level for play took: 0.009422
+[2022.04.17-22.45.07:565][447]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.04.17-22.45.07:570][447]PIE: Server logged in
+[2022.04.17-22.45.07:571][447]PIE: Play in editor total start time 0.154 seconds.
+[2022.04.17-22.45.18:526][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.17-22.45.18:526][ 97]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2022.04.17-22.45.18:526][ 97]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.17-22.45.18:526][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.17-22.45.18:530][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.17-22.45.18:533][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.17-22.45.18:552][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.17-22.45.18:571][ 97]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000153993E4180), frame # 35097
+[2022.04.17-22.45.18:571][ 97]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001542104B800), frame # 35097
+[2022.04.17-22.45.18:573][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.04.17-22.45.18:609][ 98]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.04.17-22.49.05:457][443]LogEditorFactories: Performing atomic reimport of [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/Textures/Road-TXTMap.png]
+[2022.04.17-22.49.05:464][443]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/Textures/Road-TXTMap.png)
+[2022.04.17-22.49.05:501][443]LogTexture: Display: Building textures: Road-TXTMap (AutoDXT, 1024X1024)
+[2022.04.17-22.49.06:070][443]LogEditorFactories: -- imported successfully
+[2022.04.17-22.51.33:812][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.04.17-22.51.33:816][569]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/VehicleExampleMap' took 0.022
+[2022.04.17-22.51.33:818][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Road-TXTMap] ([1] browsable assets)...
+[2022.04.17-22.51.33:823][569]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Road-TXTMap.Road-TXTMap]
+[2022.04.17-22.51.33:823][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Road-TXTMap]
+[2022.04.17-22.51.33:832][569]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/Road-TXTMap_Auto248D05BAD413FA28C47F7DA9A2A850635.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/Autosaves/Game/Textures/Road-TXTMap_Auto2.uasset'
+[2022.04.17-22.51.33:833][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Road-NORMALMap] ([1] browsable assets)...
+[2022.04.17-22.51.33:841][569]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Road-NORMALMap.Road-NORMALMap]
+[2022.04.17-22.51.33:841][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Road-NORMALMap]
+[2022.04.17-22.51.33:850][569]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/Road-NORMALMap_Auto25D1480394EE55A78BA482E84F7EB77B1.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/Autosaves/Game/Textures/Road-NORMALMap_Auto2.uasset'
+[2022.04.17-22.51.33:851][569]LogFileHelpers: Auto-saving content packages took 0.035
+[2022.04.17-22.52.59:517][926]LogEditorFactories: Performing atomic reimport of [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/Textures/Road-ROUGHMap.png]
+[2022.04.17-22.52.59:522][926]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/Textures/Road-ROUGHMap.png)
+[2022.04.17-22.52.59:559][926]LogTexture: Display: Building textures: Road-ROUGHMap (AutoDXT, 1024X1024)
+[2022.04.17-22.53.00:052][926]LogEditorFactories: -- imported successfully
+[2022.04.17-22.53.00:070][926]LogEditorFactories: Performing atomic reimport of [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/Textures/Road-NORMALMap.png]
+[2022.04.17-22.53.00:083][926]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/Textures/Road-NORMALMap.png)
+[2022.04.17-22.53.00:126][926]LogTexture: Display: Building textures: Road-NORMALMap (BC5, 1024X1024)
+[2022.04.17-22.53.00:196][926]LogEditorFactories: -- imported successfully
+[2022.04.17-22.53.04:209][963]LogEditorFactories: Performing atomic reimport of [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/Textures/Road-TXTMap.png]
+[2022.04.17-22.53.04:215][963]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/Textures/Road-TXTMap.png)
+[2022.04.17-22.53.04:248][963]LogTexture: Display: Building textures: Road-TXTMap (AutoDXT, 1024X1024)
+[2022.04.17-22.53.04:795][963]LogEditorFactories: -- imported successfully
+[2022.04.17-22.53.19:687][776]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.17-22.53.19:700][776]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.17-22.53.19:700][776]PIE: New page: PIE session: VehicleExampleMap (18 Apr 2022, 00:53:19)
+[2022.04.17-22.53.19:701][776]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2022.04.17-22.53.19:726][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025752s)
+[2022.04.17-22.53.19:727][776]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2022.04.17-22.53.19:727][776]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001531459FA00), frame # 38776
+[2022.04.17-22.53.19:727][776]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000153F391B380), frame # 38776
+[2022.04.17-22.53.19:727][776]LogPlayLevel: PIE: World Init took: (0.001700s)
+[2022.04.17-22.53.19:727][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.027634s)
+[2022.04.17-22.53.19:753][776]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.04.17-22.53.19:757][776]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.17-22.53.19:758][776]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.17-22.53.19:758][776]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.17-22.53.19:758][776]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.17-22.53.19:758][776]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.17-22.53.19:758][776]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.17-22.53.19:758][776]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.17-22.53.19:758][776]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.17-22.53.19:758][776]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.17-22.53.19:758][776]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.17-22.53.19:767][776]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.17-22.53.19:767][776]LogAudioMixer: Display: 1: FrontRight
+[2022.04.17-22.53.19:788][776]LogAudioMixer: Display: Using Audio Device Headphones (Elgato Wave:1)
+[2022.04.17-22.53.19:788][776]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.17-22.53.19:788][776]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.17-22.53.19:788][776]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.17-22.53.19:789][776]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.17-22.53.19:803][776]LogInit: FAudioDevice initialized.
+[2022.04.17-22.53.19:809][776]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.17-22.53.19:818][776]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2022.04.17-23.53.19
+[2022.04.17-22.53.19:818][776]LogWorld: Bringing up level for play took: 0.005772
+[2022.04.17-22.53.19:818][776]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.04.17-22.53.19:822][776]PIE: Server logged in
+[2022.04.17-22.53.19:823][776]PIE: Play in editor total start time 0.124 seconds.
+[2022.04.17-22.53.44:911][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.17-22.53.44:911][277]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2022.04.17-22.53.44:911][277]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.17-22.53.44:912][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.17-22.53.44:918][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.17-22.53.44:921][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.17-22.53.44:952][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.17-22.53.44:954][277]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000153F391B380), frame # 40277
+[2022.04.17-22.53.44:954][277]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001531459FA00), frame # 40277
+[2022.04.17-22.53.44:956][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.04.17-22.53.44:995][278]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.04.17-22.53.48:569][473]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.53.48:580][473]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.53.48:597][475]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.53.48:598][475]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.53.48:598][475]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.53.48:598][475]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.53.48:598][475]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.53.48:598][475]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.53.48:598][475]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.53.48:598][475]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.53.50:380][578]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.17-22.53.50:380][578]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-22.53.50:917][610]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.17-22.53.51:605][651]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.04.17-22.53.51:605][651]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2022.04.17-22.53.51:605][651]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.04.17-22.53.51:605][651]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.53.51:605][651]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.17-22.53.51:605][651]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-22.53.51:605][651]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.54.00:888][202]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.54.00:895][202]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.54.00:909][204]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.54.00:910][204]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.54.00:910][204]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.54.00:910][204]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.54.00:910][204]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.54.00:910][204]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.54.00:910][204]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.54.00:910][204]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.54.01:980][264]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.17-22.54.02:032][267]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-22.54.02:517][292]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.17-22.54.03:173][327]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.04.17-22.54.03:173][327]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2022.04.17-22.54.03:173][327]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.04.17-22.54.03:173][327]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.54.03:173][327]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.17-22.54.03:173][327]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-22.54.03:173][327]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.54.07:088][557]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.54.07:096][557]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.54.07:110][559]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.54.07:110][559]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.54.07:110][559]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.54.07:110][559]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.54.07:110][559]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.54.07:110][559]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.54.07:110][559]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.54.07:110][559]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.54.07:552][584]LogMaterialEditor: Saving and Compiling material RoadMaterial
+[2022.04.17-22.54.08:921][584]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.17-22.54.08:921][584]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-22.54.08:921][584]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.17-22.54.08:936][584]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.54.08:988][584]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.54.08:988][584]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.54.08:988][584]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2022.04.17-22.54.08:988][584]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.04.17-22.54.08:988][584]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2022.04.17-22.54.09:050][584]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.54.09:151][584]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2022.04.17-22.54.09:202][584]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.04.17-22.54.09:220][584]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.17-22.54.09:762][584]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 29
+[2022.04.17-22.54.09:762][584]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 30
+[2022.04.17-22.54.10:306][584]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 29
+[2022.04.17-22.54.10:306][584]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2022.04.17-22.54.10:306][584]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 27
+[2022.04.17-22.54.10:843][584]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2022.04.17-22.54.10:843][584]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2022.04.17-22.54.10:843][584]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2022.04.17-22.54.10:843][584]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2022.04.17-22.54.10:843][584]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2022.04.17-22.54.11:023][584]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2022.04.17-22.54.11:023][584]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2022.04.17-22.54.11:023][584]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.04.17-22.54.11:023][584]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2022.04.17-22.54.11:031][584]TextureStreamingBuild: Display: Compiling optional shaders took 1.824 seconds.
+[2022.04.17-22.54.11:079][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.04.17-22.54.11:705][584]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.04.17-22.54.12:788][584]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.04.17-22.54.12:788][584]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.04.17-22.54.12:788][584]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.17-22.54.13:329][584]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.04.17-22.54.13:329][584]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.04.17-22.54.13:974][584]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/RoadMaterial0AF1BE43462EED19DCAE388FCBEF6DFC.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/Roads/Materials/RoadMaterial.uasset'
+[2022.04.17-22.54.14:022][584]AssetCheck: New page: Asset Save: RoadMaterial
+[2022.04.17-22.54.14:022][584]LogContentValidation: Display: Validating Material /Game/Roads/Materials/RoadMaterial.RoadMaterial
+[2022.04.17-22.54.14:023][584]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.04.17-22.54.14:023][584]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2022.04.17-22.54.14:023][584]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2022.04.17-22.54.14:023][584]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.54.14:023][584]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.17-22.54.14:023][584]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-22.54.14:023][584]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.54.25:609][271]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.54.25:687][272]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.54.25:687][272]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.54.25:687][272]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.54.25:687][272]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.54.25:687][272]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.54.25:687][272]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.54.25:687][272]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.54.25:687][272]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.54.26:782][323]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.17-22.54.26:810][324]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-22.54.27:169][341]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.17-22.54.27:972][388]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.04.17-22.54.27:972][388]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2022.04.17-22.54.27:972][388]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2022.04.17-22.54.27:972][388]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.54.27:972][388]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.17-22.54.27:972][388]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-22.54.27:972][388]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.54.29:489][477]LogMaterialEditor: Saving and Compiling material RoadMaterial
+[2022.04.17-22.54.30:047][477]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.54.30:091][477]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.54.30:091][477]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.54.30:091][477]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.54.30:091][477]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.54.30:091][477]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.54.30:091][477]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.54.30:091][477]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.54.30:091][477]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.54.30:113][477]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.54.30:259][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.04.17-22.54.30:279][477]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.17-22.54.31:382][477]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2022.04.17-22.54.31:382][477]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2022.04.17-22.54.31:382][477]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2022.04.17-22.54.31:925][477]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2022.04.17-22.54.31:925][477]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2022.04.17-22.54.31:925][477]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2022.04.17-22.54.31:925][477]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2022.04.17-22.54.31:925][477]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2022.04.17-22.54.32:056][477]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2022.04.17-22.54.32:056][477]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2022.04.17-22.54.32:056][477]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2022.04.17-22.54.32:056][477]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.04.17-22.54.32:060][477]TextureStreamingBuild: Display: Compiling optional shaders took 1.797 seconds.
+[2022.04.17-22.54.32:103][477]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.04.17-22.54.32:103][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.04.17-22.54.33:286][477]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.04.17-22.54.33:824][477]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2022.04.17-22.54.33:824][477]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.04.17-22.54.34:362][477]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-22.54.34:362][477]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.04.17-22.54.34:919][477]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/RoadMaterial26D32A4341E356C3B12657BC47C67901.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/Roads/Materials/RoadMaterial.uasset'
+[2022.04.17-22.54.34:965][477]AssetCheck: New page: Asset Save: RoadMaterial
+[2022.04.17-22.54.34:965][477]LogContentValidation: Display: Validating Material /Game/Roads/Materials/RoadMaterial.RoadMaterial
+[2022.04.17-22.54.34:972][477]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.04.17-22.54.34:972][477]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2022.04.17-22.54.34:972][477]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2022.04.17-22.54.34:972][477]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.54.34:972][477]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.17-22.54.34:972][477]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-22.54.34:972][477]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.58.56:699][209]LogEditorFactories: Performing atomic reimport of [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/Textures/Road-TXTMap.png]
+[2022.04.17-22.58.56:706][209]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/Textures/Road-TXTMap.png)
+[2022.04.17-22.58.56:739][209]LogTexture: Display: Building textures: Road-TXTMap (AutoDXT, 1024X1024)
+[2022.04.17-22.58.57:297][209]LogEditorFactories: -- imported successfully
+[2022.04.17-22.59.06:950][712]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.59.06:965][713]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.59.06:965][713]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.59.06:965][713]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.59.06:965][713]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.59.06:965][713]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.59.06:965][713]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.59.06:965][713]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.59.06:965][713]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.59.08:552][783]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.04.17-22.59.08:583][785]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.04.17-22.59.08:782][794]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.59.09:042][803]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2022.04.17-22.59.09:406][819]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.04.17-22.59.09:423][820]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2022.04.17-22.59.09:423][820]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2022.04.17-22.59.09:440][821]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2022.04.17-22.59.09:440][821]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2022.04.17-22.59.10:140][853]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.04.17-22.59.10:230][856]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.59.10:548][872]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.04.17-22.59.10:574][872]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.59.10:831][880]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2022.04.17-22.59.11:093][890]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.59.11:228][898]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2022.04.17-22.59.11:246][899]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.04.17-22.59.11:310][903]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.59.11:345][905]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.04.17-22.59.11:760][928]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.04.17-22.59.11:779][929]LogMaterialEditor: Saving and Compiling material RoadMaterial
+[2022.04.17-22.59.13:113][929]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.04.17-22.59.13:113][929]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.04.17-22.59.13:113][929]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.04.17-22.59.13:113][929]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.04.17-22.59.13:134][929]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.59.13:186][929]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.59.13:186][929]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.59.13:186][929]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2022.04.17-22.59.13:186][929]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2022.04.17-22.59.13:189][929]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2022.04.17-22.59.13:189][929]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.04.17-22.59.13:240][929]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.59.13:362][929]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.04.17-22.59.13:408][929]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 28
+[2022.04.17-22.59.13:408][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.04.17-22.59.13:431][929]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.17-22.59.14:524][929]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 29
+[2022.04.17-22.59.14:524][929]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 28
+[2022.04.17-22.59.14:524][929]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2022.04.17-22.59.15:067][929]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 26
+[2022.04.17-22.59.15:067][929]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2022.04.17-22.59.15:067][929]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2022.04.17-22.59.15:067][929]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2022.04.17-22.59.15:067][929]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2022.04.17-22.59.15:238][929]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2022.04.17-22.59.15:238][929]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.04.17-22.59.15:238][929]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.04.17-22.59.15:238][929]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2022.04.17-22.59.15:248][929]TextureStreamingBuild: Display: Compiling optional shaders took 1.831 seconds.
+[2022.04.17-22.59.15:292][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.04.17-22.59.15:935][929]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2022.04.17-22.59.17:015][929]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.04.17-22.59.17:015][929]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2022.04.17-22.59.17:015][929]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2022.04.17-22.59.17:015][929]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-22.59.17:555][929]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.04.17-22.59.18:143][929]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/RoadMaterial9FF5C7E746CCE2A3118470954B101EDA.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/Roads/Materials/RoadMaterial.uasset'
+[2022.04.17-22.59.18:189][929]AssetCheck: New page: Asset Save: RoadMaterial
+[2022.04.17-22.59.18:189][929]LogContentValidation: Display: Validating Material /Game/Roads/Materials/RoadMaterial.RoadMaterial
+[2022.04.17-22.59.18:190][929]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.04.17-22.59.18:190][929]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2022.04.17-22.59.18:190][929]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.04.17-22.59.18:190][929]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.59.18:191][929]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.17-22.59.18:191][929]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.17-22.59.18:191][929]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-22.59.26:957][448]LogEditorViewport: Clicking on Actor (LMB): RoadActor_C (RoadActor4)
+[2022.04.17-22.59.36:605][ 19]Cmd: TRANSACTION UNDO
+[2022.04.17-22.59.36:605][ 19]LogEditorTransaction: Undo Set Scale
+[2022.04.17-22.59.36:616][ 19]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.59.36:629][ 19]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-22.59.36:629][ 19]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-22.59.36:629][ 19]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.59.36:629][ 19]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-22.59.36:629][ 19]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-22.59.36:629][ 19]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-22.59.36:629][ 19]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-22.59.36:629][ 19]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-22.59.37:149][ 28]Cmd: TRANSACTION UNDO
+[2022.04.17-22.59.37:150][ 28]LogEditorTransaction: Undo Set Scale
+[2022.04.17-22.59.37:162][ 28]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.59.37:558][ 42]Cmd: TRANSACTION UNDO
+[2022.04.17-22.59.37:558][ 42]LogEditorTransaction: Undo Set Scale
+[2022.04.17-22.59.37:582][ 42]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-22.59.37:698][ 46]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2022.04.17-22.59.37:717][ 47]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2022.04.17-22.59.38:160][ 68]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-22.59.38:375][ 77]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.04.17-22.59.38:472][ 82]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2022.04.17-22.59.38:490][ 83]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.04.17-22.59.38:490][ 83]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.04.17-22.59.38:560][ 86]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.04.17-22.59.39:399][123]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.17-22.59.39:421][124]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-22.59.39:457][126]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.04.17-22.59.40:553][188]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.04.17-22.59.40:554][188]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2022.04.17-22.59.40:554][188]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.04.17-22.59.40:554][188]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-22.59.40:554][188]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.17-22.59.40:554][188]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.17-22.59.40:554][188]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-23.01.59:703][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.04.17-23.01.59:825][861]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/VehicleExampleMap_Auto329C9FCDB49F1D6DD6BE72893BFACAD51.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/Autosaves/Game/VehicleBP/Maps/VehicleExampleMap_Auto3.umap'
+[2022.04.17-23.01.59:827][861]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/VehicleExampleMap' took 0.143
+[2022.04.17-23.01.59:827][861]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.143
+[2022.04.17-23.01.59:828][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Road-TXTMap] ([1] browsable assets)...
+[2022.04.17-23.01.59:834][861]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Road-TXTMap.Road-TXTMap]
+[2022.04.17-23.01.59:834][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Road-TXTMap]
+[2022.04.17-23.01.59:844][861]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/Road-TXTMap_Auto3199DD757467AFEC32B51D3A6E9488E18.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/Autosaves/Game/Textures/Road-TXTMap_Auto3.uasset'
+[2022.04.17-23.01.59:846][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Road-ROUGHMap] ([1] browsable assets)...
+[2022.04.17-23.01.59:854][861]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Road-ROUGHMap.Road-ROUGHMap]
+[2022.04.17-23.01.59:854][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Road-ROUGHMap]
+[2022.04.17-23.01.59:864][861]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/Road-ROUGHMap_Auto326B6EDDF4FE7AFC50AB72DB3FFE1CB12.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/Autosaves/Game/Textures/Road-ROUGHMap_Auto3.uasset'
+[2022.04.17-23.01.59:866][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Road-NORMALMap] ([1] browsable assets)...
+[2022.04.17-23.01.59:875][861]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Road-NORMALMap.Road-NORMALMap]
+[2022.04.17-23.01.59:875][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Road-NORMALMap]
+[2022.04.17-23.01.59:890][861]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/Road-NORMALMap_Auto35ED9F56B4D892C045871D8BF3095C1AB.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/Autosaves/Game/Textures/Road-NORMALMap_Auto3.uasset'
+[2022.04.17-23.01.59:891][861]LogFileHelpers: Auto-saving content packages took 0.064
+[2022.04.17-23.02.55:268][108]LogEditorFactories: Performing atomic reimport of [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/Textures/Road-ROUGHMap.png]
+[2022.04.17-23.02.55:273][108]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/Textures/Road-ROUGHMap.png)
+[2022.04.17-23.02.55:297][108]LogTexture: Display: Building textures: Road-ROUGHMap (AutoDXT, 1024X1024)
+[2022.04.17-23.02.55:819][108]LogEditorFactories: -- imported successfully
+[2022.04.17-23.02.55:833][108]LogEditorFactories: Performing atomic reimport of [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/Textures/Road-NORMALMap.png]
+[2022.04.17-23.02.55:840][108]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/Textures/Road-NORMALMap.png)
+[2022.04.17-23.02.55:873][108]LogTexture: Display: Building textures: Road-NORMALMap (BC5, 1024X1024)
+[2022.04.17-23.02.55:930][108]LogEditorFactories: -- imported successfully
+[2022.04.17-23.03.00:381][219]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-23.03.00:390][219]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-23.03.00:390][219]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-23.03.00:390][219]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-23.03.00:390][219]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-23.03.00:390][219]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-23.03.00:390][219]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-23.03.00:390][219]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-23.03.00:390][219]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-23.03.00:392][219]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2022.04.17-23.03.01:681][274]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-23.03.01:709][274]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2022.04.17-23.03.01:982][286]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2022.04.17-23.03.02:033][289]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2022.04.17-23.03.02:326][301]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2022.04.17-23.03.02:626][311]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2022.04.17-23.03.02:627][311]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2022.04.17-23.03.02:627][311]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2022.04.17-23.03.02:665][312]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2022.04.17-23.03.02:747][312]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2022.04.17-23.03.02:963][319]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2022.04.17-23.03.03:099][324]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2022.04.17-23.03.03:459][337]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-23.03.03:545][342]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.04.17-23.03.03:705][351]LogMaterialEditor: Saving and Compiling material RoadMaterial
+[2022.04.17-23.03.05:163][351]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-23.03.05:163][351]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.04.17-23.03.05:163][351]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.04.17-23.03.05:163][351]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.04.17-23.03.05:163][351]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.04.17-23.03.05:163][351]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-23.03.05:163][351]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.04.17-23.03.05:177][351]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-23.03.05:226][351]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-23.03.05:226][351]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-23.03.05:226][351]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-23.03.05:226][351]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-23.03.05:226][351]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-23.03.05:226][351]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.04.17-23.03.05:256][351]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.04.17-23.03.05:271][351]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-23.03.05:385][351]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-23.03.05:427][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.04.17-23.03.05:447][351]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.17-23.03.06:552][351]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2022.04.17-23.03.06:552][351]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2022.04.17-23.03.06:552][351]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2022.04.17-23.03.07:098][351]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2022.04.17-23.03.07:098][351]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 25
+[2022.04.17-23.03.07:098][351]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2022.04.17-23.03.07:098][351]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2022.04.17-23.03.07:098][351]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2022.04.17-23.03.07:252][351]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2022.04.17-23.03.07:252][351]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2022.04.17-23.03.07:252][351]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.04.17-23.03.07:259][351]TextureStreamingBuild: Display: Compiling optional shaders took 1.823 seconds.
+[2022.04.17-23.03.07:299][351]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.04.17-23.03.07:299][351]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.04.17-23.03.07:299][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.04.17-23.03.09:076][351]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.04.17-23.03.09:076][351]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2022.04.17-23.03.09:630][351]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.04.17-23.03.10:183][351]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.04.17-23.03.10:183][351]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.17-23.03.11:884][351]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/RoadMaterial01D33F5F4168BF67826381BDD3EE87A4.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/Roads/Materials/RoadMaterial.uasset'
+[2022.04.17-23.03.11:935][351]AssetCheck: New page: Asset Save: RoadMaterial
+[2022.04.17-23.03.11:935][351]LogContentValidation: Display: Validating Material /Game/Roads/Materials/RoadMaterial.RoadMaterial
+[2022.04.17-23.03.11:935][351]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.04.17-23.03.11:935][351]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2022.04.17-23.03.11:935][351]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2022.04.17-23.03.11:935][351]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-23.03.11:935][351]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.17-23.03.11:935][351]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-23.03.11:936][351]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-23.03.33:626][188]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.17-23.03.33:638][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.17-23.03.33:638][188]PIE: New page: PIE session: VehicleExampleMap (18 Apr 2022, 01:03:33)
+[2022.04.17-23.03.33:639][188]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2022.04.17-23.03.33:663][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024085s)
+[2022.04.17-23.03.33:664][188]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2022.04.17-23.03.33:664][188]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001533833CA00), frame # 48188
+[2022.04.17-23.03.33:664][188]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000153145D39C0), frame # 48188
+[2022.04.17-23.03.33:664][188]LogPlayLevel: PIE: World Init took: (0.001648s)
+[2022.04.17-23.03.33:664][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.025884s)
+[2022.04.17-23.03.33:692][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.04.17-23.03.33:696][188]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.17-23.03.33:696][188]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.17-23.03.33:696][188]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.17-23.03.33:696][188]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.17-23.03.33:696][188]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.17-23.03.33:696][188]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.17-23.03.33:696][188]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.17-23.03.33:696][188]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.17-23.03.33:697][188]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.17-23.03.33:697][188]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.17-23.03.33:705][188]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.17-23.03.33:705][188]LogAudioMixer: Display: 1: FrontRight
+[2022.04.17-23.03.33:730][188]LogAudioMixer: Display: Using Audio Device Headphones (Elgato Wave:1)
+[2022.04.17-23.03.33:730][188]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.17-23.03.33:730][188]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.17-23.03.33:730][188]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.17-23.03.33:730][188]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.17-23.03.33:744][188]LogInit: FAudioDevice initialized.
+[2022.04.17-23.03.33:755][188]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.17-23.03.33:763][188]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2022.04.18-00.03.33
+[2022.04.17-23.03.33:764][188]LogWorld: Bringing up level for play took: 0.005972
+[2022.04.17-23.03.33:764][188]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.04.17-23.03.33:768][188]PIE: Server logged in
+[2022.04.17-23.03.33:769][188]PIE: Play in editor total start time 0.131 seconds.
+[2022.04.17-23.03.40:758][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.17-23.03.40:758][603]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2022.04.17-23.03.40:758][603]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.17-23.03.40:759][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.17-23.03.40:767][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.17-23.03.40:770][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.17-23.03.40:786][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.17-23.03.40:803][603]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000153145D39C0), frame # 48603
+[2022.04.17-23.03.40:803][603]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001533833CA00), frame # 48603
+[2022.04.17-23.03.40:805][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.04.17-23.03.40:837][604]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.04.17-23.03.42:655][711]LogEditorViewport: Clicking on Actor (LMB): CrossRoadActorFinal_C (CrossRoadActorFinal)
+[2022.04.17-23.03.47:046][966]Cmd: TRANSACTION UNDO
+[2022.04.17-23.03.47:046][966]LogEditorTransaction: Undo Set Location
+[2022.04.17-23.03.47:052][966]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-23.03.47:157][967]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-23.03.47:157][967]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-23.03.47:157][967]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-23.03.47:158][967]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-23.03.47:158][967]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-23.03.47:158][967]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-23.03.47:158][967]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-23.03.47:158][967]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-23.03.48:549][ 20]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.17-23.03.48:691][ 27]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-23.03.49:059][ 46]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.17-23.03.49:932][ 95]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.04.17-23.03.49:932][ 95]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2022.04.17-23.03.49:932][ 95]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2022.04.17-23.03.49:932][ 95]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-23.03.49:932][ 95]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.17-23.03.49:932][ 95]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-23.03.49:932][ 95]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-23.04.22:555][ 46]Cmd: TRANSACTION UNDO
+[2022.04.17-23.04.22:555][ 46]LogEditorTransaction: Undo Select Brush Surface
+[2022.04.17-23.04.22:561][ 46]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-23.04.22:571][ 46]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-23.04.22:571][ 46]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-23.04.22:571][ 46]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-23.04.22:571][ 46]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-23.04.22:571][ 46]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-23.04.22:571][ 46]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-23.04.22:571][ 46]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-23.04.22:571][ 46]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-23.04.23:196][ 57]Cmd: TRANSACTION UNDO
+[2022.04.17-23.04.23:197][ 57]LogEditorTransaction: Undo Set Location
+[2022.04.17-23.04.23:235][ 57]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-23.04.24:127][ 93]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2022.04.17-23.04.24:208][ 97]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2022.04.17-23.04.24:643][118]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-23.04.24:934][124]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2022.04.17-23.04.24:934][124]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2022.04.17-23.04.24:997][125]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.04.17-23.04.24:997][125]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-23.04.25:071][127]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.04.17-23.04.25:343][136]LogEditorViewport: Clicking on Actor (LMB): RoadActor_C (RoadActor4)
+[2022.04.17-23.04.25:787][145]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.04.17-23.04.25:870][149]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.04.17-23.04.26:033][157]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.04.17-23.04.27:021][214]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.04.17-23.04.27:021][214]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2022.04.17-23.04.27:021][214]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2022.04.17-23.04.27:021][214]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-23.04.27:021][214]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.17-23.04.27:021][214]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-23.04.27:021][214]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-23.04.33:405][590]LogEditorViewport: Clicking on Actor (LMB): CurveRoadActor_C (CurveRoadActor)
+[2022.04.17-23.04.34:099][629]LogEditorViewport: Clicking on Actor (CTRL LMB): TJuncRoadActor_C (TJuncRoadActor2)
+[2022.04.17-23.04.34:827][671]LogEditorViewport: Clicking on Actor (CTRL LMB): CurveRoadActor_C (CurveRoadActor2)
+[2022.04.17-23.04.35:355][701]LogEditorViewport: Clicking on Actor (CTRL LMB): RoadActor_C (RoadActor6)
+[2022.04.17-23.04.43:463][182]LogEditorViewport: Clicking on Actor (LMB): RoadActor_C (RoadActor7)
+[2022.04.17-23.04.54:278][824]LogEditorViewport: Clicking on Actor (LMB): RoadActor_C (RoadActor5)
+[2022.04.17-23.05.00:460][186]LogEditorViewport: Clicking on Actor (LMB): CurveRoadActor_C (CurveRoadActor)
+[2022.04.17-23.05.00:942][211]LogEditorViewport: Clicking on Actor (CTRL LMB): TJuncRoadActor_C (TJuncRoadActor2)
+[2022.04.17-23.05.01:504][243]LogEditorViewport: Clicking on Actor (CTRL LMB): RoadActor_C (RoadActor6)
+[2022.04.17-23.05.01:843][262]LogEditorViewport: Clicking on Actor (CTRL LMB): CurveRoadActor_C (CurveRoadActor2)
+[2022.04.17-23.05.08:992][685]Cmd: TRANSACTION UNDO
+[2022.04.17-23.05.08:992][685]LogEditorTransaction: Undo Select Brush Surface
+[2022.04.17-23.05.08:997][685]LogMaterial: Display: Missing cached shader map for material RoadMaterial, compiling. 
+[2022.04.17-23.05.09:015][685]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.04.17-23.05.09:015][685]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.04.17-23.05.09:015][685]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.04.17-23.05.09:015][685]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.04.17-23.05.09:015][685]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.04.17-23.05.09:015][685]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.04.17-23.05.09:015][685]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.04.17-23.05.09:015][685]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.04.17-23.05.10:801][737]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.04.17-23.05.10:874][740]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.04.17-23.05.11:233][755]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.04.17-23.05.12:376][803]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.04.17-23.05.12:376][803]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2022.04.17-23.05.12:376][803]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2022.04.17-23.05.12:376][803]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.04.17-23.05.12:376][803]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.17-23.05.12:376][803]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.17-23.05.12:376][803]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.17-23.05.53:222][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.04.17-23.05.53:367][517]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/VehicleExampleMapEE3E202F4CE2351AD4A397B2E3D2E95F.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2022.04.17-23.05.53:774][517]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/VehicleExampleMap_BuiltData34789E5543AAC98F3DFE85B8087A9854.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2022.04.17-23.05.53:802][517]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.17-23.05.53:803][517]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap
+[2022.04.17-23.05.53:803][517]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/VehicleExampleMap_BuiltData.VehicleExampleMap_BuiltData
+[2022.04.17-23.06.01:096][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.04.17-23.06.01:271][920]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/Road-TXTMapFAC629D4423D74F666164893849C8A53.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/Textures/Road-TXTMap.uasset'
+[2022.04.17-23.06.01:342][920]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/Road-ROUGHMap0AF5AA98445C6A650E95738A5ECF9BA5.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/Textures/Road-ROUGHMap.uasset'
+[2022.04.17-23.06.01:474][920]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Saved/Road-NORMALMap9E6F1D874377598E28E5A0B85930AC73.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2/Content/Textures/Road-NORMALMap.uasset'
+[2022.04.17-23.06.01:500][920]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.17-23.06.01:500][920]LogContentValidation: Display: Validating Texture2D /Game/Textures/Road-TXTMap.Road-TXTMap
+[2022.04.17-23.06.01:500][920]LogContentValidation: Display: Validating Texture2D /Game/Textures/Road-ROUGHMap.Road-ROUGHMap
+[2022.04.17-23.06.01:500][920]LogContentValidation: Display: Validating Texture2D /Game/Textures/Road-NORMALMap.Road-NORMALMap
