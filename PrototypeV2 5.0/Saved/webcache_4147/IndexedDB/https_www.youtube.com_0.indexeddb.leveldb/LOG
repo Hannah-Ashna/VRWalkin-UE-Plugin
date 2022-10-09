@@ -1,5 +1,0 @@
-2022/04/20-23:04:13.541 3ba8 Reusing MANIFEST C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV2 5.0/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/04/20-23:09:21.936 2b78 Level-0 table #5: started
-2022/04/20-23:09:21.945 2b78 Level-0 table #5: 1154 bytes OK
-2022/04/20-23:09:21.946 2b78 Delete type=0 #3
-2022/04/20-23:09:21.947 2b78 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
