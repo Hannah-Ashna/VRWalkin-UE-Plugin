@@ -20,13 +20,25 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8F5E661961CCC50EEDF8D7EEB57C3E3AA12E46F4",
+			"Assets": [
+				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Interior",
+				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Under",
+				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Interior",
+				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Under",
+				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Under",
+				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior",
+				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Box"
+			]
+		},
+		{
 			"ShaderMapHash": "77F48CF32DDE30C14D1D914745180BDC44D59EC5",
 			"Assets": [
 				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Body",
 				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Body",
+				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Body",
 				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Body",
-				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Chassis",
-				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Body"
+				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Chassis"
 			]
 		},
 		{
@@ -49,18 +61,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8F5E661961CCC50EEDF8D7EEB57C3E3AA12E46F4",
-			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Interior",
-				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Under",
-				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior",
-				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Box",
-				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Interior",
-				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Under",
-				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Under"
-			]
-		},
-		{
 			"ShaderMapHash": "844B5732F219761081897EF1348F48BAFA301C8D",
 			"Assets": [
 				"/Game/Geometry/Meshes/CubeMaterial"
@@ -76,6 +76,12 @@
 			"ShaderMapHash": "5BB92113EB0003B1321D0C4332BAB49FEDAB7C2A",
 			"Assets": [
 				"/Game/VRTemplate/Materials/M_TeleportNoise"
+			]
+		},
+		{
+			"ShaderMapHash": "B6C503474FB6AAF02AF98B79F89469341F51D952",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall"
 			]
 		},
 		{
@@ -150,6 +156,12 @@
 			"ShaderMapHash": "25F1AD3E8DC3B354EDA8617F2649D01A17581536",
 			"Assets": [
 				"/Engine/EngineResources/M_StreamingPause"
+			]
+		},
+		{
+			"ShaderMapHash": "4C4AB45B8B67A4914DDE8A289DF8DABDDC75159E",
+			"Assets": [
+				"/Engine/EngineMaterials/BlinkingCaret"
 			]
 		},
 		{
@@ -408,6 +420,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8A9E8563C9457ED1CABAA1A7A7DF74C37D59E970",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
 			"ShaderMapHash": "D8A3B31FFB6074447728A4F6941EAA9D86FF6F60",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
@@ -417,12 +435,6 @@
 			"ShaderMapHash": "B1FCDA29E55EDDC0DB276FB12F0C7B05D0849611",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
-			]
-		},
-		{
-			"ShaderMapHash": "8A9E8563C9457ED1CABAA1A7A7DF74C37D59E970",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
 			]
 		},
 		{
@@ -484,6 +496,12 @@
 			"Assets": [
 				"/Engine/EditorLandscapeResources/LandscapeGizmo_Mat_Copied",
 				"/Engine/EditorLandscapeResources/LandscapeGizmo_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "6FD1BEAD0BA881EC183127CEBB0246914F7D0634",
+			"Assets": [
+				"/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial"
 			]
 		},
 		{
@@ -560,6 +578,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F0894D97F5315735D00C0B1EBB5A2765D70D7EC6",
+			"Assets": [
+				"/Engine/EngineMaterials/BaseFlattenMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "08D4402364D2E8BB7901CB9370320E3E73BE33DF",
 			"Assets": [
 				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
@@ -608,33 +632,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "4C4AB45B8B67A4914DDE8A289DF8DABDDC75159E",
-			"Assets": [
-				"/Engine/EngineMaterials/BlinkingCaret"
-			]
-		},
-		{
-			"ShaderMapHash": "6FD1BEAD0BA881EC183127CEBB0246914F7D0634",
-			"Assets": [
-				"/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "F0894D97F5315735D00C0B1EBB5A2765D70D7EC6",
-			"Assets": [
-				"/Engine/EngineMaterials/BaseFlattenMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "FAB9F56F505EECBA8B802CFC55679478100DDF96",
 			"Assets": [
 				"/Engine/EditorMaterials/MatineeCam_mat"
-			]
-		},
-		{
-			"ShaderMapHash": "B6C503474FB6AAF02AF98B79F89469341F51D952",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Basic_Wall"
 			]
 		}
 	]
