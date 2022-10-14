@@ -2,9 +2,62 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
+			"ShaderMapHash": "128AE202C98D37BBA6912B63D4C96155464F2F9E",
+			"Assets": [
+				"/Engine/EditorMaterials/PersonaFloorMat"
+			]
+		},
+		{
+			"ShaderMapHash": "DBA9A8598F6DF236BEA4604B86F84581FD0505BB",
+			"Assets": [
+				"/Engine/EditorMaterials/GridMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "CF0302D9886BF15DE2541677D463AAB14433E63A",
 			"Assets": [
 				"/Engine/EditorMaterials/LevelGridMaterial2"
+			]
+		},
+		{
+			"ShaderMapHash": "77F48CF32DDE30C14D1D914745180BDC44D59EC5",
+			"Assets": [
+				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Body",
+				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Body",
+				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Body",
+				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Chassis",
+				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "ED4482805E00AC5ADEE083BAFBE51B9D7FE7145C",
+			"Assets": [
+				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Interior"
+			]
+		},
+		{
+			"ShaderMapHash": "4A313702F8D466FF68F9C5DBA50C6DC64A7DDD4C",
+			"Assets": [
+				"/Game/VehicleVarietyPack/Materials/Pickup/Mi_Pickup_Glass",
+				"/Game/VehicleVarietyPack/Materials/Hatchback/Mi_Hatchback_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "90B82A47B0555C5C61415663A44AF109A1D209D0",
+			"Assets": [
+				"/Game/VehicleVarietyPack/Materials/Masters/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "8F5E661961CCC50EEDF8D7EEB57C3E3AA12E46F4",
+			"Assets": [
+				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Interior",
+				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Under",
+				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior",
+				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Box",
+				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Interior",
+				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Under",
+				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Under"
 			]
 		},
 		{
@@ -97,12 +150,6 @@
 			"ShaderMapHash": "25F1AD3E8DC3B354EDA8617F2649D01A17581536",
 			"Assets": [
 				"/Engine/EngineResources/M_StreamingPause"
-			]
-		},
-		{
-			"ShaderMapHash": "4C4AB45B8B67A4914DDE8A289DF8DABDDC75159E",
-			"Assets": [
-				"/Engine/EngineMaterials/BlinkingCaret"
 			]
 		},
 		{
@@ -440,12 +487,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6FD1BEAD0BA881EC183127CEBB0246914F7D0634",
-			"Assets": [
-				"/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "D4B869C41C9D1DB3220AAE7B00F3B2EB8EE83078",
 			"Assets": [
 				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
@@ -519,12 +560,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F0894D97F5315735D00C0B1EBB5A2765D70D7EC6",
-			"Assets": [
-				"/Engine/EngineMaterials/BaseFlattenMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "08D4402364D2E8BB7901CB9370320E3E73BE33DF",
 			"Assets": [
 				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
@@ -573,49 +608,33 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4C4AB45B8B67A4914DDE8A289DF8DABDDC75159E",
+			"Assets": [
+				"/Engine/EngineMaterials/BlinkingCaret"
+			]
+		},
+		{
+			"ShaderMapHash": "6FD1BEAD0BA881EC183127CEBB0246914F7D0634",
+			"Assets": [
+				"/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F0894D97F5315735D00C0B1EBB5A2765D70D7EC6",
+			"Assets": [
+				"/Engine/EngineMaterials/BaseFlattenMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "FAB9F56F505EECBA8B802CFC55679478100DDF96",
 			"Assets": [
 				"/Engine/EditorMaterials/MatineeCam_mat"
 			]
 		},
 		{
-			"ShaderMapHash": "8F5E661961CCC50EEDF8D7EEB57C3E3AA12E46F4",
+			"ShaderMapHash": "B6C503474FB6AAF02AF98B79F89469341F51D952",
 			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Interior",
-				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Box",
-				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior",
-				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Under",
-				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Under",
-				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Interior",
-				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Under"
-			]
-		},
-		{
-			"ShaderMapHash": "77F48CF32DDE30C14D1D914745180BDC44D59EC5",
-			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Chassis",
-				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Body",
-				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Body",
-				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Body",
-				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Body"
-			]
-		},
-		{
-			"ShaderMapHash": "90B82A47B0555C5C61415663A44AF109A1D209D0",
-			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/Masters/M_Glass"
-			]
-		},
-		{
-			"ShaderMapHash": "4A313702F8D466FF68F9C5DBA50C6DC64A7DDD4C",
-			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/Pickup/Mi_Pickup_Glass"
-			]
-		},
-		{
-			"ShaderMapHash": "ED4482805E00AC5ADEE083BAFBE51B9D7FE7145C",
-			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Interior"
+				"/Game/StarterContent/Materials/M_Basic_Wall"
 			]
 		}
 	]
