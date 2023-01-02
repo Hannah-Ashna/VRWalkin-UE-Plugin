@@ -67,6 +67,7 @@ Build/*/**
 Saved/*
 
 # Compiled source files for the engine to use
+PrototypeV4/Intermediate/*
 PrototypeV3/Intermediate/*
 PrototypeV2/Intermediate/*
 PrototypeV1/Intermediate/*
