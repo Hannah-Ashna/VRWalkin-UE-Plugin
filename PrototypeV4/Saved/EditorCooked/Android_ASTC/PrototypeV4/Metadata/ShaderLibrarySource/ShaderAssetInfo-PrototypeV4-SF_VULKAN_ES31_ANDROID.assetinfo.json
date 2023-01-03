@@ -2,6 +2,18 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
+			"ShaderMapHash": "CA10C727DD35296A5AF6C41B3137170C689093BE",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "5FF7959F9B0BE073272BF3C7D9CE02EA771B1386",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
 			"ShaderMapHash": "7C67D6C9082AA01D419DEB5AA9CBC5DCBDB0093E",
 			"Assets": [
 				"/Engine/EditorMaterials/PersonaFloorMat"
@@ -136,7 +148,8 @@
 				"/Engine/BufferVisualization/LightingModel",
 				"/Engine/BufferVisualization/FinalImage",
 				"/Engine/BufferVisualization/CustomDepth",
-				"/Engine/BufferVisualization/BaseColor"
+				"/Engine/BufferVisualization/BaseColor",
+				"/Game/VRTemplate/Materials/M_VRCursor"
 			]
 		},
 		{
@@ -603,27 +616,45 @@
 			]
 		},
 		{
-			"ShaderMapHash": "7CAC6C988C75EB6CEC5C7A7709BE41831F9E0EA8",
-			"Assets": [
-				"/Game/VRPawns/Meshes/TeleportArcMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "C8520A0E33D87D598DF8BC284B4BF6D33A71D315",
 			"Assets": [
 				"/Engine/EditorMaterials/MatineeCam_mat"
 			]
 		},
 		{
-			"ShaderMapHash": "5FF7959F9B0BE073272BF3C7D9CE02EA771B1386",
+			"ShaderMapHash": "EDAB8769038F8E42DD94D52FB98F51C3D87A2F88",
 			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+				"/Engine/EditorMaterials/AssetViewer/M_SkyBox"
 			]
 		},
 		{
-			"ShaderMapHash": "CA10C727DD35296A5AF6C41B3137170C689093BE",
+			"ShaderMapHash": "E16398272134AB1F646206FA95A911FF8F8D2BA9",
 			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+				"/Game/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient"
+			]
+		},
+		{
+			"ShaderMapHash": "70831422B3202BE5346DC95C147AEEE96FFFD5DF",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_TeleportCylinder"
+			]
+		},
+		{
+			"ShaderMapHash": "0012E27BE97ADB6967D852FEA4E289B057E0692D",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_TeleportNoise"
+			]
+		},
+		{
+			"ShaderMapHash": "0602AB80EF4FDE595E5F1F372E41503774AC3C6D",
+			"Assets": [
+				"/Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2229AC87151BE1555D6F120EB690227AD08D2762",
+			"Assets": [
+				"/Game/VRPawns/Meshes/TeleportArcMaterial"
 			]
 		}
 	]
