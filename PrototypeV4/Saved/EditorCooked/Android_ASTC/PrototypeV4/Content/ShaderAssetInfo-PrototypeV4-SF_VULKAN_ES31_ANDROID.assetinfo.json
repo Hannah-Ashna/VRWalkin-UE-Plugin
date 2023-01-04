@@ -2,46 +2,9 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "CA10C727DD35296A5AF6C41B3137170C689093BE",
+			"ShaderMapHash": "EDAB8769038F8E42DD94D52FB98F51C3D87A2F88",
 			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
-			]
-		},
-		{
-			"ShaderMapHash": "5FF7959F9B0BE073272BF3C7D9CE02EA771B1386",
-			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
-			]
-		},
-		{
-			"ShaderMapHash": "7C67D6C9082AA01D419DEB5AA9CBC5DCBDB0093E",
-			"Assets": [
-				"/Engine/EditorMaterials/PersonaFloorMat"
-			]
-		},
-		{
-			"ShaderMapHash": "F76858CD469781F7B4E57A52BA11AD3A69B696EF",
-			"Assets": [
-				"/Engine/EditorMaterials/GridMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "2020B9276E3E15E81A242FEA490DD08FBB76A568",
-			"Assets": [
-				"/Engine/EditorMaterials/LevelGridMaterial2"
-			]
-		},
-		{
-			"ShaderMapHash": "E1A67363257FF5E40FE8FA0AF88F2E0FEF2AFA3B",
-			"Assets": [
-				"/Game/Geometry/Meshes/CubeMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "76CCDB450CDE634DD3589B33E6CC23869B438F92",
-			"Assets": [
-				"/Game/VRTemplate/Materials/MI_Grid_Default",
-				"/Game/VRTemplate/Materials/M_GridRotation"
+				"/Engine/EditorMaterials/AssetViewer/M_SkyBox"
 			]
 		},
 		{
@@ -72,6 +35,43 @@
 			"ShaderMapHash": "B44CBC9A5ABDF5342CE660AAB23B784CD68865D5",
 			"Assets": [
 				"/Engine/VREditor/BasicMeshes/M_Floor_01"
+			]
+		},
+		{
+			"ShaderMapHash": "7C67D6C9082AA01D419DEB5AA9CBC5DCBDB0093E",
+			"Assets": [
+				"/Engine/EditorMaterials/PersonaFloorMat"
+			]
+		},
+		{
+			"ShaderMapHash": "F76858CD469781F7B4E57A52BA11AD3A69B696EF",
+			"Assets": [
+				"/Engine/EditorMaterials/GridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2020B9276E3E15E81A242FEA490DD08FBB76A568",
+			"Assets": [
+				"/Engine/EditorMaterials/LevelGridMaterial2"
+			]
+		},
+		{
+			"ShaderMapHash": "E1A67363257FF5E40FE8FA0AF88F2E0FEF2AFA3B",
+			"Assets": [
+				"/Game/Geometry/Meshes/CubeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "76CCDB450CDE634DD3589B33E6CC23869B438F92",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_GridRotation",
+				"/Game/VRTemplate/Materials/MI_Grid_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "2229AC87151BE1555D6F120EB690227AD08D2762",
+			"Assets": [
+				"/Game/VRPawns/Meshes/TeleportArcMaterial"
 			]
 		},
 		{
@@ -148,8 +148,7 @@
 				"/Engine/BufferVisualization/LightingModel",
 				"/Engine/BufferVisualization/FinalImage",
 				"/Engine/BufferVisualization/CustomDepth",
-				"/Engine/BufferVisualization/BaseColor",
-				"/Game/VRTemplate/Materials/M_VRCursor"
+				"/Engine/BufferVisualization/BaseColor"
 			]
 		},
 		{
@@ -622,39 +621,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "EDAB8769038F8E42DD94D52FB98F51C3D87A2F88",
+			"ShaderMapHash": "5FF7959F9B0BE073272BF3C7D9CE02EA771B1386",
 			"Assets": [
-				"/Engine/EditorMaterials/AssetViewer/M_SkyBox"
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
 			]
 		},
 		{
-			"ShaderMapHash": "E16398272134AB1F646206FA95A911FF8F8D2BA9",
+			"ShaderMapHash": "CA10C727DD35296A5AF6C41B3137170C689093BE",
 			"Assets": [
-				"/Game/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient"
-			]
-		},
-		{
-			"ShaderMapHash": "70831422B3202BE5346DC95C147AEEE96FFFD5DF",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_TeleportCylinder"
-			]
-		},
-		{
-			"ShaderMapHash": "0012E27BE97ADB6967D852FEA4E289B057E0692D",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_TeleportNoise"
-			]
-		},
-		{
-			"ShaderMapHash": "0602AB80EF4FDE595E5F1F372E41503774AC3C6D",
-			"Assets": [
-				"/Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "2229AC87151BE1555D6F120EB690227AD08D2762",
-			"Assets": [
-				"/Game/VRPawns/Meshes/TeleportArcMaterial"
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
 			]
 		}
 	]
