@@ -2,39 +2,15 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "EDAB8769038F8E42DD94D52FB98F51C3D87A2F88",
+			"ShaderMapHash": "CA10C727DD35296A5AF6C41B3137170C689093BE",
 			"Assets": [
-				"/Engine/EditorMaterials/AssetViewer/M_SkyBox"
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
 			]
 		},
 		{
-			"ShaderMapHash": "31A7E58C5728912529183E2AC72C6E48986BCE09",
+			"ShaderMapHash": "5FF7959F9B0BE073272BF3C7D9CE02EA771B1386",
 			"Assets": [
-				"/Game/VRTemplate/Materials/MI_Grid_Accent"
-			]
-		},
-		{
-			"ShaderMapHash": "C4EC77A0A9170CF3CC1357CBD6E13463E601E9B2",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "2342E8AC6E6BFA4ED590906E8B4EA23A69EE6DEC",
-			"Assets": [
-				"/Game/FPWeapon/Materials/M_FPGun"
-			]
-		},
-		{
-			"ShaderMapHash": "3BAFD59784DED7548A816E9366C95DD16B59A651",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_Projectile"
-			]
-		},
-		{
-			"ShaderMapHash": "B44CBC9A5ABDF5342CE660AAB23B784CD68865D5",
-			"Assets": [
-				"/Engine/VREditor/BasicMeshes/M_Floor_01"
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
 			]
 		},
 		{
@@ -50,9 +26,71 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2229AC87151BE1555D6F120EB690227AD08D2762",
+			"Assets": [
+				"/Game/VRPawns/Meshes/TeleportArcMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7754C779544D1DCC813C59B287EC9A0BACCB1B41",
+			"Assets": [
+				"/Game/Vehicle/Sedan/Materials/M_Vehicle_Sedan_Inst_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "E489226897DA3A00A2991AD3DAA8279755866FA9",
+			"Assets": [
+				"/Game/Vehicle/Sedan/Materials/M_Vehicle_Sedan"
+			]
+		},
+		{
 			"ShaderMapHash": "2020B9276E3E15E81A242FEA490DD08FBB76A568",
 			"Assets": [
 				"/Engine/EditorMaterials/LevelGridMaterial2"
+			]
+		},
+		{
+			"ShaderMapHash": "7575A43F2D2075246B616A3E9DEF5AEB5E7995DB",
+			"Assets": [
+				"/Game/VehicleBP/Nissan/Material_009",
+				"/Game/VehicleBP/Nissan/Material_008",
+				"/Game/VehicleBP/Nissan/Material_007",
+				"/Game/VehicleBP/Nissan/Material_006",
+				"/Game/VehicleBP/Nissan/Material_005",
+				"/Game/VehicleBP/Nissan/Material_004",
+				"/Game/VehicleBP/Nissan/Material_003",
+				"/Game/VehicleBP/Nissan/Material_002",
+				"/Game/VehicleBP/Nissan/Material_001"
+			]
+		},
+		{
+			"ShaderMapHash": "05E8AA9A967DDCEA9B15F1D465FA1DEF289207AB",
+			"Assets": [
+				"/Game/Roads/Materials/PavementMat"
+			]
+		},
+		{
+			"ShaderMapHash": "24C6F0F46A476D1658DEAD0B6944D082C41FD7DE",
+			"Assets": [
+				"/Game/Roads/Materials/RoadMat"
+			]
+		},
+		{
+			"ShaderMapHash": "EEC68D815EE61AC1C824A89BECF382D0EB3D4591",
+			"Assets": [
+				"/Game/OtherAssets/House/HouseMaterial_Window"
+			]
+		},
+		{
+			"ShaderMapHash": "0314AF0B5CE2D7288F6738E88427B1E4D21BB29E",
+			"Assets": [
+				"/Game/OtherAssets/House/HouseMaterial_Roof"
+			]
+		},
+		{
+			"ShaderMapHash": "33F271E91B794CA91D5A900337630373068E399F",
+			"Assets": [
+				"/Game/OtherAssets/House/HouseMaterial_Fence"
 			]
 		},
 		{
@@ -69,9 +107,23 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2229AC87151BE1555D6F120EB690227AD08D2762",
+			"ShaderMapHash": "8680980AD33CBF77684668B5D18A133E205D8170",
 			"Assets": [
-				"/Game/VRPawns/Meshes/TeleportArcMaterial"
+				"/Game/OtherAssets/House/HouseMaterial_Wall_3",
+				"/Game/OtherAssets/House/HouseMaterial_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "28B0DADFBB0A778883A95E023EEEB44D0DDDE86A",
+			"Assets": [
+				"/Game/OtherAssets/House/HouseMaterial_Wall_2",
+				"/Game/OtherAssets/House/HouseMaterial_Door"
+			]
+		},
+		{
+			"ShaderMapHash": "C4EC77A0A9170CF3CC1357CBD6E13463E601E9B2",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
 			]
 		},
 		{
@@ -579,12 +631,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D70EFDE2AF37020F7DD7ECD62F4744A221B5ED5A",
-			"Assets": [
-				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
-			]
-		},
-		{
 			"ShaderMapHash": "C3B7D33D97765AB8E9EF2BB514CE1787F699BF16",
 			"Assets": [
 				"/Engine/EditorMaterials/HelpActorMaterial"
@@ -621,15 +667,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5FF7959F9B0BE073272BF3C7D9CE02EA771B1386",
+			"ShaderMapHash": "D70EFDE2AF37020F7DD7ECD62F4744A221B5ED5A",
 			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
 			]
 		},
 		{
-			"ShaderMapHash": "CA10C727DD35296A5AF6C41B3137170C689093BE",
+			"ShaderMapHash": "EDAB8769038F8E42DD94D52FB98F51C3D87A2F88",
 			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+				"/Engine/EditorMaterials/AssetViewer/M_SkyBox"
 			]
 		}
 	]
