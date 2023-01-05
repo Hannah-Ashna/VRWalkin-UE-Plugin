@@ -2,9 +2,15 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "7C67D6C9082AA01D419DEB5AA9CBC5DCBDB0093E",
+			"ShaderMapHash": "CA10C727DD35296A5AF6C41B3137170C689093BE",
 			"Assets": [
-				"/Engine/EditorMaterials/PersonaFloorMat"
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "5FF7959F9B0BE073272BF3C7D9CE02EA771B1386",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
 			]
 		},
 		{
@@ -14,9 +20,59 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E1A67363257FF5E40FE8FA0AF88F2E0FEF2AFA3B",
+			"Assets": [
+				"/Game/Geometry/Meshes/CubeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "76CCDB450CDE634DD3589B33E6CC23869B438F92",
+			"Assets": [
+				"/Game/VRTemplate/Materials/MI_Grid_Default",
+				"/Game/VRTemplate/Materials/M_GridRotation"
+			]
+		},
+		{
+			"ShaderMapHash": "31A7E58C5728912529183E2AC72C6E48986BCE09",
+			"Assets": [
+				"/Game/VRTemplate/Materials/MI_Grid_Accent"
+			]
+		},
+		{
+			"ShaderMapHash": "C4EC77A0A9170CF3CC1357CBD6E13463E601E9B2",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2342E8AC6E6BFA4ED590906E8B4EA23A69EE6DEC",
+			"Assets": [
+				"/Game/FPWeapon/Materials/M_FPGun"
+			]
+		},
+		{
+			"ShaderMapHash": "3BAFD59784DED7548A816E9366C95DD16B59A651",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_Projectile"
+			]
+		},
+		{
+			"ShaderMapHash": "B44CBC9A5ABDF5342CE660AAB23B784CD68865D5",
+			"Assets": [
+				"/Engine/VREditor/BasicMeshes/M_Floor_01"
+			]
+		},
+		{
 			"ShaderMapHash": "2020B9276E3E15E81A242FEA490DD08FBB76A568",
 			"Assets": [
 				"/Engine/EditorMaterials/LevelGridMaterial2"
+			]
+		},
+		{
+			"ShaderMapHash": "01F8AAEB1F57554F217607B1E34921E9F9B8FAB0",
+			"Assets": [
+				"/Game/OtherAssets/Trees/Oak_Tree_Wood",
+				"/Game/OtherAssets/Trees/Oak_Tree_Leaves"
 			]
 		},
 		{
@@ -45,9 +101,64 @@
 			]
 		},
 		{
+			"ShaderMapHash": "28B0DADFBB0A778883A95E023EEEB44D0DDDE86A",
+			"Assets": [
+				"/Game/OtherAssets/House/HouseMaterial_Door",
+				"/Game/OtherAssets/House/HouseMaterial_Wall_2"
+			]
+		},
+		{
+			"ShaderMapHash": "2229AC87151BE1555D6F120EB690227AD08D2762",
+			"Assets": [
+				"/Game/VRPawns/Meshes/TeleportArcMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "46419CCC020BEDDC60C0CB470CAB5962E6701FF5",
+			"Assets": [
+				"/Game/OtherAssets/initialShadingGroup",
+				"/Engine/EngineDebugMaterials/M_SimpleOpaque",
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "5016B6BF61EFB10FDB5C11E4308A711EF6B17055",
+			"Assets": [
+				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Under",
+				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Interior",
+				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Under",
+				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior"
+			]
+		},
+		{
+			"ShaderMapHash": "F30BD8D77C5F4D51693F2C29F3FE62A935CD28D9",
+			"Assets": [
+				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Body",
+				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "85877ABF1A7126DC98230CA46849D757251C8477",
+			"Assets": [
+				"/Game/VehicleVarietyPack/Materials/Masters/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "F022DF2A37013496C8E5A7C22F7E29EFAC7E7229",
+			"Assets": [
+				"/Game/VehicleVarietyPack/Materials/Hatchback/Mi_Hatchback_Glass"
+			]
+		},
+		{
 			"ShaderMapHash": "24C6F0F46A476D1658DEAD0B6944D082C41FD7DE",
 			"Assets": [
 				"/Game/Roads/Materials/RoadMat"
+			]
+		},
+		{
+			"ShaderMapHash": "05E8AA9A967DDCEA9B15F1D465FA1DEF289207AB",
+			"Assets": [
+				"/Game/Roads/Materials/PavementMat"
 			]
 		},
 		{
@@ -60,6 +171,12 @@
 			"ShaderMapHash": "E489226897DA3A00A2991AD3DAA8279755866FA9",
 			"Assets": [
 				"/Game/Vehicle/Sedan/Materials/M_Vehicle_Sedan"
+			]
+		},
+		{
+			"ShaderMapHash": "B77F4D6E0B7CB420A3DBF5F4C02E0374550314CF",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
 			]
 		},
 		{
@@ -176,6 +293,32 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7C67D6C9082AA01D419DEB5AA9CBC5DCBDB0093E",
+			"Assets": [
+				"/Engine/EditorMaterials/PersonaFloorMat"
+			]
+		},
+		{
+			"ShaderMapHash": "626DF80E0012A6D1C155F0CC0FCDE9EBFA7CECFC",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial",
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Engine/EngineMaterials/HighResScreenshotCaptureRegion",
+				"/Engine/BufferVisualization/PostTonemapHDRColor",
+				"/Engine/BufferVisualization/PreTonemapHDRColor",
+				"/Engine/BufferVisualization/Velocity",
+				"/Engine/BufferVisualization/WorldTangent",
+				"/Engine/BufferVisualization/Anisotropy",
+				"/Engine/BufferVisualization/CustomStencil"
+			]
+		},
+		{
+			"ShaderMapHash": "6CA2551EAE7DBA04F30BA319DA7163D4E1749BA1",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/PhysicalMaterialMaskMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "8CA06CE4D4C7CB14BB505BA00C998B32A42CEA79",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
@@ -235,20 +378,6 @@
 			"ShaderMapHash": "C11725D7E917ABA42C4A629E3B3CE3972D16752A",
 			"Assets": [
 				"/Engine/EngineMaterials/EmissiveMeshMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "626DF80E0012A6D1C155F0CC0FCDE9EBFA7CECFC",
-			"Assets": [
-				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
-				"/Engine/EngineMaterials/HighResScreenshotCaptureRegion",
-				"/Engine/BufferVisualization/PostTonemapHDRColor",
-				"/Engine/BufferVisualization/PreTonemapHDRColor",
-				"/Engine/BufferVisualization/Velocity",
-				"/Engine/BufferVisualization/WorldTangent",
-				"/Engine/BufferVisualization/Anisotropy",
-				"/Engine/BufferVisualization/CustomStencil",
-				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
 			]
 		},
 		{
@@ -366,9 +495,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "66839067C2EAAD1307ECCBAFE1FC4AA66B173672",
+			"ShaderMapHash": "A02220F3B0D00492ED8F5A729721C27219473B12",
 			"Assets": [
-				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+				"/OpenXR/Devices/M_XRController"
 			]
 		},
 		{
@@ -381,6 +510,12 @@
 			"ShaderMapHash": "28511BD017745CADFC88E28B8FA196E99CE82A53",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "66839067C2EAAD1307ECCBAFE1FC4AA66B173672",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
 			]
 		},
 		{
@@ -445,17 +580,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8CA160519AB3E78FE83FE515CC9141B53D3380F2",
+			"ShaderMapHash": "E356742301BF1527D4033A086C509AF3BC8F3DC2",
 			"Assets": [
-				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
+				"/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "46419CCC020BEDDC60C0CB470CAB5962E6701FF5",
+			"ShaderMapHash": "8CA160519AB3E78FE83FE515CC9141B53D3380F2",
 			"Assets": [
-				"/Engine/EngineDebugMaterials/M_SimpleOpaque",
-				"/Engine/VREditor/TransformGizmo/Xray",
-				"/Game/OtherAssets/initialShadingGroup"
+				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
 			]
 		},
 		{
@@ -544,6 +677,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D70EFDE2AF37020F7DD7ECD62F4744A221B5ED5A",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
+			]
+		},
+		{
 			"ShaderMapHash": "C3B7D33D97765AB8E9EF2BB514CE1787F699BF16",
 			"Assets": [
 				"/Engine/EditorMaterials/HelpActorMaterial"
@@ -574,124 +713,22 @@
 			]
 		},
 		{
-			"ShaderMapHash": "01F8AAEB1F57554F217607B1E34921E9F9B8FAB0",
-			"Assets": [
-				"/Game/OtherAssets/Trees/Oak_Tree_Wood",
-				"/Game/OtherAssets/Trees/Oak_Tree_Leaves"
-			]
-		},
-		{
-			"ShaderMapHash": "28B0DADFBB0A778883A95E023EEEB44D0DDDE86A",
-			"Assets": [
-				"/Game/OtherAssets/House/HouseMaterial_Door",
-				"/Game/OtherAssets/House/HouseMaterial_Wall_2"
-			]
-		},
-		{
-			"ShaderMapHash": "2229AC87151BE1555D6F120EB690227AD08D2762",
-			"Assets": [
-				"/Game/VRPawns/Meshes/TeleportArcMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "05E8AA9A967DDCEA9B15F1D465FA1DEF289207AB",
-			"Assets": [
-				"/Game/Roads/Materials/PavementMat"
-			]
-		},
-		{
-			"ShaderMapHash": "B77F4D6E0B7CB420A3DBF5F4C02E0374550314CF",
-			"Assets": [
-				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
-			]
-		},
-		{
-			"ShaderMapHash": "6CA2551EAE7DBA04F30BA319DA7163D4E1749BA1",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/PhysicalMaterialMaskMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "A02220F3B0D00492ED8F5A729721C27219473B12",
-			"Assets": [
-				"/OpenXR/Devices/M_XRController"
-			]
-		},
-		{
-			"ShaderMapHash": "E356742301BF1527D4033A086C509AF3BC8F3DC2",
-			"Assets": [
-				"/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "D70EFDE2AF37020F7DD7ECD62F4744A221B5ED5A",
-			"Assets": [
-				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
-			]
-		},
-		{
-			"ShaderMapHash": "F30BD8D77C5F4D51693F2C29F3FE62A935CD28D9",
-			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Body",
-				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Body"
-			]
-		},
-		{
 			"ShaderMapHash": "C8520A0E33D87D598DF8BC284B4BF6D33A71D315",
 			"Assets": [
 				"/Engine/EditorMaterials/MatineeCam_mat"
 			]
 		},
 		{
-			"ShaderMapHash": "5FF7959F9B0BE073272BF3C7D9CE02EA771B1386",
+			"ShaderMapHash": "51B97F4FEC0F52FD0A0F94B38A51FEA47CCD77AD",
 			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+				"/Game/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Under",
+				"/Game/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Interior"
 			]
 		},
 		{
-			"ShaderMapHash": "CA10C727DD35296A5AF6C41B3137170C689093BE",
+			"ShaderMapHash": "CF08F30D247D6ABCB2A07EC922F52346FE0E2F81",
 			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
-			]
-		},
-		{
-			"ShaderMapHash": "76CCDB450CDE634DD3589B33E6CC23869B438F92",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_GridRotation",
-				"/Game/VRTemplate/Materials/MI_Grid_Default"
-			]
-		},
-		{
-			"ShaderMapHash": "E1A67363257FF5E40FE8FA0AF88F2E0FEF2AFA3B",
-			"Assets": [
-				"/Game/Geometry/Meshes/CubeMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "C4EC77A0A9170CF3CC1357CBD6E13463E601E9B2",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "5016B6BF61EFB10FDB5C11E4308A711EF6B17055",
-			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior",
-				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Under",
-				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Interior",
-				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Under"
-			]
-		},
-		{
-			"ShaderMapHash": "F022DF2A37013496C8E5A7C22F7E29EFAC7E7229",
-			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/Hatchback/Mi_Hatchback_Glass"
-			]
-		},
-		{
-			"ShaderMapHash": "85877ABF1A7126DC98230CA46849D757251C8477",
-			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/Masters/M_Glass"
+				"/Game/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Body"
 			]
 		}
 	]
