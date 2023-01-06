@@ -2,15 +2,57 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "CA10C727DD35296A5AF6C41B3137170C689093BE",
+			"ShaderMapHash": "2229AC87151BE1555D6F120EB690227AD08D2762",
 			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+				"/Game/VRPawns/Meshes/TeleportArcMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "5FF7959F9B0BE073272BF3C7D9CE02EA771B1386",
+			"ShaderMapHash": "70831422B3202BE5346DC95C147AEEE96FFFD5DF",
 			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+				"/Game/VRTemplate/Materials/M_TeleportCylinder"
+			]
+		},
+		{
+			"ShaderMapHash": "0012E27BE97ADB6967D852FEA4E289B057E0692D",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_TeleportNoise"
+			]
+		},
+		{
+			"ShaderMapHash": "E16398272134AB1F646206FA95A911FF8F8D2BA9",
+			"Assets": [
+				"/Game/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient"
+			]
+		},
+		{
+			"ShaderMapHash": "9137614D4A326862AE14320D4808A10CFFB05998",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_VRCursor",
+				"/Engine/EditorMaterials/WidgetMaterial",
+				"/Engine/BufferVisualization/SceneDepthWorldUnits",
+				"/Engine/BufferVisualization/CustomDepthWorldUnits",
+				"/Engine/BufferVisualization/WorldNormal",
+				"/Engine/BufferVisualization/SubsurfaceColor",
+				"/Engine/BufferVisualization/Specular",
+				"/Engine/BufferVisualization/SeparateTranslucencyA",
+				"/Engine/BufferVisualization/SeparateTranslucencyRGB",
+				"/Engine/BufferVisualization/SceneDepth",
+				"/Engine/BufferVisualization/SceneColor",
+				"/Engine/BufferVisualization/Roughness",
+				"/Engine/BufferVisualization/Opacity",
+				"/Engine/BufferVisualization/Metallic",
+				"/Engine/BufferVisualization/MaterialAO",
+				"/Engine/BufferVisualization/LightingModel",
+				"/Engine/BufferVisualization/FinalImage",
+				"/Engine/BufferVisualization/CustomDepth",
+				"/Engine/BufferVisualization/BaseColor"
+			]
+		},
+		{
+			"ShaderMapHash": "7C67D6C9082AA01D419DEB5AA9CBC5DCBDB0093E",
+			"Assets": [
+				"/Engine/EditorMaterials/PersonaFloorMat"
 			]
 		},
 		{
@@ -20,52 +62,22 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E1A67363257FF5E40FE8FA0AF88F2E0FEF2AFA3B",
-			"Assets": [
-				"/Game/Geometry/Meshes/CubeMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "76CCDB450CDE634DD3589B33E6CC23869B438F92",
-			"Assets": [
-				"/Game/VRTemplate/Materials/MI_Grid_Default",
-				"/Game/VRTemplate/Materials/M_GridRotation"
-			]
-		},
-		{
-			"ShaderMapHash": "31A7E58C5728912529183E2AC72C6E48986BCE09",
-			"Assets": [
-				"/Game/VRTemplate/Materials/MI_Grid_Accent"
-			]
-		},
-		{
-			"ShaderMapHash": "C4EC77A0A9170CF3CC1357CBD6E13463E601E9B2",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "2342E8AC6E6BFA4ED590906E8B4EA23A69EE6DEC",
-			"Assets": [
-				"/Game/FPWeapon/Materials/M_FPGun"
-			]
-		},
-		{
-			"ShaderMapHash": "3BAFD59784DED7548A816E9366C95DD16B59A651",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_Projectile"
-			]
-		},
-		{
-			"ShaderMapHash": "B44CBC9A5ABDF5342CE660AAB23B784CD68865D5",
-			"Assets": [
-				"/Engine/VREditor/BasicMeshes/M_Floor_01"
-			]
-		},
-		{
 			"ShaderMapHash": "2020B9276E3E15E81A242FEA490DD08FBB76A568",
 			"Assets": [
 				"/Engine/EditorMaterials/LevelGridMaterial2"
+			]
+		},
+		{
+			"ShaderMapHash": "51B97F4FEC0F52FD0A0F94B38A51FEA47CCD77AD",
+			"Assets": [
+				"/Game/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Under",
+				"/Game/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Interior"
+			]
+		},
+		{
+			"ShaderMapHash": "CF08F30D247D6ABCB2A07EC922F52346FE0E2F81",
+			"Assets": [
+				"/Game/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Body"
 			]
 		},
 		{
@@ -89,12 +101,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "0314AF0B5CE2D7288F6738E88427B1E4D21BB29E",
-			"Assets": [
-				"/Game/OtherAssets/House/HouseMaterial_Roof"
-			]
-		},
-		{
 			"ShaderMapHash": "33F271E91B794CA91D5A900337630373068E399F",
 			"Assets": [
 				"/Game/OtherAssets/House/HouseMaterial_Fence"
@@ -105,12 +111,6 @@
 			"Assets": [
 				"/Game/OtherAssets/House/HouseMaterial_Door",
 				"/Game/OtherAssets/House/HouseMaterial_Wall_2"
-			]
-		},
-		{
-			"ShaderMapHash": "2229AC87151BE1555D6F120EB690227AD08D2762",
-			"Assets": [
-				"/Game/VRPawns/Meshes/TeleportArcMaterial"
 			]
 		},
 		{
@@ -228,29 +228,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "9137614D4A326862AE14320D4808A10CFFB05998",
-			"Assets": [
-				"/Engine/EditorMaterials/WidgetMaterial",
-				"/Engine/BufferVisualization/SceneDepthWorldUnits",
-				"/Engine/BufferVisualization/CustomDepthWorldUnits",
-				"/Engine/BufferVisualization/WorldNormal",
-				"/Engine/BufferVisualization/SubsurfaceColor",
-				"/Engine/BufferVisualization/Specular",
-				"/Engine/BufferVisualization/SeparateTranslucencyA",
-				"/Engine/BufferVisualization/SeparateTranslucencyRGB",
-				"/Engine/BufferVisualization/SceneDepth",
-				"/Engine/BufferVisualization/SceneColor",
-				"/Engine/BufferVisualization/Roughness",
-				"/Engine/BufferVisualization/Opacity",
-				"/Engine/BufferVisualization/Metallic",
-				"/Engine/BufferVisualization/MaterialAO",
-				"/Engine/BufferVisualization/LightingModel",
-				"/Engine/BufferVisualization/FinalImage",
-				"/Engine/BufferVisualization/CustomDepth",
-				"/Engine/BufferVisualization/BaseColor"
-			]
-		},
-		{
 			"ShaderMapHash": "740908D21DFABBCEBC66537180F806CAEAF52205",
 			"Assets": [
 				"/Engine/EditorMaterials/WidgetGridVertexColorMaterial_Ma"
@@ -290,12 +267,6 @@
 			"ShaderMapHash": "21782A4B44B5FEC7667D971142C1B72DC4E73911",
 			"Assets": [
 				"/Engine/EditorMaterials/Cross_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "7C67D6C9082AA01D419DEB5AA9CBC5DCBDB0093E",
-			"Assets": [
-				"/Engine/EditorMaterials/PersonaFloorMat"
 			]
 		},
 		{
@@ -501,6 +472,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "66839067C2EAAD1307ECCBAFE1FC4AA66B173672",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
 			"ShaderMapHash": "EB9B2387D38DBCF83C7C3B618113D72146459DE4",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
@@ -510,12 +487,6 @@
 			"ShaderMapHash": "28511BD017745CADFC88E28B8FA196E99CE82A53",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
-			]
-		},
-		{
-			"ShaderMapHash": "66839067C2EAAD1307ECCBAFE1FC4AA66B173672",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
 			]
 		},
 		{
@@ -713,22 +684,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0314AF0B5CE2D7288F6738E88427B1E4D21BB29E",
+			"Assets": [
+				"/Game/OtherAssets/House/HouseMaterial_Roof"
+			]
+		},
+		{
 			"ShaderMapHash": "C8520A0E33D87D598DF8BC284B4BF6D33A71D315",
 			"Assets": [
 				"/Engine/EditorMaterials/MatineeCam_mat"
 			]
 		},
 		{
-			"ShaderMapHash": "51B97F4FEC0F52FD0A0F94B38A51FEA47CCD77AD",
+			"ShaderMapHash": "5FF7959F9B0BE073272BF3C7D9CE02EA771B1386",
 			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Under",
-				"/Game/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Interior"
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
 			]
 		},
 		{
-			"ShaderMapHash": "CF08F30D247D6ABCB2A07EC922F52346FE0E2F81",
+			"ShaderMapHash": "CA10C727DD35296A5AF6C41B3137170C689093BE",
 			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Body"
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
 			]
 		}
 	]
