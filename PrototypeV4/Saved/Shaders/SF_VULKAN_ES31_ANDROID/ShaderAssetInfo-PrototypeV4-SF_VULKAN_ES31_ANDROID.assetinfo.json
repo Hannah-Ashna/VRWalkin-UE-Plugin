@@ -89,9 +89,9 @@
 			"ShaderMapHash": "5016B6BF61EFB10FDB5C11E4308A711EF6B17055",
 			"Assets": [
 				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Under",
-				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Interior",
 				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Under",
-				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior"
+				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior",
+				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Interior"
 			]
 		},
 		{

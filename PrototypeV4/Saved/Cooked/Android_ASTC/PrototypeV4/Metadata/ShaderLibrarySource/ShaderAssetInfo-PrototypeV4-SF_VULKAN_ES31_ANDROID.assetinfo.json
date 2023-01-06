@@ -324,18 +324,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "24C6F0F46A476D1658DEAD0B6944D082C41FD7DE",
-			"Assets": [
-				"/Game/Roads/Materials/RoadMat"
-			]
-		},
-		{
-			"ShaderMapHash": "EEC68D815EE61AC1C824A89BECF382D0EB3D4591",
-			"Assets": [
-				"/Game/OtherAssets/House/HouseMaterial_Window"
-			]
-		},
-		{
 			"ShaderMapHash": "8680980AD33CBF77684668B5D18A133E205D8170",
 			"Assets": [
 				"/Game/OtherAssets/House/HouseMaterial_Wall",
@@ -349,9 +337,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "33F271E91B794CA91D5A900337630373068E399F",
+			"ShaderMapHash": "EEC68D815EE61AC1C824A89BECF382D0EB3D4591",
 			"Assets": [
-				"/Game/OtherAssets/House/HouseMaterial_Fence"
+				"/Game/OtherAssets/House/HouseMaterial_Window"
+			]
+		},
+		{
+			"ShaderMapHash": "24C6F0F46A476D1658DEAD0B6944D082C41FD7DE",
+			"Assets": [
+				"/Game/Roads/Materials/RoadMat"
 			]
 		},
 		{
@@ -359,6 +353,12 @@
 			"Assets": [
 				"/Game/OtherAssets/House/HouseMaterial_Door",
 				"/Game/OtherAssets/House/HouseMaterial_Wall_2"
+			]
+		},
+		{
+			"ShaderMapHash": "33F271E91B794CA91D5A900337630373068E399F",
+			"Assets": [
+				"/Game/OtherAssets/House/HouseMaterial_Fence"
 			]
 		},
 		{
