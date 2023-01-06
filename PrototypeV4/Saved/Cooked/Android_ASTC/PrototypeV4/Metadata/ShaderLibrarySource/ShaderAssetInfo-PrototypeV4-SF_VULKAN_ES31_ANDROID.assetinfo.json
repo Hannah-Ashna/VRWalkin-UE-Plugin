@@ -200,15 +200,7 @@
 			"ShaderMapHash": "46419CCC020BEDDC60C0CB470CAB5962E6701FF5",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
-				"/Game/OtherAssets/initialShadingGroup",
-				"/Game/OtherAssets/Trees/Pine_Tree_Wood",
-				"/Game/OtherAssets/Trees/Pine_Tree_Leaves",
-				"/Game/OtherAssets/Trees/Maple_Wood",
-				"/Game/OtherAssets/Trees/Maple_Leaves",
-				"/Game/OtherAssets/Trees/Cypress_Wood",
-				"/Game/OtherAssets/Trees/Cypress_Leaves",
-				"/Game/OtherAssets/Trees/Bare_Tree_Wood",
-				"/Game/OtherAssets/House/HouseMaterial_Floor"
+				"/Game/OtherAssets/initialShadingGroup"
 			]
 		},
 		{
@@ -278,6 +270,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8CA06CE4D4C7CB14BB505BA00C998B32A42CEA79",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "51B97F4FEC0F52FD0A0F94B38A51FEA47CCD77AD",
 			"Assets": [
 				"/Game/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Under",
@@ -302,27 +300,26 @@
 				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Under",
 				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior",
 				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Under",
-				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Interior",
-				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Interior",
-				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Box",
-				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Under"
+				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Interior"
 			]
 		},
 		{
 			"ShaderMapHash": "F30BD8D77C5F4D51693F2C29F3FE62A935CD28D9",
 			"Assets": [
 				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Body",
-				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Body",
-				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Chassis",
-				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Body",
-				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Body"
+				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Body"
 			]
 		},
 		{
 			"ShaderMapHash": "F022DF2A37013496C8E5A7C22F7E29EFAC7E7229",
 			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/Hatchback/Mi_Hatchback_Glass",
-				"/Game/VehicleVarietyPack/Materials/Pickup/Mi_Pickup_Glass"
+				"/Game/VehicleVarietyPack/Materials/Hatchback/Mi_Hatchback_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "5DF428261A29C27B93C502DE0A2542740EC4C269",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
 			]
 		},
 		{
@@ -383,13 +380,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5DF428261A29C27B93C502DE0A2542740EC4C269",
-			"Assets": [
-				"/Engine/EditorLandscapeResources/SplineEditorMeshMat",
-				"/Game/Geometry/SplineEditorMeshMat"
-			]
-		},
-		{
 			"ShaderMapHash": "E489226897DA3A00A2991AD3DAA8279755866FA9",
 			"Assets": [
 				"/Game/Vehicle/Sedan/Materials/M_Vehicle_Sedan"
@@ -399,129 +389,6 @@
 			"ShaderMapHash": "7754C779544D1DCC813C59B287EC9A0BACCB1B41",
 			"Assets": [
 				"/Game/Vehicle/Sedan/Materials/M_Vehicle_Sedan_Inst_Glass"
-			]
-		},
-		{
-			"ShaderMapHash": "8CA06CE4D4C7CB14BB505BA00C998B32A42CEA79",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "B44CBC9A5ABDF5342CE660AAB23B784CD68865D5",
-			"Assets": [
-				"/Engine/VREditor/BasicMeshes/M_Floor_01"
-			]
-		},
-		{
-			"ShaderMapHash": "76CCDB450CDE634DD3589B33E6CC23869B438F92",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_GridRotation",
-				"/Game/VRTemplate/Materials/MI_Grid_Default"
-			]
-		},
-		{
-			"ShaderMapHash": "31A7E58C5728912529183E2AC72C6E48986BCE09",
-			"Assets": [
-				"/Game/VRTemplate/Materials/MI_Grid_Accent"
-			]
-		},
-		{
-			"ShaderMapHash": "3BAFD59784DED7548A816E9366C95DD16B59A651",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_Projectile"
-			]
-		},
-		{
-			"ShaderMapHash": "2342E8AC6E6BFA4ED590906E8B4EA23A69EE6DEC",
-			"Assets": [
-				"/Game/FPWeapon/Materials/M_FPGun"
-			]
-		},
-		{
-			"ShaderMapHash": "C4EC77A0A9170CF3CC1357CBD6E13463E601E9B2",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "E1A67363257FF5E40FE8FA0AF88F2E0FEF2AFA3B",
-			"Assets": [
-				"/Game/Geometry/Meshes/CubeMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "C2AD509F3B218739391075583148E5AA1DA84717",
-			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/Masters/M_Floor"
-			]
-		},
-		{
-			"ShaderMapHash": "D70EFDE2AF37020F7DD7ECD62F4744A221B5ED5A",
-			"Assets": [
-				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
-			]
-		},
-		{
-			"ShaderMapHash": "54FD80404D715DC2B33E16589A97716A9DB2A028",
-			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Interior"
-			]
-		},
-		{
-			"ShaderMapHash": "E16398272134AB1F646206FA95A911FF8F8D2BA9",
-			"Assets": [
-				"/Game/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient"
-			]
-		},
-		{
-			"ShaderMapHash": "0012E27BE97ADB6967D852FEA4E289B057E0692D",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_TeleportNoise"
-			]
-		},
-		{
-			"ShaderMapHash": "70831422B3202BE5346DC95C147AEEE96FFFD5DF",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_TeleportCylinder"
-			]
-		},
-		{
-			"ShaderMapHash": "9137614D4A326862AE14320D4808A10CFFB05998",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_VRCursor"
-			]
-		},
-		{
-			"ShaderMapHash": "49C2B675ADA86005712947D9AB927BFA9DB5ACED",
-			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/Masters/M_Blank"
-			]
-		},
-		{
-			"ShaderMapHash": "9EF02CE34F88186DC0BE8B3B3883077EC1C2E5AE",
-			"Assets": [
-				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
-			]
-		},
-		{
-			"ShaderMapHash": "7575A43F2D2075246B616A3E9DEF5AEB5E7995DB",
-			"Assets": [
-				"/Game/Vehicle/VehicleBP/Nissan/Material_009",
-				"/Game/Vehicle/VehicleBP/Nissan/Material_008",
-				"/Game/Vehicle/VehicleBP/Nissan/Material_007",
-				"/Game/Vehicle/VehicleBP/Nissan/Material_006",
-				"/Game/Vehicle/VehicleBP/Nissan/Material_005",
-				"/Game/Vehicle/VehicleBP/Nissan/Material_004",
-				"/Game/Vehicle/VehicleBP/Nissan/Material_003",
-				"/Game/Vehicle/VehicleBP/Nissan/Material_002",
-				"/Game/Vehicle/VehicleBP/Nissan/Material_001"
-			]
-		},
-		{
-			"ShaderMapHash": "789D2746D5ADB583594AE0F1EDF156259C2F0894",
-			"Assets": [
-				"/Game/Materials/GrassFloorMaterial"
 			]
 		}
 	]

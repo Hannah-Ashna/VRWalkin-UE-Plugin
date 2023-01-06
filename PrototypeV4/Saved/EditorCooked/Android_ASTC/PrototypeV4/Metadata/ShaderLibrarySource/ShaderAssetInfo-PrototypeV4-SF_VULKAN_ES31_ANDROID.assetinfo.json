@@ -2,54 +2,6 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "2229AC87151BE1555D6F120EB690227AD08D2762",
-			"Assets": [
-				"/Game/VRPawns/Meshes/TeleportArcMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "70831422B3202BE5346DC95C147AEEE96FFFD5DF",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_TeleportCylinder"
-			]
-		},
-		{
-			"ShaderMapHash": "0012E27BE97ADB6967D852FEA4E289B057E0692D",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_TeleportNoise"
-			]
-		},
-		{
-			"ShaderMapHash": "E16398272134AB1F646206FA95A911FF8F8D2BA9",
-			"Assets": [
-				"/Game/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient"
-			]
-		},
-		{
-			"ShaderMapHash": "9137614D4A326862AE14320D4808A10CFFB05998",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_VRCursor",
-				"/Engine/EditorMaterials/WidgetMaterial",
-				"/Engine/BufferVisualization/SceneDepthWorldUnits",
-				"/Engine/BufferVisualization/CustomDepthWorldUnits",
-				"/Engine/BufferVisualization/WorldNormal",
-				"/Engine/BufferVisualization/SubsurfaceColor",
-				"/Engine/BufferVisualization/Specular",
-				"/Engine/BufferVisualization/SeparateTranslucencyA",
-				"/Engine/BufferVisualization/SeparateTranslucencyRGB",
-				"/Engine/BufferVisualization/SceneDepth",
-				"/Engine/BufferVisualization/SceneColor",
-				"/Engine/BufferVisualization/Roughness",
-				"/Engine/BufferVisualization/Opacity",
-				"/Engine/BufferVisualization/Metallic",
-				"/Engine/BufferVisualization/MaterialAO",
-				"/Engine/BufferVisualization/LightingModel",
-				"/Engine/BufferVisualization/FinalImage",
-				"/Engine/BufferVisualization/CustomDepth",
-				"/Engine/BufferVisualization/BaseColor"
-			]
-		},
-		{
 			"ShaderMapHash": "7C67D6C9082AA01D419DEB5AA9CBC5DCBDB0093E",
 			"Assets": [
 				"/Engine/EditorMaterials/PersonaFloorMat"
@@ -59,6 +11,12 @@
 			"ShaderMapHash": "F76858CD469781F7B4E57A52BA11AD3A69B696EF",
 			"Assets": [
 				"/Engine/EditorMaterials/GridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2229AC87151BE1555D6F120EB690227AD08D2762",
+			"Assets": [
+				"/Game/VRPawns/Meshes/TeleportArcMaterial"
 			]
 		},
 		{
@@ -98,6 +56,12 @@
 			"Assets": [
 				"/Game/OtherAssets/House/HouseMaterial_Wall",
 				"/Game/OtherAssets/House/HouseMaterial_Wall_3"
+			]
+		},
+		{
+			"ShaderMapHash": "0314AF0B5CE2D7288F6738E88427B1E4D21BB29E",
+			"Assets": [
+				"/Game/OtherAssets/House/HouseMaterial_Roof"
 			]
 		},
 		{
@@ -225,6 +189,29 @@
 			"ShaderMapHash": "D330ACFAD2D8853AC50405FE0888DB0373F68B84",
 			"Assets": [
 				"/Engine/EditorMaterials/WidgetMaterial_Current"
+			]
+		},
+		{
+			"ShaderMapHash": "9137614D4A326862AE14320D4808A10CFFB05998",
+			"Assets": [
+				"/Engine/EditorMaterials/WidgetMaterial",
+				"/Engine/BufferVisualization/SceneDepthWorldUnits",
+				"/Engine/BufferVisualization/CustomDepthWorldUnits",
+				"/Engine/BufferVisualization/WorldNormal",
+				"/Engine/BufferVisualization/SubsurfaceColor",
+				"/Engine/BufferVisualization/Specular",
+				"/Engine/BufferVisualization/SeparateTranslucencyA",
+				"/Engine/BufferVisualization/SeparateTranslucencyRGB",
+				"/Engine/BufferVisualization/SceneDepth",
+				"/Engine/BufferVisualization/SceneColor",
+				"/Engine/BufferVisualization/Roughness",
+				"/Engine/BufferVisualization/Opacity",
+				"/Engine/BufferVisualization/Metallic",
+				"/Engine/BufferVisualization/MaterialAO",
+				"/Engine/BufferVisualization/LightingModel",
+				"/Engine/BufferVisualization/FinalImage",
+				"/Engine/BufferVisualization/CustomDepth",
+				"/Engine/BufferVisualization/BaseColor"
 			]
 		},
 		{
@@ -681,12 +668,6 @@
 			"ShaderMapHash": "193A55CE4A9F8E89DAC12E1E2FC78F12F2387C9B",
 			"Assets": [
 				"/Engine/EngineMaterials/WorldGridMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "0314AF0B5CE2D7288F6738E88427B1E4D21BB29E",
-			"Assets": [
-				"/Game/OtherAssets/House/HouseMaterial_Roof"
 			]
 		},
 		{
