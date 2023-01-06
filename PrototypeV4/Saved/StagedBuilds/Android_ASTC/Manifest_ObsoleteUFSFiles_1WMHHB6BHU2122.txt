@@ -1,2 +1,3 @@
-k.uexp
 PrototypeV4/Saved/Logs/PrototypeV4.log
+.uasset
+PrototypeV4/Saved/Logs/PrototypeV4-backup-2023.01.06-21.41.54.log

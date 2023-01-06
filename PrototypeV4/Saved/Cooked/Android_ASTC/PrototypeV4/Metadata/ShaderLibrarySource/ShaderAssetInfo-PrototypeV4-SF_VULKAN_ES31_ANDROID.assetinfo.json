@@ -317,10 +317,28 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5DF428261A29C27B93C502DE0A2542740EC4C269",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
 			"ShaderMapHash": "01F8AAEB1F57554F217607B1E34921E9F9B8FAB0",
 			"Assets": [
 				"/Game/OtherAssets/Trees/Oak_Tree_Wood",
 				"/Game/OtherAssets/Trees/Oak_Tree_Leaves"
+			]
+		},
+		{
+			"ShaderMapHash": "24C6F0F46A476D1658DEAD0B6944D082C41FD7DE",
+			"Assets": [
+				"/Game/Roads/Materials/RoadMat"
+			]
+		},
+		{
+			"ShaderMapHash": "EEC68D815EE61AC1C824A89BECF382D0EB3D4591",
+			"Assets": [
+				"/Game/OtherAssets/House/HouseMaterial_Window"
 			]
 		},
 		{
@@ -337,15 +355,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "EEC68D815EE61AC1C824A89BECF382D0EB3D4591",
+			"ShaderMapHash": "33F271E91B794CA91D5A900337630373068E399F",
 			"Assets": [
-				"/Game/OtherAssets/House/HouseMaterial_Window"
-			]
-		},
-		{
-			"ShaderMapHash": "24C6F0F46A476D1658DEAD0B6944D082C41FD7DE",
-			"Assets": [
-				"/Game/Roads/Materials/RoadMat"
+				"/Game/OtherAssets/House/HouseMaterial_Fence"
 			]
 		},
 		{
@@ -353,12 +365,6 @@
 			"Assets": [
 				"/Game/OtherAssets/House/HouseMaterial_Door",
 				"/Game/OtherAssets/House/HouseMaterial_Wall_2"
-			]
-		},
-		{
-			"ShaderMapHash": "33F271E91B794CA91D5A900337630373068E399F",
-			"Assets": [
-				"/Game/OtherAssets/House/HouseMaterial_Fence"
 			]
 		},
 		{
@@ -371,12 +377,6 @@
 			"ShaderMapHash": "B77F4D6E0B7CB420A3DBF5F4C02E0374550314CF",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
-			]
-		},
-		{
-			"ShaderMapHash": "5DF428261A29C27B93C502DE0A2542740EC4C269",
-			"Assets": [
-				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
 			]
 		},
 		{
