@@ -317,12 +317,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5DF428261A29C27B93C502DE0A2542740EC4C269",
-			"Assets": [
-				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
-			]
-		},
-		{
 			"ShaderMapHash": "01F8AAEB1F57554F217607B1E34921E9F9B8FAB0",
 			"Assets": [
 				"/Game/OtherAssets/Trees/Oak_Tree_Wood",
@@ -330,15 +324,22 @@
 			]
 		},
 		{
-			"ShaderMapHash": "24C6F0F46A476D1658DEAD0B6944D082C41FD7DE",
+			"ShaderMapHash": "28B0DADFBB0A778883A95E023EEEB44D0DDDE86A",
 			"Assets": [
-				"/Game/Roads/Materials/RoadMat"
+				"/Game/OtherAssets/House/HouseMaterial_Door",
+				"/Game/OtherAssets/House/HouseMaterial_Wall_2"
 			]
 		},
 		{
-			"ShaderMapHash": "EEC68D815EE61AC1C824A89BECF382D0EB3D4591",
+			"ShaderMapHash": "33F271E91B794CA91D5A900337630373068E399F",
 			"Assets": [
-				"/Game/OtherAssets/House/HouseMaterial_Window"
+				"/Game/OtherAssets/House/HouseMaterial_Fence"
+			]
+		},
+		{
+			"ShaderMapHash": "0314AF0B5CE2D7288F6738E88427B1E4D21BB29E",
+			"Assets": [
+				"/Game/OtherAssets/House/HouseMaterial_Roof"
 			]
 		},
 		{
@@ -349,22 +350,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "0314AF0B5CE2D7288F6738E88427B1E4D21BB29E",
+			"ShaderMapHash": "EEC68D815EE61AC1C824A89BECF382D0EB3D4591",
 			"Assets": [
-				"/Game/OtherAssets/House/HouseMaterial_Roof"
+				"/Game/OtherAssets/House/HouseMaterial_Window"
 			]
 		},
 		{
-			"ShaderMapHash": "33F271E91B794CA91D5A900337630373068E399F",
+			"ShaderMapHash": "24C6F0F46A476D1658DEAD0B6944D082C41FD7DE",
 			"Assets": [
-				"/Game/OtherAssets/House/HouseMaterial_Fence"
-			]
-		},
-		{
-			"ShaderMapHash": "28B0DADFBB0A778883A95E023EEEB44D0DDDE86A",
-			"Assets": [
-				"/Game/OtherAssets/House/HouseMaterial_Door",
-				"/Game/OtherAssets/House/HouseMaterial_Wall_2"
+				"/Game/Roads/Materials/RoadMat"
 			]
 		},
 		{
@@ -377,6 +371,12 @@
 			"ShaderMapHash": "B77F4D6E0B7CB420A3DBF5F4C02E0374550314CF",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "5DF428261A29C27B93C502DE0A2542740EC4C269",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
 			]
 		},
 		{

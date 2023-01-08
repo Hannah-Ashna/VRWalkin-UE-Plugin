@@ -538,12 +538,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E356742301BF1527D4033A086C509AF3BC8F3DC2",
-			"Assets": [
-				"/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "8CA160519AB3E78FE83FE515CC9141B53D3380F2",
 			"Assets": [
 				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
@@ -668,6 +662,12 @@
 			"ShaderMapHash": "193A55CE4A9F8E89DAC12E1E2FC78F12F2387C9B",
 			"Assets": [
 				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E356742301BF1527D4033A086C509AF3BC8F3DC2",
+			"Assets": [
+				"/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial"
 			]
 		},
 		{
