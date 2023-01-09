@@ -324,18 +324,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "54FD80404D715DC2B33E16589A97716A9DB2A028",
-			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Interior"
-			]
-		},
-		{
-			"ShaderMapHash": "5DF428261A29C27B93C502DE0A2542740EC4C269",
-			"Assets": [
-				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
-			]
-		},
-		{
 			"ShaderMapHash": "01F8AAEB1F57554F217607B1E34921E9F9B8FAB0",
 			"Assets": [
 				"/Game/OtherAssets/Trees/Oak_Tree_Wood",
@@ -381,6 +369,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "19D7159108ABC6C75F4C519731FF88C2723196D2",
+			"Assets": [
+				"/Game/Roads/Materials/ZebraMarkingsMat"
+			]
+		},
+		{
 			"ShaderMapHash": "05E8AA9A967DDCEA9B15F1D465FA1DEF289207AB",
 			"Assets": [
 				"/Game/Roads/Materials/PavementMat"
@@ -393,6 +387,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "54FD80404D715DC2B33E16589A97716A9DB2A028",
+			"Assets": [
+				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Interior"
+			]
+		},
+		{
+			"ShaderMapHash": "5DF428261A29C27B93C502DE0A2542740EC4C269",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
 			"ShaderMapHash": "E489226897DA3A00A2991AD3DAA8279755866FA9",
 			"Assets": [
 				"/Game/Vehicle/Sedan/Materials/M_Vehicle_Sedan"
@@ -402,18 +408,6 @@
 			"ShaderMapHash": "7754C779544D1DCC813C59B287EC9A0BACCB1B41",
 			"Assets": [
 				"/Game/Vehicle/Sedan/Materials/M_Vehicle_Sedan_Inst_Glass"
-			]
-		},
-		{
-			"ShaderMapHash": "81E0938849F7C7B4419BB1C0C6B08621155E0ED8",
-			"Assets": [
-				"/Game/Roads/Materials/ZebraMarkingsMat"
-			]
-		},
-		{
-			"ShaderMapHash": "3D325A1FF48D6F81AC78700021F8952437934351",
-			"Assets": [
-				"/Game/Roads/Materials/ZebraMarkingMat"
 			]
 		},
 		{
