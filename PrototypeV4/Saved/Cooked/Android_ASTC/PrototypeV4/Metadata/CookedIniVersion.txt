@@ -715,7 +715,7 @@ Game:/Script/EngineSettings.GeneralProjectSettings:SupportContact:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:ProjectID:0=00DB7C7D41C1ECF7F1053B88FD99A72B
 Game:/Script/EngineSettings.GeneralProjectSettings:bStartInVR:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Development
-Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=False
+Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=True
 Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
 Game:/Script/UnrealEd.ProjectPackagingSettings:bCompressed:0=True
 Game:/Script/UnrealEd.ProjectPackagingSettings:PakFileCompressionFormats:0=Oodle
@@ -734,7 +734,7 @@ Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipEditorContent:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:bSharedMaterialNativeLibraries:0=True
 Game:/Script/UnrealEd.ProjectPackagingSettings:bShareMaterialShaderCode:0=True
 Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipMovies:0=False
-Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
+Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=Always
 Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
 Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Deploys")
 Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False

@@ -2,6 +2,24 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
+			"ShaderMapHash": "CA10C727DD35296A5AF6C41B3137170C689093BE",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "5FF7959F9B0BE073272BF3C7D9CE02EA771B1386",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "C72A08AD169A15486238E9F59514B5890A9D9F5F",
+			"Assets": [
+				"/Game/OtherAssets/Target/GlowingTargetMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "7C67D6C9082AA01D419DEB5AA9CBC5DCBDB0093E",
 			"Assets": [
 				"/Engine/EditorMaterials/PersonaFloorMat"
@@ -32,9 +50,9 @@
 				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Box",
 				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Under",
 				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Under",
+				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior",
 				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Interior",
-				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Under",
-				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior"
+				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Under"
 			]
 		},
 		{
@@ -50,8 +68,8 @@
 		{
 			"ShaderMapHash": "51B97F4FEC0F52FD0A0F94B38A51FEA47CCD77AD",
 			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Interior",
-				"/Game/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Under"
+				"/Game/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Under",
+				"/Game/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Interior"
 			]
 		},
 		{
@@ -693,24 +711,6 @@
 			"ShaderMapHash": "C8520A0E33D87D598DF8BC284B4BF6D33A71D315",
 			"Assets": [
 				"/Engine/EditorMaterials/MatineeCam_mat"
-			]
-		},
-		{
-			"ShaderMapHash": "5FF7959F9B0BE073272BF3C7D9CE02EA771B1386",
-			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
-			]
-		},
-		{
-			"ShaderMapHash": "CA10C727DD35296A5AF6C41B3137170C689093BE",
-			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
-			]
-		},
-		{
-			"ShaderMapHash": "C72A08AD169A15486238E9F59514B5890A9D9F5F",
-			"Assets": [
-				"/Game/OtherAssets/Target/GlowingTargetMaterial"
 			]
 		}
 	]
