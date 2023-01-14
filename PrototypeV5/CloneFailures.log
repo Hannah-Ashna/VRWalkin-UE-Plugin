@@ -1,0 +1,8 @@
+The following files could not be copied to the new project directory
+Intermediate/Android/armv7/gradle/app/build/intermediates/javac/debug/classes/com/google/android/vending/expansion/downloader/impl/DownloaderService$GenerateSaveFileError.class
+Intermediate/Android/armv7/gradle/app/build/intermediates/javac/debug/classes/com/google/android/vending/expansion/downloader/impl/DownloaderService$InnerBroadcastReceiver.class
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/impl/CustomIntentService$ServiceHandler.dex
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/impl/DownloaderService$GenerateSaveFileError.dex
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/impl/DownloaderService$InnerBroadcastReceiver.dex
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/impl/DownloaderService$LVLRunnable$1.dex
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/impl/DownloadsDB$DownloadsContentDBHelper.dex
