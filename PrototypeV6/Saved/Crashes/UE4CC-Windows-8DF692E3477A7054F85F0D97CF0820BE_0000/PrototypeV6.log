@@ -1,0 +1,1377 @@
+﻿Log file open, 01/18/23 10:50:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PrototypeV6
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.950197
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.01.18-10.50.17:725][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.01.18-10.50.17:725][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.01.18-10.50.17:725][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Engine.ini]
+[2023.01.18-10.50.17:725][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.01.18-10.50.17:725][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2023.01.18-10.50.17:725][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2023.01.18-10.50.17:725][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2023.01.18-10.50.17:725][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2023.01.18-10.50.17:725][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2023.01.18-10.50.17:725][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.VT.EnableAutoImport:1]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[vr.VRS.HMDFixedFoveationLevel:2]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2023.01.18-10.50.17:726][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2023.01.18-10.50.17:727][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2023.01.18-10.50.17:727][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2023.01.18-10.50.17:727][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2023.01.18-10.50.17:727][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2023.01.18-10.50.17:727][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2023.01.18-10.50.17:727][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2023.01.18-10.50.17:727][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2023.01.18-10.50.17:727][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2023.01.18-10.50.17:727][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2023.01.18-10.50.17:727][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2023.01.18-10.50.17:727][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2023.01.18-10.50.17:727][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2023.01.18-10.50.17:727][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2023.01.18-10.50.17:727][  0]LogConfig: Setting CVar [[vr.MobileMultiView:1]]
+[2023.01.18-10.50.17:727][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:1]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:1]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[r.Mobile.SupportsGen4TAA:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Engine.ini]
+[2023.01.18-10.50.17:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Engine.ini]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Engine.ini]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.01.18-10.50.17:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Engine.ini]
+[2023.01.18-10.50.17:728][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Engine.ini]
+[2023.01.18-10.50.17:747][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Scalability.ini]
+[2023.01.18-10.50.17:747][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.01.18-10.50.17:747][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.01.18-10.50.17:747][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Scalability.ini]
+[2023.01.18-10.50.17:747][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.01.18-10.50.17:747][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Scalability.ini]
+[2023.01.18-10.50.17:747][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.01.18-10.50.17:747][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.01.18-10.50.17:747][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.01.18-10.50.17:747][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.01.18-10.50.17:747][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.01.18-10.50.17:747][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.01.18-10.50.17:747][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.01.18-10.50.17:747][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.01.18-10.50.17:747][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Scalability.ini]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Scalability.ini]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.01.18-10.50.17:748][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Scalability.ini]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Scalability.ini]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Scalability.ini]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.01.18-10.50.17:749][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.01.18-10.50.17:750][  0]LogInit: Selected Device Profile: [Windows]
+[2023.01.18-10.50.17:750][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.01.18-10.50.17:751][  0]LogHAL: Display: Platform has ~ 16 GB [16973881344 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.18-10.50.17:751][  0]LogInit: Going up to parent DeviceProfile []
+[2023.01.18-10.50.17:751][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Scalability.ini]
+[2023.01.18-10.50.17:751][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.01.18-10.50.17:751][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.01.18-10.50.17:751][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Scalability.ini]
+[2023.01.18-10.50.17:751][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Scalability.ini]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Scalability.ini]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Scalability.ini]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.01.18-10.50.17:752][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Scalability.ini]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Scalability.ini]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Scalability.ini]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.01.18-10.50.17:753][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.18-10.50.17:754][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.01.18-10.50.17:754][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.01.18-10.50.17:754][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.01.18-10.50.17:754][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Engine.ini]
+[2023.01.18-10.50.17:754][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Config/Windows/Editor.ini]
+[2023.01.18-10.50.17:755][  0]LogInit: Computer: NOTAHACKER
+[2023.01.18-10.50.17:755][  0]LogInit: User: SLATE15
+[2023.01.18-10.50.17:755][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.01.18-10.50.17:755][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.18-10.50.17:756][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2023.01.18-10.50.17:756][  0]LogMemory: Platform Memory Stats for Windows
+[2023.01.18-10.50.17:756][  0]LogMemory: Process Physical Memory: 148.16 MB used, 150.25 MB peak
+[2023.01.18-10.50.17:756][  0]LogMemory: Process Virtual Memory: 121.64 MB used, 121.64 MB peak
+[2023.01.18-10.50.17:756][  0]LogMemory: Physical Memory: 7889.80 MB used,  8297.75 MB free, 16187.55 MB total
+[2023.01.18-10.50.17:756][  0]LogMemory: Virtual Memory: 134202200.00 MB used,  15528.34 MB free, 134217728.00 MB total
+[2023.01.18-10.50.17:763][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.18-10.50.17:925][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.01.18-10.50.17:928][  0]LogInit: Using OS detected language (en-US).
+[2023.01.18-10.50.17:928][  0]LogInit: Using OS detected locale (en-GB).
+[2023.01.18-10.50.17:934][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.01.18-10.50.18:278][  0]LogInit: Setting process to per monitor DPI aware
+[2023.01.18-10.50.18:310][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.01.18-10.50.18:376][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.18-10.50.18:376][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.18-10.50.20:583][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.01.18-10.50.20:588][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.01.18-10.50.20:588][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.01.18-10.50.20:588][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.01.18-10.50.20:588][  0]LogD3D11RHI: D3D11 adapters:
+[2023.01.18-10.50.20:707][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2023.01.18-10.50.20:708][  0]LogD3D11RHI:       5980/0/8093 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.01.18-10.50.20:751][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2023.01.18-10.50.20:751][  0]LogD3D11RHI:       128/0/8093 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2023.01.18-10.50.20:753][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.01.18-10.50.20:753][  0]LogD3D11RHI:       0/0/8093 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.01.18-10.50.20:753][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.01.18-10.50.20:753][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2023.01.18-10.50.20:753][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.01.18-10.50.20:753][  0]LogD3D11RHI:     DeviceId    : 1f11
+[2023.01.18-10.50.20:753][  0]LogD3D11RHI:     SubSysId    : 95e11558
+[2023.01.18-10.50.20:753][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.01.18-10.50.20:753][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2023.01.18-10.50.20:753][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.18-10.50.20:753][  0]LogD3D11RHI:     SharedSystemMemory : 8486940672 bytes
+[2023.01.18-10.50.20:753][  0]LogD3D11RHI:     AdapterLuid : 0 72194
+[2023.01.18-10.50.20:759][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.01.18-10.50.20:759][  0]LogD3D11RHI:     GPU DeviceId: 0x1f11 (for the marketing name, search the web for "GPU Device Id")
+[2023.01.18-10.50.20:759][  0]LogWindows: EnumDisplayDevices:
+[2023.01.18-10.50.20:759][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2023.01.18-10.50.20:759][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2023.01.18-10.50.20:759][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2023.01.18-10.50.20:760][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2023.01.18-10.50.20:760][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2023.01.18-10.50.20:760][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2023.01.18-10.50.20:760][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2023.01.18-10.50.20:761][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.01.18-10.50.20:761][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2023.01.18-10.50.20:761][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2023.01.18-10.50.20:761][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2023.01.18-10.50.20:761][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2023.01.18-10.50.20:761][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.01.18-10.50.20:761][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2023.01.18-10.50.20:761][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.01.18-10.50.20:761][  0]LogD3D11RHI:     DeviceId    : 1f11
+[2023.01.18-10.50.20:761][  0]LogD3D11RHI:     SubSysId    : 95e11558
+[2023.01.18-10.50.20:761][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.01.18-10.50.20:761][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2023.01.18-10.50.20:761][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.18-10.50.20:761][  0]LogD3D11RHI:     SharedSystemMemory : 8486940672 bytes
+[2023.01.18-10.50.20:761][  0]LogD3D11RHI:     AdapterLuid : 0 72194
+[2023.01.18-10.50.20:830][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.01.18-10.50.20:831][  0]LogD3D11RHI: Async texture creation enabled
+[2023.01.18-10.50.20:831][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.01.18-10.50.20:864][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.01.18-10.50.20:923][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.01.18-10.50.21:269][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.01.18-10.50.21:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.01.18-10.50.21:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.01.18-10.50.21:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.01.18-10.50.21:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.01.18-10.50.21:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.01.18-10.50.21:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.01.18-10.50.21:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.01.18-10.50.21:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.01.18-10.50.21:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.01.18-10.50.21:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.01.18-10.50.21:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.01.18-10.50.21:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.01.18-10.50.21:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.01.18-10.50.21:346][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.01.18-10.50.21:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.01.18-10.50.21:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.01.18-10.50.21:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.01.18-10.50.21:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.01.18-10.50.21:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.01.18-10.50.21:425][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.01.18-10.50.21:425][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.01.18-10.50.21:439][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.01.18-10.50.21:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.01.18-10.50.21:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.01.18-10.50.21:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.01.18-10.50.21:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.01.18-10.50.21:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.01.18-10.50.21:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.01.18-10.50.21:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.18-10.50.21:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.18-10.50.21:505][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.18-10.50.21:506][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.01.18-10.50.21:520][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.18-10.50.21:616][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.01.18-10.50.21:768][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.01.18-10.50.21:769][  0]LogShaderCompilers: Guid format shader working directory is -49 characters bigger than the processId version (../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Intermediate/Shaders/WorkingDirectory/9152/).
+[2023.01.18-10.50.21:770][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SLATE 15/AppData/Local/Temp/UnrealShaderWorkingDir/53DCD7504117D408D70A4F9988332E6F/'.
+[2023.01.18-10.50.21:771][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.01.18-10.50.21:771][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.01.18-10.50.21:771][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.01.18-10.50.24:585][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.01.18-10.50.24:709][  0]LogDerivedDataCache: Loaded boot cache 0.12s 105MB C:/Users/SLATE 15/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.01.18-10.50.24:710][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SLATE 15/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.01.18-10.50.24:710][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.18-10.50.24:710][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.01.18-10.50.24:710][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.18-10.50.24:710][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.01.18-10.50.24:739][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.01.18-10.50.24:739][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.18-10.50.24:739][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.01.18-10.50.24:754][  0]LogDerivedDataCache: Speed tests for C:/Users/SLATE 15/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.01.18-10.50.24:754][  0]LogDerivedDataCache: Display: Performance to C:/Users/SLATE 15/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.12ms. RandomReadSpeed=105.50MBs, RandomWriteSpeed=200.96MBs. Assigned SpeedClass 'Local'
+[2023.01.18-10.50.24:756][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SLATE 15/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.18-10.50.24:756][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.18-10.50.24:756][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.01.18-10.50.24:811][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.18-10.50.24:827][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.18-10.50.24:869][  0]LogAssetRegistry: FAssetRegistry took 0.0065 seconds to start up
+[2023.01.18-10.50.25:208][  0]LogInit: Selected Device Profile: [Windows]
+[2023.01.18-10.50.25:208][  0]LogInit: Active device profile: [00000285C5A5BD00][00000285C2743800 49] Windows
+[2023.01.18-10.50.25:208][  0]LogInit: Profiles: [00000285C5A5BD00][00000285C2743800 49] Windows, [00000285C5A5FC00][00000285C38DBAC0 49] WindowsNoEditor, [00000285C5A58500][00000285C38DE200 49] WindowsServer, [00000285C5A5C400][00000285C38E24C0 49] WindowsClient, [00000285C5A5BF00][00000285C38E6780 49] IOS, [00000285C5A5FB00][00000285C38EAA40 49] iPadAir, [00000285C5A58300][00000285C38EED00 49] iPadAir2, [00000285C5A10F00][00000285C38FF1C0 49] IPadPro, [00000285C5A11000][00000285C38D7200 49] iPadAir3, [00000285C5A5B900][00000285C38FB4C0 49] iPadAir4, [00000285C5A10800][00000285C38F7780 49] iPadMini2, [00000285C5A58600][00000285C3903A40 49] iPadMini3, [00000285C5A11600][00000285C3906180 49] iPadMini4, [00000285C5A5BC00][00000285C390A440 49] iPadMini5, [00000285C5A5CF00][00000285C391E980 49] iPhone6, [00000285C5A5D000][00000285C390E9C0 49] iPodTouch6, [00000285C5A13D00][00000285C4EC4F00 49] iPhone7, [00000285C5A13C00][00000285C3916F40 49] iPodTouch7, [00000285C5A5CA00][00000285C38F31C0 49] iPhone5S, [00000285C5A10900][00000285C391B440 49] iPhone6Plus, [00000285C5A5D600][00000285C4EC1700 49] iPhone6S, [00000285C5A13500][00000285C4EC99C0 49] iPhone6SPlus, [00000285C5A5C500][00000285C4ECC100 49] iPhone7Plus, [00000285C5A10700][00000285C4ED03C0 49] iPhoneSE, [00000285C5A5D900][00000285C4ED4680 49] iPhone8, [00000285C5A13100][00000285C4ED8940 49] iPhone8Plus, [00000285C5A5FA00][00000285C4EDCC00 49] iPhoneX, [00000285C5A11700][00000285C4EE0EC0 49] iPhoneXS, [00000285C5A5DC00][00000285C4EE5180 49] iPhoneXSMax, [00000285C5A11100][00000285C3913400 49] iPhoneXR, [00000285C5A5F900][00000285C4EE9680 49] iPhone11, [00000285C5A11200][00000285C4EF1940 49] iPhone11Pro, [00000285C5A5DF00][00000285C4EF5C00 49] iPhone11ProMax, [00000285C5A12900][00000285C4EF8340 49] iPhoneSE2, [00000285C5A5EF00][00000285C4EFC600 49] iPhone12Mini, [00000285C5A11D00][00000285C4F008C0 49] iPhone12, [00000285C5A5C300][00000285C4F04B80 49] iPhone12Pro, [00000285C5A12700][00000285C4F08E40 49] iPhone12ProMax, [00000285C5A5F200][00000285C4F0D100 49] iPadPro105, [00000285C5A11F00][00000285C4F113C0 49] iPadPro129, [00000285C5A5E500][00000285C4EED640 49] iPadPro97, [00000285C5A10D00][00000285C4F158C0 49] iPadPro2_129, [00000285C5A5EE00][00000285C4F1DB80 49] iPad5, [00000285C5A13600][00000285C4F202C0 49] iPad6, [00000285C5A5CD00][00000285C4F24580 49] iPad7, [00000285C5A13E00][00000285C4F28840 49] iPad8, [00000285C5A5EC00][00000285C4F2CB00 49] iPadPro11, [00000285C5A12200][00000285C4F30DC0 49] iPadPro2_11, [00000285C5A5E700][00000285C4F35080 49] iPadPro3_129, [00000285C5A12B00][00000285C4F39340 49] iPadPro4_129, [00000285C5A5C900][00000285C4F3D600 49] AppleTV, [00000285C5A12800][00000285C4F19880 49] AppleTV4K, [00000285C5A5EB00][00000285C4F41B00 49] TVOS, [00000285C5A10400][00000285C4F48240 49] Mac, [00000285C5A5F100][00000285C4F4C500 49] MacClient, [00000285C5A13800][00000285C4F507C0 49] MacNoEditor, [00000285C5A5C700][00000285C4F54A80 49] MacServer, [00000285C5A10C00][00000285C4F58D40 49] Linux, [00000285C5A5D700][00000285C4F5D000 49] LinuxAArch64, [00000285C5A12600][00000285C4F612C0 49] LinuxNoEditor, [00000285C5A5E300][00000285C4F65580 49] LinuxAArch64NoEditor, [00000285C5A12E00][00000285C4F69840 49] LinuxClient, [00000285C5A5C600][00000285C4F45AC0 49] LinuxAArch64Client, [00000285C5A11300][00000285C4F6C1C0 49] LinuxServer, [00000285C5A5C800][00000285C4F74480 49] LinuxAArch64Server, [00000285C5A12300][00000285C4F78740 49] Android, [00000285C5A5DE00][00000285C4F7CA00 49] Android_Low, [00000285C5ACD300][00000285C5F90CC0 49] Android_Mid, [00000285C5A59300][00000285C5F94F80 49] Android_High, [00000285C5ACE300][00000285C5F99240 49] Android_Default, [00000285C5A59800][00000285C5F9D500 49] Android_Adreno4xx, [00000285C5ACE600][00000285C5FA17C0 49] Android_Adreno5xx_Low, [00000285C5A5AC00][00000285C5FA5A80 49] Android_Adreno5xx, [00000285C5ACC100][00000285C4F70180 49] Android_Adreno6xx, [00000285C5A5B300][00000285C5FA8400 49] Android_Adreno6xx_Vulkan, [00000285C5ACE500][00000285C5FB06C0 49] Android_Mali_T6xx, [00000285C5A5A500][00000285C5FB4980 49] Android_Mali_T7xx, [00000285C5ACCD00][00000285C5FB8C40 49] Android_Mali_T8xx, [00000285C5A58A00][00000285C5FBCF00 49] Android_Mali_G71, [00000285C5ACEC00][00000285C5FC11C0 49] Android_Mali_G72, [00000285C5A58700][00000285C5FC5480 49] Android_Mali_G72_Vulkan, [00000285C5ACD200][00000285C5FC9740 49] Android_Mali_G76, [00000285C5A5B000][00000285C5FCDA00 49] Android_Mali_G76_Vulkan, [00000285C5ACC800][00000285C5FD0140 49] Android_Mali_G77, [00000285C5A5AD00][00000285C5FAC3C0 49] Android_Mali_G77_Vulkan, [00000285C5ACDB00][00000285C5FD4640 49] Android_Mali_G78, [00000285C5A5A300][00000285C5FDC900 49] Android_Mali_G78_Vulkan, [00000285C5A5FF00][00000285C5FE0BC0 49] Android_Mali_G710, [00000285C5A10A00][00000285C5FE4E80 49] Android_Mali_G710_Vulkan, [00000285C5A58200][00000285C5FE9140 49] Android_Vulkan_SM5, [00000285C5A11800][00000285C5FED400 49] Android_PowerVR_G6xxx, [00000285C5A5DD00][00000285C5FF16C0 49] Android_PowerVR_GT7xxx, [00000285C5ACCA00][00000285C5FF5980 49] Android_PowerVR_GE8xxx, [00000285C5A5E100][00000285C5FF80C0 49] Android_PowerVR_GM9xxx, [00000285C5ACE000][00000285C5FFC380 49] Android_PowerVR_GM9xxx_Vulkan, [00000285C5A5F800][00000285C5FD8600 49] Android_TegraK1, [00000285C5ACD600][00000285C60048C0 49] Android_Unknown_Vulkan, [00000285C5A5E000][00000285C6008B80 49] Lumin, [00000285C5ACD100][00000285C600CE40 49] Lumin_Desktop, [00000285C5A5CB00][00000285C6011100 49] HoloLens, 
+[2023.01.18-10.50.25:506][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.18-10.50.25:506][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.18-10.50.25:506][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.18-10.50.25:506][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.18-10.50.25:506][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.18-10.50.25:582][  0]LogNetVersion: PrototypeV6 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2678963413)
+[2023.01.18-10.50.26:839][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.01.18-10.50.26:991][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.01.18-10.50.26:998][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.01.18-10.50.26:998][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.01.18-10.50.26:998][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.18-10.50.27:885][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 275A5137419D78A6134A758E56306849 | Instance: 5879072D4A68BB0701882B91C2589AE4 (NOTAHACKER-9152).
+[2023.01.18-10.50.28:227][  0]LogPython: Using Python 3.7.7
+[2023.01.18-10.50.28:938][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.01.18-10.50.28:946][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.01.18-10.50.29:158][  0]SourceControl: Source control is disabled
+[2023.01.18-10.50.29:158][  0]SourceControl: Source control is disabled
+[2023.01.18-10.50.29:179][  0]SourceControl: Source control is disabled
+[2023.01.18-10.50.29:197][  0]SourceControl: Source control is disabled
+[2023.01.18-10.50.29:211][  0]SourceControl: Source control is disabled
+[2023.01.18-10.50.29:220][  0]LogUProjectInfo: Found projects:
+[2023.01.18-10.50.29:788][  0]LogOpenImageDenoise: OIDN starting up
+[2023.01.18-10.50.29:807][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.01.18-10.50.29:839][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.18-10.50.29:839][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.18-10.50.30:420][  0]LogCollectionManager: Loaded 0 collections in 0.002351 seconds
+[2023.01.18-10.50.30:478][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/Collections/' took 0.00s
+[2023.01.18-10.50.30:478][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/Developers/SLATE15/Collections/' took 0.00s
+[2023.01.18-10.50.30:478][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/Collections/' took 0.00s
+[2023.01.18-10.50.30:478][  0]LogOcInput: OculusInput pre-init called
+[2023.01.18-10.50.30:893][  0]LogEngine: Initializing Engine...
+[2023.01.18-10.50.31:049][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2023.01.18-10.50.31:050][  0]LogHMD: Warning: Required extension XR_EXT_eye_gaze_interaction is not available
+[2023.01.18-10.50.31:050][  0]LogHMD: Could not enable all required OpenXR extensions for OpenXREyeTracker on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+[2023.01.18-10.50.31:054][  0]LogHMD: Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+[2023.01.18-10.50.31:054][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.01.18-10.50.31:054][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.01.18-10.50.31:058][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2023.01.18-10.50.31:376][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.18-10.50.31:420][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.01.18-10.50.31:427][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.18-10.50.31:432][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.01.18-10.50.31:436][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.01.18-10.50.31:438][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.18-10.50.31:438][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.18-10.50.31:439][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.18-10.50.31:439][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.18-10.50.31:439][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.18-10.50.31:439][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.18-10.50.31:439][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.18-10.50.31:439][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.18-10.50.31:439][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.18-10.50.31:439][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.18-10.50.31:441][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.18-10.50.31:441][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.18-10.50.31:441][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.18-10.50.31:441][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.18-10.50.31:483][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.18-10.50.31:483][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.01.18-10.50.31:557][  0]LogAudioMixer: Display: Using Audio Device Headphones (Elgato Wave:1)
+[2023.01.18-10.50.31:561][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.18-10.50.31:582][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.18-10.50.31:582][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.18-10.50.31:584][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.18-10.50.31:585][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.18-10.50.31:585][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.18-10.50.31:586][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.18-10.50.31:586][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.18-10.50.31:586][  0]LogInit: FAudioDevice initialized.
+[2023.01.18-10.50.31:586][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.18-10.50.31:587][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.18-10.50.31:645][  0]LogDerivedDataCache: Saved boot cache 0.06s 105MB C:/Users/SLATE 15/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.01.18-10.50.31:645][  0]LogInit: Texture streaming: Enabled
+[2023.01.18-10.50.31:666][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.01.18-10.50.31:670][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.01.18-10.50.31:670][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.01.18-10.50.31:674][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.01.18-10.50.31:709][  0]LogInit: Transaction tracking system initialized
+[2023.01.18-10.50.31:756][  0]BlueprintLog: New page: Editor Load
+[2023.01.18-10.50.31:905][  0]LocalizationService: Localization service is disabled
+[2023.01.18-10.50.31:961][  0]TimingProfiler: Initialize
+[2023.01.18-10.50.31:963][  0]TimingProfiler: OnSessionChanged
+[2023.01.18-10.50.31:963][  0]LoadingProfiler: Initialize
+[2023.01.18-10.50.31:964][  0]LoadingProfiler: OnSessionChanged
+[2023.01.18-10.50.31:964][  0]NetworkingProfiler: Initialize
+[2023.01.18-10.50.31:965][  0]NetworkingProfiler: OnSessionChanged
+[2023.01.18-10.50.31:965][  0]MemoryProfiler: Initialize
+[2023.01.18-10.50.31:965][  0]MemoryProfiler: OnSessionChanged
+[2023.01.18-10.50.32:830][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.01.18-10.50.32:830][  0]LogCook: Display: Mobile HDR setting 0
+[2023.01.18-10.50.33:231][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/' took 0.01s
+[2023.01.18-10.50.33:438][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.18-10.50.33:445][  0]SourceControl: Source control is disabled
+[2023.01.18-10.50.33:446][  0]LogUnrealEdMisc: Loading editor; pre map load, took 20.001
+[2023.01.18-10.50.33:447][  0]Cmd: MAP LOAD FILE="../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/Maps/VRHoloportMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.18-10.50.33:448][  0]LightingResults: New page: Lighting Build
+[2023.01.18-10.50.33:455][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-10.50.33:456][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-10.50.33:457][  0]MapCheck: New page: Map Check
+[2023.01.18-10.50.33:457][  0]LightingResults: New page: Lighting Build
+[2023.01.18-10.50.33:466][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.18-10.50.33:471][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.01.18-10.50.35:640][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\FYP-Prototype\PrototypeV6\Content\VehicleVarietyPack\Skeletons\SK_SUV.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.01.18-10.50.35:736][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\FYP-Prototype\PrototypeV6\Content\VehicleVarietyPack\Skeletons\SK_Hatchback.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.01.18-10.50.35:774][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\FYP-Prototype\PrototypeV6\Content\Vehicle\Sedan\Sedan_SkelMesh.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.01.18-10.50.35:799][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRHoloportMap'.
+[2023.01.18-10.50.35:801][  0]LogAIModule: Creating AISystem for world VRHoloportMap
+[2023.01.18-10.50.35:834][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.18-10.50.35:838][  0]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=150.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.01.18-10.50.35:850][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.01.18-10.50.35:851][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.18-10.50.35:852][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.45ms to complete.
+[2023.01.18-10.50.35:852][  0]LogFileHelpers: Loading map 'VRHoloportMap' took 2.406
+[2023.01.18-10.50.35:875][  0]LogUnrealEdMisc: Total Editor Startup Time, took 22.431
+[2023.01.18-10.50.36:060][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.18-10.50.36:067][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.18-10.50.36:074][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.18-10.50.36:080][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.18-10.50.36:131][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.01.18-10.50.36:131][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:131][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.01.18-10.50.36:131][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:131][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.01.18-10.50.36:131][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2023.01.18-10.50.36:146][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.01.18-10.50.36:146][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:146][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.01.18-10.50.36:146][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:146][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.01.18-10.50.36:146][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2023.01.18-10.50.36:153][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.01.18-10.50.36:153][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:153][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.01.18-10.50.36:153][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:153][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.01.18-10.50.36:153][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.01.18-10.50.36:159][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.18-10.50.36:159][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:159][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.01.18-10.50.36:159][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:159][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.01.18-10.50.36:159][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2023.01.18-10.50.36:166][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.01.18-10.50.36:166][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:166][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.01.18-10.50.36:166][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:166][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.01.18-10.50.36:166][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.01.18-10.50.36:171][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.01.18-10.50.36:171][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:171][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.01.18-10.50.36:171][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:171][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.01.18-10.50.36:171][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2023.01.18-10.50.36:177][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.01.18-10.50.36:178][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:178][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.01.18-10.50.36:178][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:178][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.01.18-10.50.36:178][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2023.01.18-10.50.36:184][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.01.18-10.50.36:184][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:184][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.01.18-10.50.36:184][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:184][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.01.18-10.50.36:184][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.01.18-10.50.36:190][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.01.18-10.50.36:190][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:190][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.01.18-10.50.36:190][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:190][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.01.18-10.50.36:190][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2023.01.18-10.50.36:196][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.01.18-10.50.36:196][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:196][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.01.18-10.50.36:196][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:196][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.01.18-10.50.36:196][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.01.18-10.50.36:201][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.01.18-10.50.36:201][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:201][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.01.18-10.50.36:202][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:202][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.01.18-10.50.36:202][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.01.18-10.50.36:208][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.01.18-10.50.36:208][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:209][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.01.18-10.50.36:209][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:209][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.01.18-10.50.36:209][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.01.18-10.50.36:215][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.18-10.50.36:215][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:215][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.01.18-10.50.36:215][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:215][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.01.18-10.50.36:215][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.01.18-10.50.36:222][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.01.18-10.50.36:222][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:222][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.01.18-10.50.36:222][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:222][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.01.18-10.50.36:222][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.01.18-10.50.36:228][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.01.18-10.50.36:228][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:228][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.01.18-10.50.36:228][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:228][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.01.18-10.50.36:228][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.01.18-10.50.36:234][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.01.18-10.50.36:234][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:234][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.01.18-10.50.36:234][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:234][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.01.18-10.50.36:234][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2023.01.18-10.50.36:239][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.01.18-10.50.36:239][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:239][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.01.18-10.50.36:239][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:240][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.01.18-10.50.36:240][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2023.01.18-10.50.36:246][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.01.18-10.50.36:246][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:246][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.01.18-10.50.36:246][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:246][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.01.18-10.50.36:246][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2023.01.18-10.50.36:251][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.18-10.50.36:251][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:251][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.01.18-10.50.36:251][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:251][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.01.18-10.50.36:251][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.01.18-10.50.36:261][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.18-10.50.36:261][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:261][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.01.18-10.50.36:261][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:261][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.01.18-10.50.36:261][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2023.01.18-10.50.36:267][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.01.18-10.50.36:267][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:267][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.01.18-10.50.36:267][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:267][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.01.18-10.50.36:267][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.01.18-10.50.36:273][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.01.18-10.50.36:273][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:273][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.01.18-10.50.36:273][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:273][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.01.18-10.50.36:273][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.01.18-10.50.36:279][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.01.18-10.50.36:279][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:279][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.01.18-10.50.36:279][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:279][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.01.18-10.50.36:279][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2023.01.18-10.50.36:284][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.01.18-10.50.36:284][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:284][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.01.18-10.50.36:284][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:284][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.01.18-10.50.36:284][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.01.18-10.50.36:290][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.18-10.50.36:290][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:290][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.01.18-10.50.36:290][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:290][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.01.18-10.50.36:290][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.01.18-10.50.36:296][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.01.18-10.50.36:296][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.18-10.50.36:296][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.01.18-10.50.36:296][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.18-10.50.36:296][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.01.18-10.50.36:296][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.01.18-10.50.36:546][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0101 seconds. Added 3822 classes and 928 folders.
+[2023.01.18-10.50.36:557][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2023.01.18-10.50.36:771][  0]LogSlate: Took 0.004222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.18-10.50.36:775][  0]LogSlate: Took 0.004253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.18-10.50.36:780][  0]LogSlate: Took 0.003800 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.18-10.50.36:964][  0]LogRenderer: Reallocating scene render targets to support 1108x580 Format 10 NumSamples 1 (Frame:1).
+[2023.01.18-10.50.37:108][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.01.18-10.50.37:108][  0]LogLoad: (Engine Initialization) Total time: 23.66 seconds
+[2023.01.18-10.50.37:108][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.18-10.50.37:164][  0]LogAssetRegistry: Asset discovery search completed in 12.2954 seconds
+[2023.01.18-10.50.37:192][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2023.01.18-10.50.37:196][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.18-10.50.37:248][  1]LogRenderer: Reallocating scene render targets to support 1108x596 Format 10 NumSamples 1 (Frame:2).
+[2023.01.18-10.50.37:328][  2]LogSlate: Took 0.004963 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.18-10.50.38:130][ 34]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.18-10.50.38:139][ 34]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRPawns/VRChar_Holoport.VRChar_Holoport
+[2023.01.18-10.50.38:801][ 34]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2023.01.18-10.50.39:774][ 34]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OtherAssets/Target/TargetPoint.TargetPoint
+[2023.01.18-10.50.40:105][ 34]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRPawns/GameModes/VRMultGamemode.VRMultGamemode
+[2023.01.18-10.50.40:522][ 34]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.01.18-10.50.40:957][ 34]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRPawns/GameModes/VRMultTeleportGamemode.VRMultTeleportGamemode
+[2023.01.18-10.50.41:295][ 34]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2023.01.18-10.50.41:295][ 34]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.01.18-10.50.41:317][ 34]LogSlate: Took 0.004557 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.01.18-10.50.41:486][ 35]LogSlate: Took 0.004742 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.18-10.52.34:589][527]LogSlate: Window 'VRMultGamemode' being destroyed
+[2023.01.18-10.52.34:599][527]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-10.52.34:599][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-10.52.40:722][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.01.18-10.52.40:763][852]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/VRHoloportMap998FE4E44569A31C52D8BCB94398B220.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/Maps/VRHoloportMap.umap'
+[2023.01.18-10.52.40:809][852]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/VRHoloportMap_BuiltDataDA5B07F54871D7E8CAEDECA5E7DAAE54.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/Maps/VRHoloportMap_BuiltData.uasset'
+[2023.01.18-10.52.40:822][852]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.18-10.52.40:822][852]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/VRHoloportMap_BuiltData.VRHoloportMap_BuiltData
+[2023.01.18-10.52.40:822][852]LogContentValidation: Display: Validating World /Game/Maps/VRHoloportMap.VRHoloportMap
+[2023.01.18-10.52.42:140][918]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.18-10.52.42:140][918]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-10.52.42:140][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-10.52.42:475][933]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.18-10.52.42:475][933]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-10.52.42:475][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-10.52.43:179][973]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.18-10.52.43:179][973]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-10.52.43:179][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-10.52.46:175][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.01.18-10.52.47:289][140]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/VRBaseMap.VRBaseMap
+[2023.01.18-10.52.47:289][140]Cmd: MAP LOAD FILE="../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/Maps/VRBaseMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.18-10.52.47:289][140]LightingResults: New page: Lighting Build
+[2023.01.18-10.52.47:289][140]LoadErrors: New page: Loading map: VRBaseMap.umap
+[2023.01.18-10.52.47:292][140]LogWorld: UWorld::CleanupWorld for VRHoloportMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-10.52.47:292][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-10.52.47:292][140]MapCheck: New page: Map Check
+[2023.01.18-10.52.47:292][140]LightingResults: New page: Lighting Build
+[2023.01.18-10.52.47:310][140]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.18-10.52.47:315][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.01.18-10.52.47:317][140]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRBaseMap'.
+[2023.01.18-10.52.47:412][140]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.18-10.52.47:412][140]LogAIModule: Creating AISystem for world VRBaseMap
+[2023.01.18-10.52.47:433][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.01.18-10.52.47:440][140]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.18-10.52.47:441][140]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.128ms to complete.
+[2023.01.18-10.52.47:441][140]LogFileHelpers: Loading map 'VRBaseMap' took 0.152
+[2023.01.18-10.52.48:452][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House)
+[2023.01.18-10.52.49:458][252]LogEditorViewport: Clicking on Actor (LMB): RoadActor_C (RoadActor)
+[2023.01.18-10.52.49:872][276]LogEditorViewport: Clicking on Actor (LMB): MainMenuWidgetActor_C (MainMenuWidgetActor)
+[2023.01.18-10.52.50:848][334]Cmd: DELETE
+[2023.01.18-10.52.50:848][334]Cmd: ACTOR DELETE
+[2023.01.18-10.52.50:853][334]LogEditorActor: Deleted Actor: MainMenuWidgetActor_C
+[2023.01.18-10.52.50:872][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.01.18-10.52.50:875][334]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2023.01.18-10.52.52:292][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.01.18-10.52.52:325][417]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/VRBaseMap9289855C4BF6341CE4DDCD82DA258430.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/Maps/VRBaseMap.umap'
+[2023.01.18-10.52.52:558][417]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/VRBaseMap_BuiltDataFD83D4C7407B28B47366EB8CA417C8F3.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/Maps/VRBaseMap_BuiltData.uasset'
+[2023.01.18-10.52.52:572][417]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.18-10.52.52:572][417]LogContentValidation: Display: Validating World /Game/Maps/VRBaseMap.VRBaseMap
+[2023.01.18-10.52.52:572][417]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/VRBaseMap_BuiltData.VRBaseMap_BuiltData
+[2023.01.18-10.53.03:537][501]LogEditorViewport: Clicking on Actor (LMB): RoadActor_C (RoadActor3)
+[2023.01.18-10.53.03:871][519]Cmd: TRANSACTION UNDO
+[2023.01.18-10.53.03:871][519]LogEditorTransaction: Undo Clicking on Actors
+[2023.01.18-10.53.08:004][657]LogObjectTools: Deleting 1 worlds: /Game/Maps/VRTransitionMap.VRTransitionMap
+[2023.01.18-10.53.08:004][657]LogObjectTools: Currently 2 active worlds: /Game/Maps/VRBaseMap.VRBaseMap, /Engine/Transient.World_0
+[2023.01.18-10.53.08:026][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.01.18-10.53.09:763][657]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.18-10.53.09:789][657]LogWorld: UWorld::CleanupWorld for VRTransitionMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-10.53.09:790][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-10.53.09:856][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.01.18-10.53.09:876][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.01.18-10.53.09:904][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.01.18-10.53.09:923][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.01.18-10.53.16:363][938]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.01.18-10.53.16:379][938]LogContentBrowser: Creating deferred item: NewWorld
+[2023.01.18-10.53.19:922][150]LogContentBrowser: Attempting asset rename: NewWorld -> VRLobbyMap
+[2023.01.18-10.53.19:925][150]LogContentBrowser: End creating deferred item NewWorld
+[2023.01.18-10.53.21:362][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.01.18-10.53.22:540][234]LogSlate: Window 'Save Content' being destroyed
+[2023.01.18-10.53.22:596][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.01.18-10.53.22:598][234]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/VRLobbyMap156B3EDC4230DD4C4E9190941FDF981A.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/Maps/VRLobbyMap.umap'
+[2023.01.18-10.53.22:598][234]LogFileHelpers: Saving map 'VRLobbyMap' took 0.021
+[2023.01.18-10.53.22:626][234]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/VRLobbyMap.VRLobbyMap
+[2023.01.18-10.53.22:626][234]Cmd: MAP LOAD FILE="../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/Maps/VRLobbyMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.18-10.53.22:626][234]LightingResults: New page: Lighting Build
+[2023.01.18-10.53.22:626][234]LoadErrors: New page: Loading map: VRLobbyMap.umap
+[2023.01.18-10.53.22:628][234]LogWorld: UWorld::CleanupWorld for VRBaseMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-10.53.22:628][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-10.53.22:628][234]MapCheck: New page: Map Check
+[2023.01.18-10.53.22:628][234]LightingResults: New page: Lighting Build
+[2023.01.18-10.53.22:646][234]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.18-10.53.22:649][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.01.18-10.53.22:653][234]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRLobbyMap'.
+[2023.01.18-10.53.22:675][234]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.18-10.53.22:675][234]LogAIModule: Creating AISystem for world VRLobbyMap
+[2023.01.18-10.53.22:698][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.01.18-10.53.22:707][234]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.18-10.53.22:708][234]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.128ms to complete.
+[2023.01.18-10.53.22:708][234]LogFileHelpers: Loading map 'VRLobbyMap' took 0.082
+[2023.01.18-10.53.22:732][234]AssetCheck: New page: Asset Save: VRLobbyMap
+[2023.01.18-10.53.22:732][234]LogContentValidation: Display: Validating World /Game/Maps/VRLobbyMap.VRLobbyMap
+[2023.01.18-10.53.48:898][776]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.01.18-10.54.22:258][696]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2023.01.18-10.54.22:262][696]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/VRLobbyMapD0ECB995490FA437ECFA6BA631677467.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/Maps/VRLobbyMap.umap'
+[2023.01.18-10.54.22:282][696]AssetCheck: New page: Asset Save: VRLobbyMap
+[2023.01.18-10.54.22:282][696]LogContentValidation: Display: Validating World /Game/Maps/VRLobbyMap.VRLobbyMap
+[2023.01.18-10.54.31:762][263]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.18-10.54.51:159][315]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.01.18-10.54.51:167][315]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.18-10.54.51:183][315]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.18-10.54.55:605][580]LogContentBrowser: Attempting asset rename: NewBlueprint -> VRChar_Lobby
+[2023.01.18-10.54.55:616][580]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.18-10.54.56:314][621]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/VRChar_Lobby77FBFEDA4DE987EAA0DD4C9E2EC741B0.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/VRPawns/VRChar_Lobby.uasset'
+[2023.01.18-10.54.56:329][621]AssetCheck: New page: Asset Save: VRChar_Lobby
+[2023.01.18-10.54.56:329][621]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_Lobby.VRChar_Lobby
+[2023.01.18-10.54.57:525][688]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRPawns/VRChar_Lobby.VRChar_Lobby
+[2023.01.18-10.55.13:236][585]LogSlate: Window 'VRChar_Lobby' being destroyed
+[2023.01.18-10.55.13:248][585]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-10.55.13:249][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-10.55.19:746][934]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.18-10.55.19:749][934]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.18-10.55.20:685][934]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.01.18-10.55.20:693][934]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.18-10.55.20:706][934]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.18-10.55.23:311][ 91]LogContentBrowser: Attempting asset rename: NewBlueprint -> VRMultLobby
+[2023.01.18-10.55.23:315][ 91]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.18-10.55.24:228][145]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/VRMultLobby40B39A6C404CC5EA475396B2508D773E.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/VRPawns/GameModes/VRMultLobby.uasset'
+[2023.01.18-10.55.24:243][145]AssetCheck: New page: Asset Save: VRMultLobby
+[2023.01.18-10.55.24:243][145]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/GameModes/VRMultLobby.VRMultLobby
+[2023.01.18-10.55.25:304][205]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRPawns/GameModes/VRMultLobby.VRMultLobby
+[2023.01.18-10.55.26:911][275]LogRenderer: Reallocating scene render targets to support 1156x692 Format 10 NumSamples 1 (Frame:69).
+[2023.01.18-10.55.27:097][286]LogSlate: Window 'VRMultLobby' being destroyed
+[2023.01.18-10.55.28:799][387]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.01.18-10.55.28:820][387]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.18-10.55.36:753][825]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.01.18-10.55.36:756][825]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/VRLobbyMap2BA3CA3E48232CA49FF058B64FD6EF2B.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/Maps/VRLobbyMap.umap'
+[2023.01.18-10.55.36:776][825]AssetCheck: New page: Asset Save: VRLobbyMap
+[2023.01.18-10.55.36:776][825]LogContentValidation: Display: Validating World /Game/Maps/VRLobbyMap.VRLobbyMap
+[2023.01.18-10.55.39:776][995]BlueprintLog: New page: Compile VRMultLobby
+[2023.01.18-10.55.39:825][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.01.18-10.55.39:864][995]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/VRMultLobby33ECB5594E5AF56AB645DEBD4AC89E57.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/VRPawns/GameModes/VRMultLobby.uasset'
+[2023.01.18-10.55.39:877][995]AssetCheck: New page: Asset Save: VRMultLobby
+[2023.01.18-10.55.39:877][995]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/GameModes/VRMultLobby.VRMultLobby
+[2023.01.18-10.55.39:891][995]LogSlate: Took 0.007107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.18-10.55.40:361][ 22]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/VRMultLobby0216CBF344E2B22CE1E21AA63C25278C.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/VRPawns/GameModes/VRMultLobby.uasset'
+[2023.01.18-10.55.40:374][ 22]AssetCheck: New page: Asset Save: VRMultLobby
+[2023.01.18-10.55.40:374][ 22]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/GameModes/VRMultLobby.VRMultLobby
+[2023.01.18-10.55.48:938][522]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRPawns/VRChar_Lobby.VRChar_Lobby
+[2023.01.18-10.55.53:283][760]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-10.55.53:283][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-10.55.53:339][760]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRPawns/VRChar_Lobby.VRChar_Lobby
+[2023.01.18-10.56.24:974][463]BlueprintLog: New page: Compile VRChar_Lobby
+[2023.01.18-10.56.24:979][463]LogBlueprint: Error: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\FYP-Prototype\PrototypeV6\Content\VRPawns\VRChar_Lobby.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.01.18-10.56.25:032][463]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2023.01.18-10.56.25:427][484]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/VRChar_Lobby34B5520542B553E8DC7241A3FE6E8ED5.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/VRPawns/VRChar_Lobby.uasset'
+[2023.01.18-10.56.25:441][484]AssetCheck: New page: Asset Save: VRChar_Lobby
+[2023.01.18-10.56.25:441][484]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_Lobby.VRChar_Lobby
+[2023.01.18-10.56.32:383][876]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.01.18-10.56.32:396][876]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.01.18-10.56.37:825][201]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> LobbyMenuWidget
+[2023.01.18-10.56.37:829][201]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.01.18-10.56.38:499][240]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/LobbyMenuWidgetEAAA502C4354501BCAF7A9A99069DAE5.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/UI/LobbyMenuWidget.uasset'
+[2023.01.18-10.56.38:516][240]AssetCheck: New page: Asset Save: LobbyMenuWidget
+[2023.01.18-10.56.38:516][240]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LobbyMenuWidget.LobbyMenuWidget
+[2023.01.18-10.56.40:855][371]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/LobbyMenuWidget.LobbyMenuWidget
+[2023.01.18-10.57.36:339][138]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.18-10.57.46:041][698]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.18-10.58.54:045][648]BlueprintLog: New page: Compile LobbyMenuWidget
+[2023.01.18-10.58.54:143][648]LogUObjectHash: Compacting FUObjectHashTables data took   7.56ms
+[2023.01.18-10.58.54:190][648]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/LobbyMenuWidget97A1DB6E4610AE978242158C3AE701A7.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/UI/LobbyMenuWidget.uasset'
+[2023.01.18-10.58.54:209][648]AssetCheck: New page: Asset Save: LobbyMenuWidget
+[2023.01.18-10.58.54:209][648]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LobbyMenuWidget.LobbyMenuWidget
+[2023.01.18-10.58.54:766][679]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/LobbyMenuWidget43919F4F49A21DE631F55286791C5466.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/UI/LobbyMenuWidget.uasset'
+[2023.01.18-10.58.54:782][679]AssetCheck: New page: Asset Save: LobbyMenuWidget
+[2023.01.18-10.58.54:782][679]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LobbyMenuWidget.LobbyMenuWidget
+[2023.01.18-10.59.31:692][788]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.18-10.59.36:959][102]BlueprintLog: New page: Compile LobbyMenuWidget
+[2023.01.18-10.59.37:031][102]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2023.01.18-10.59.37:067][102]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/LobbyMenuWidget2D5CADFD4FDE5F8FC0C28BA50AA214A3.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/UI/LobbyMenuWidget.uasset'
+[2023.01.18-10.59.37:085][102]AssetCheck: New page: Asset Save: LobbyMenuWidget
+[2023.01.18-10.59.37:085][102]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LobbyMenuWidget.LobbyMenuWidget
+[2023.01.18-10.59.37:450][123]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/LobbyMenuWidget937117F74E76EEF4DCE7DCAB6E615906.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/UI/LobbyMenuWidget.uasset'
+[2023.01.18-10.59.37:466][123]AssetCheck: New page: Asset Save: LobbyMenuWidget
+[2023.01.18-10.59.37:466][123]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LobbyMenuWidget.LobbyMenuWidget
+[2023.01.18-11.02.18:512][769]BlueprintLog: New page: Compile LobbyMenuWidget
+[2023.01.18-11.02.18:582][769]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2023.01.18-11.02.18:632][769]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/LobbyMenuWidget3154A196495FF50B8A52579A270DB7C8.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/UI/LobbyMenuWidget.uasset'
+[2023.01.18-11.02.18:652][769]AssetCheck: New page: Asset Save: LobbyMenuWidget
+[2023.01.18-11.02.18:652][769]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LobbyMenuWidget.LobbyMenuWidget
+[2023.01.18-11.02.19:115][792]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/LobbyMenuWidget736483DE4D0A3D5B7DADF5BFD3E322EC.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/UI/LobbyMenuWidget.uasset'
+[2023.01.18-11.02.19:129][792]AssetCheck: New page: Asset Save: LobbyMenuWidget
+[2023.01.18-11.02.19:129][792]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LobbyMenuWidget.LobbyMenuWidget
+[2023.01.18-11.02.34:903][680]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/LobbyMenuWidget82E03ED448432FE40E326A82E0D913B2.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/UI/LobbyMenuWidget.uasset'
+[2023.01.18-11.02.34:923][680]AssetCheck: New page: Asset Save: LobbyMenuWidget
+[2023.01.18-11.02.34:923][680]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LobbyMenuWidget.LobbyMenuWidget
+[2023.01.18-11.02.47:880][445]LogSlate: Took 0.005794 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.01.18-11.02.52:662][717]BlueprintLog: New page: Compile LobbyMenuWidget
+[2023.01.18-11.02.52:735][717]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2023.01.18-11.02.52:783][717]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/LobbyMenuWidget02919C5642A3FFD24314E28259EB4129.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/UI/LobbyMenuWidget.uasset'
+[2023.01.18-11.02.52:797][717]AssetCheck: New page: Asset Save: LobbyMenuWidget
+[2023.01.18-11.02.52:797][717]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LobbyMenuWidget.LobbyMenuWidget
+[2023.01.18-11.02.53:284][740]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/LobbyMenuWidgetFA1464CE468E9D22F6AE21BABC2C98E8.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/UI/LobbyMenuWidget.uasset'
+[2023.01.18-11.02.53:298][740]AssetCheck: New page: Asset Save: LobbyMenuWidget
+[2023.01.18-11.02.53:298][740]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LobbyMenuWidget.LobbyMenuWidget
+[2023.01.18-11.03.01:997][995]LogEditorTransaction: Undo Paste clipboard contents
+[2023.01.18-11.03.02:674][ 15]LogEditorTransaction: Undo Move Node
+[2023.01.18-11.03.41:879][165]BlueprintLog: New page: Compile LobbyMenuWidget
+[2023.01.18-11.03.41:950][165]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2023.01.18-11.03.41:991][165]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/LobbyMenuWidget60E827F5487FC455372BB0BB84D7CA55.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/UI/LobbyMenuWidget.uasset'
+[2023.01.18-11.03.42:010][165]AssetCheck: New page: Asset Save: LobbyMenuWidget
+[2023.01.18-11.03.42:010][165]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LobbyMenuWidget.LobbyMenuWidget
+[2023.01.18-11.03.42:444][187]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/LobbyMenuWidgetD034E27B453D6A5346178B89771D515B.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/UI/LobbyMenuWidget.uasset'
+[2023.01.18-11.03.42:459][187]AssetCheck: New page: Asset Save: LobbyMenuWidget
+[2023.01.18-11.03.42:459][187]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LobbyMenuWidget.LobbyMenuWidget
+[2023.01.18-11.04.01:695][335]BlueprintLog: New page: Compile LobbyMenuWidget
+[2023.01.18-11.04.01:760][335]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2023.01.18-11.04.01:789][335]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/LobbyMenuWidgetFDA28A844DC9CD55B518359FBB4E59A4.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/UI/LobbyMenuWidget.uasset'
+[2023.01.18-11.04.01:806][335]AssetCheck: New page: Asset Save: LobbyMenuWidget
+[2023.01.18-11.04.01:806][335]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LobbyMenuWidget.LobbyMenuWidget
+[2023.01.18-11.04.02:187][355]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/LobbyMenuWidgetDAE67EC7494E040FE014D5BCBDC0F11C.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/UI/LobbyMenuWidget.uasset'
+[2023.01.18-11.04.02:209][355]AssetCheck: New page: Asset Save: LobbyMenuWidget
+[2023.01.18-11.04.02:209][355]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LobbyMenuWidget.LobbyMenuWidget
+[2023.01.18-11.04.16:905][162]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.01.18-11.04.16:925][162]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.18-11.04.20:962][393]BlueprintLog: New page: Compile LobbyMenuWidget
+[2023.01.18-11.04.21:032][393]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2023.01.18-11.04.21:072][393]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/LobbyMenuWidget3E56470247CD4442283A8695F7D23E05.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/UI/LobbyMenuWidget.uasset'
+[2023.01.18-11.04.21:092][393]AssetCheck: New page: Asset Save: LobbyMenuWidget
+[2023.01.18-11.04.21:092][393]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LobbyMenuWidget.LobbyMenuWidget
+[2023.01.18-11.04.21:503][414]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/LobbyMenuWidgetD992A5EB40B4ED05232006941E5328E7.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/UI/LobbyMenuWidget.uasset'
+[2023.01.18-11.04.21:519][414]AssetCheck: New page: Asset Save: LobbyMenuWidget
+[2023.01.18-11.04.21:519][414]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LobbyMenuWidget.LobbyMenuWidget
+[2023.01.18-11.04.37:411][317]BlueprintLog: New page: Compile LobbyMenuWidget
+[2023.01.18-11.04.37:482][317]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2023.01.18-11.04.37:527][317]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/LobbyMenuWidgetB1ABE83D44AED82A8B48099620BEC7B2.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/UI/LobbyMenuWidget.uasset'
+[2023.01.18-11.04.37:543][317]AssetCheck: New page: Asset Save: LobbyMenuWidget
+[2023.01.18-11.04.37:543][317]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LobbyMenuWidget.LobbyMenuWidget
+[2023.01.18-11.04.37:903][336]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/LobbyMenuWidget63586AA34570FB9BE0B82AACCBAFACF3.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/UI/LobbyMenuWidget.uasset'
+[2023.01.18-11.04.37:918][336]AssetCheck: New page: Asset Save: LobbyMenuWidget
+[2023.01.18-11.04.37:918][336]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LobbyMenuWidget.LobbyMenuWidget
+[2023.01.18-11.04.48:452][951]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.01.18-11.04.48:473][951]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.18-11.04.52:291][167]BlueprintLog: New page: Compile VRChar_Lobby
+[2023.01.18-11.04.52:358][167]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2023.01.18-11.04.52:399][167]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/VRChar_Lobby0059F9C646879C17E14C8AA5FBBE44BA.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/VRPawns/VRChar_Lobby.uasset'
+[2023.01.18-11.04.52:413][167]AssetCheck: New page: Asset Save: VRChar_Lobby
+[2023.01.18-11.04.52:413][167]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_Lobby.VRChar_Lobby
+[2023.01.18-11.04.52:999][198]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/VRChar_LobbyD33F097541A4D8772DA013BC315026C2.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/VRPawns/VRChar_Lobby.uasset'
+[2023.01.18-11.04.53:013][198]AssetCheck: New page: Asset Save: VRChar_Lobby
+[2023.01.18-11.04.53:013][198]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_Lobby.VRChar_Lobby
+[2023.01.18-11.05.12:762][931]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Saved/LobbyMenuWidget2F67F5774CACF10EEE7DD18FFFBDA5A5.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV6/Content/UI/LobbyMenuWidget.uasset'
+[2023.01.18-11.05.12:779][931]AssetCheck: New page: Asset Save: LobbyMenuWidget
+[2023.01.18-11.05.12:779][931]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LobbyMenuWidget.LobbyMenuWidget
+[2023.01.18-11.05.16:008][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.18-11.05.16:008][117]PIE: New page: PIE session: VRLobbyMap (18 Jan 2023, 11:05:16)
+[2023.01.18-11.05.16:015][117]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.01.18-11.05.16:017][117]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.01.18-11.05.16:018][117]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_VRLobbyMap
+[2023.01.18-11.05.16:020][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001478s)
+[2023.01.18-11.05.16:021][117]LogAIModule: Creating AISystem for world VRLobbyMap
+[2023.01.18-11.05.16:022][117]LogPlayLevel: PIE: World Init took: (0.002095s)
+[2023.01.18-11.05.16:022][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/VRLobbyMap.VRLobbyMap to /Game/Maps/UEDPIE_0_VRLobbyMap.VRLobbyMap (0.003936s)
+[2023.01.18-11.05.16:062][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2023.01.18-11.05.16:076][117]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.01.18-11.05.16:076][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.18-11.05.16:076][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.18-11.05.16:076][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.18-11.05.16:076][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.18-11.05.16:076][117]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.18-11.05.16:076][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.18-11.05.16:076][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.18-11.05.16:076][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.18-11.05.16:078][117]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.18-11.05.16:078][117]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.18-11.05.16:078][117]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.18-11.05.16:078][117]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.18-11.05.16:084][117]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.18-11.05.16:084][117]LogAudioMixer: Display: 1: FrontRight
+[2023.01.18-11.05.16:092][117]LogAudioMixer: Display: Using Audio Device Headphones (Elgato Wave:1)
+[2023.01.18-11.05.16:093][117]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.18-11.05.16:093][117]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.18-11.05.16:093][117]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.18-11.05.16:093][117]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.18-11.05.16:093][117]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.18-11.05.16:093][117]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.18-11.05.16:094][117]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.18-11.05.16:094][117]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.18-11.05.16:094][117]LogInit: FAudioDevice initialized.
+[2023.01.18-11.05.16:094][117]LogAudio: Display: Audio Device (ID: 2) registered with world 'VRLobbyMap'.
+[2023.01.18-11.05.16:108][117]LogLoad: Game class is 'VRMultLobby_C'
+[2023.01.18-11.05.16:109][117]LogWorld: Bringing World /Game/Maps/UEDPIE_0_VRLobbyMap.VRLobbyMap up for play (max tick rate 60) at 2023.01.18-11.05.16
+[2023.01.18-11.05.16:110][117]LogWorld: Bringing up level for play took: 0.000947
+[2023.01.18-11.05.16:111][117]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.01.18-11.05.16:125][117]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2023.01.18-11.05.16:134][117]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.01.18-11.05.16:135][117]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.01.18-11.05.16:136][117]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.01.18-11.05.16:136][117]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2023.01.18-11.05.16:136][117]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.01.18-11.05.16:138][117]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2023.01.18-11.05.16:141][117]PIE: Server logged in
+[2023.01.18-11.05.16:142][117]PIE: Play in editor total start time 0.141 seconds.
+[2023.01.18-11.05.16:143][117]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.01.18-11.05.16:143][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.18-11.05.16:143][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.18-11.05.16:143][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.18-11.05.16:143][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.18-11.05.16:143][117]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.18-11.05.16:143][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.18-11.05.16:143][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.18-11.05.16:143][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.18-11.05.16:144][117]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.18-11.05.16:144][117]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.18-11.05.16:144][117]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.18-11.05.16:144][117]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.18-11.05.16:150][117]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.18-11.05.16:150][117]LogAudioMixer: Display: 1: FrontRight
+[2023.01.18-11.05.16:157][117]LogAudioMixer: Display: Using Audio Device Headphones (Elgato Wave:1)
+[2023.01.18-11.05.16:157][117]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.18-11.05.16:157][117]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.18-11.05.16:157][117]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.18-11.05.16:158][117]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.18-11.05.16:158][117]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.18-11.05.16:158][117]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.18-11.05.16:159][117]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.18-11.05.16:159][117]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.18-11.05.16:159][117]LogInit: FAudioDevice initialized.
+[2023.01.18-11.05.16:159][117]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled'.
+[2023.01.18-11.05.16:213][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.18-11.05.16:214][117]LogNet: Browse: 127.0.0.1:17777/Game/Maps/VRLobbyMap
+[2023.01.18-11.05.16:214][117]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2023.01.18-11.05.16:214][117]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2023.01.18-11.05.16:215][117]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.01.18-11.05.16:216][117]LogNet: Game client on port 17777, rate 100000
+[2023.01.18-11.05.16:218][117]PIE: Client logged in
+[2023.01.18-11.05.16:219][117]PIE: Play in editor total start time 0.218 seconds.
+[2023.01.18-11.05.17:239][159]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63694
+[2023.01.18-11.05.17:240][159]LogHandshake: SendConnectChallenge. Timestamp: 1.262764, Cookie: 197101003083148154195041035235206181132176065078209150169059
+[2023.01.18-11.05.17:241][159]LogHandshake: SendChallengeResponse. Timestamp: 1.262764, Cookie: 197101003083148154195041035235206181132176065078209150169059
+[2023.01.18-11.05.17:255][160]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63694
+[2023.01.18-11.05.17:255][160]LogHandshake: SendChallengeAck. InCookie: 197101003083148154195041035235206181132176065078209150169059
+[2023.01.18-11.05.17:255][160]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63694
+[2023.01.18-11.05.17:255][160]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.01.18-11.05.17:255][160]LogNet: NotifyAcceptedConnection: Name: VRLobbyMap, TimeStamp: 01/18/23 11:05:17, [UNetConnection] RemoteAddr: 127.0.0.1:63694, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.01.18-11.05.17:255][160]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63694, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.01.18-11.05.17:256][160]LogNetVersion: PrototypeV6 1.0.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2013864317)
+[2023.01.18-11.05.17:256][160]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.01.18-11.05.17:274][161]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_VRLobbyMap.VRLobbyMap: Accepted
+[2023.01.18-11.05.17:275][161]LogNet: Remote platform little endian=1
+[2023.01.18-11.05.17:275][161]LogNet: This platform little endian=1
+[2023.01.18-11.05.17:275][161]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.01.18-11.05.17:289][162]LogNet: Login request: ?Name=NotAHacker-4E7C01EF405947ED5012B88A42579FD5 userId: NULL:NotAHacker-4E7C01EF405947ED5012B88A42579FD5 platform: NULL
+[2023.01.18-11.05.17:290][162]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_VRLobbyMap, Game: /Game/VRPawns/GameModes/VRMultLobby.VRMultLobby_C)
+[2023.01.18-11.05.17:291][162]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/UEDPIE_0_VRLobbyMap?game=/Game/VRPawns/GameModes/VRMultLobby.VRMultLobby_C
+[2023.01.18-11.05.17:291][162]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2023.01.18-11.05.17:292][162]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-11.05.17:293][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-11.05.17:330][162]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.18-11.05.17:372][162]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2023.01.18-11.05.17:373][162]LogLoad: Error: Previously active world /Engine/Transient.World_22 not cleaned up by garbage collection!
+[2023.01.18-11.05.17:373][162]LogLoad: Error: Once a world has become active, it cannot be reused and must be destroyed and reloaded. World referenced by:
+[2023.01.18-11.05.17:634][162]LogReferenceChain: (root) UnrealEdEngine /Engine/Transient.UnrealEdEngine_0->Trans
+[2023.01.18-11.05.17:634][162]LogReferenceChain:  TransBuffer /Engine/Transient.TransBuffer_0::AddReferencedObjects()
+[2023.01.18-11.05.17:634][162]LogReferenceChain:   World /Engine/Transient.World_22
+[2023.01.18-11.05.17:634][162]LogReferenceChain:   
+[2023.01.18-11.05.17:634][162]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.01.18-11.05.17:634][162]LogWindows: Windows GetLastError: The operation completed successfully. (0)

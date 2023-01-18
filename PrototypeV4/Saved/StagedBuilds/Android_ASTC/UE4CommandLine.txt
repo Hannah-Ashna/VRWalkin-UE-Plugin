@@ -1,1 +1,1 @@
-../../../PrototypeV4/PrototypeV4.uproject  /Game/Maps/VRBaseMap -Messaging -SessionId=56821B844FBACF194FDBD9A538354DB5 -SessionOwner="SLATE 15" -SessionName="Launch On Device" -iterative
+../../../PrototypeV4/PrototypeV4.uproject  /Game/Maps/VRHoloportMap -Messaging -SessionId=CC3116404F10C6FED8B8EE9F3D17CF8E -SessionOwner="SLATE 15" -SessionName="Launch On Device" -iterative
