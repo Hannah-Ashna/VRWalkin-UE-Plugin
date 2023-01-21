@@ -1,7 +1,0 @@
-Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset
-Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uexp
-PrototypeV4/Content/VRPawns/TestPawn.uasset
-PrototypeV4/Content/VRPawns/TestPawn.uexp
-PrototypeV4/Saved/Logs/PrototypeV4.log
-.uasset
-PrototypeV4/Saved/Logs/PrototypeV4-backup-2023.01.17-15.56.04.log
