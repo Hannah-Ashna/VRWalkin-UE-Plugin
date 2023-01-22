@@ -200,6 +200,7 @@
 			"ShaderMapHash": "46419CCC020BEDDC60C0CB470CAB5962E6701FF5",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/OtherAssets/Trees/Pine_Tree_Leaves",
 				"/Game/OtherAssets/TrafficLight/initialShadingGroup"
 			]
 		},
@@ -270,6 +271,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E489226897DA3A00A2991AD3DAA8279755866FA9",
+			"Assets": [
+				"/Game/Vehicle/Sedan/Materials/M_Vehicle_Sedan"
+			]
+		},
+		{
 			"ShaderMapHash": "8CA06CE4D4C7CB14BB505BA00C998B32A42CEA79",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
@@ -324,10 +331,28 @@
 			]
 		},
 		{
+			"ShaderMapHash": "19D7159108ABC6C75F4C519731FF88C2723196D2",
+			"Assets": [
+				"/Game/Roads/Materials/ZebraMarkingsMat"
+			]
+		},
+		{
+			"ShaderMapHash": "54FD80404D715DC2B33E16589A97716A9DB2A028",
+			"Assets": [
+				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Interior"
+			]
+		},
+		{
 			"ShaderMapHash": "01F8AAEB1F57554F217607B1E34921E9F9B8FAB0",
 			"Assets": [
-				"/Game/OtherAssets/Trees/Oak_Tree_Wood",
-				"/Game/OtherAssets/Trees/Oak_Tree_Leaves"
+				"/Game/OtherAssets/Trees/Oak_Tree_Leaves",
+				"/Game/OtherAssets/Trees/Oak_Tree_Wood"
+			]
+		},
+		{
+			"ShaderMapHash": "5DF428261A29C27B93C502DE0A2542740EC4C269",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
 			]
 		},
 		{
@@ -369,12 +394,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "19D7159108ABC6C75F4C519731FF88C2723196D2",
-			"Assets": [
-				"/Game/Roads/Materials/ZebraMarkingsMat"
-			]
-		},
-		{
 			"ShaderMapHash": "05E8AA9A967DDCEA9B15F1D465FA1DEF289207AB",
 			"Assets": [
 				"/Game/Roads/Materials/PavementMat"
@@ -384,24 +403,6 @@
 			"ShaderMapHash": "B77F4D6E0B7CB420A3DBF5F4C02E0374550314CF",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
-			]
-		},
-		{
-			"ShaderMapHash": "54FD80404D715DC2B33E16589A97716A9DB2A028",
-			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Interior"
-			]
-		},
-		{
-			"ShaderMapHash": "5DF428261A29C27B93C502DE0A2542740EC4C269",
-			"Assets": [
-				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
-			]
-		},
-		{
-			"ShaderMapHash": "E489226897DA3A00A2991AD3DAA8279755866FA9",
-			"Assets": [
-				"/Game/Vehicle/Sedan/Materials/M_Vehicle_Sedan"
 			]
 		},
 		{

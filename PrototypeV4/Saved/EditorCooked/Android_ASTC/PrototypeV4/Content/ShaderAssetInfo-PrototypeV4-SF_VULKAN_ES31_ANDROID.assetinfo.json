@@ -2,21 +2,6 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "3BAFD59784DED7548A816E9366C95DD16B59A651",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_Projectile"
-			]
-		},
-		{
-			"ShaderMapHash": "46419CCC020BEDDC60C0CB470CAB5962E6701FF5",
-			"Assets": [
-				"/Game/OtherAssets/Trees/Pine_Tree_Leaves",
-				"/Game/OtherAssets/TrafficLight/initialShadingGroup",
-				"/Engine/EngineDebugMaterials/M_SimpleOpaque",
-				"/Engine/VREditor/TransformGizmo/Xray"
-			]
-		},
-		{
 			"ShaderMapHash": "C72A08AD169A15486238E9F59514B5890A9D9F5F",
 			"Assets": [
 				"/Game/OtherAssets/Target/GlowingTargetMaterial"
@@ -35,12 +20,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2229AC87151BE1555D6F120EB690227AD08D2762",
-			"Assets": [
-				"/Game/VRPawns/Meshes/TeleportArcMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "2020B9276E3E15E81A242FEA490DD08FBB76A568",
 			"Assets": [
 				"/Engine/EditorMaterials/LevelGridMaterial2"
@@ -53,26 +32,26 @@
 				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Box",
 				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Under",
 				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Under",
-				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior",
 				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Interior",
-				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Under"
+				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Under",
+				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior"
 			]
 		},
 		{
 			"ShaderMapHash": "F30BD8D77C5F4D51693F2C29F3FE62A935CD28D9",
 			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Body",
+				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Chassis",
 				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Body",
-				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Body",
 				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Body",
-				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Chassis"
+				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Body",
+				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Body"
 			]
 		},
 		{
 			"ShaderMapHash": "51B97F4FEC0F52FD0A0F94B38A51FEA47CCD77AD",
 			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Interior",
-				"/Game/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Under"
+				"/Game/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Under",
+				"/Game/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Interior"
 			]
 		},
 		{
@@ -86,6 +65,12 @@
 			"Assets": [
 				"/Game/VehicleVarietyPack/Materials/Pickup/Mi_Pickup_Glass",
 				"/Game/VehicleVarietyPack/Materials/Hatchback/Mi_Hatchback_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "54FD80404D715DC2B33E16589A97716A9DB2A028",
+			"Assets": [
+				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Interior"
 			]
 		},
 		{
@@ -121,16 +106,31 @@
 			]
 		},
 		{
+			"ShaderMapHash": "28B0DADFBB0A778883A95E023EEEB44D0DDDE86A",
+			"Assets": [
+				"/Game/OtherAssets/House/HouseMaterial_Door",
+				"/Game/OtherAssets/House/HouseMaterial_Wall_2"
+			]
+		},
+		{
 			"ShaderMapHash": "19D7159108ABC6C75F4C519731FF88C2723196D2",
 			"Assets": [
 				"/Game/Roads/Materials/ZebraMarkingsMat"
 			]
 		},
 		{
-			"ShaderMapHash": "28B0DADFBB0A778883A95E023EEEB44D0DDDE86A",
+			"ShaderMapHash": "2229AC87151BE1555D6F120EB690227AD08D2762",
 			"Assets": [
-				"/Game/OtherAssets/House/HouseMaterial_Wall_2",
-				"/Game/OtherAssets/House/HouseMaterial_Door"
+				"/Game/VRPawns/Meshes/TeleportArcMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "46419CCC020BEDDC60C0CB470CAB5962E6701FF5",
+			"Assets": [
+				"/Game/OtherAssets/Trees/Pine_Tree_Leaves",
+				"/Game/OtherAssets/TrafficLight/initialShadingGroup",
+				"/Engine/EngineDebugMaterials/M_SimpleOpaque",
+				"/Engine/VREditor/TransformGizmo/Xray"
 			]
 		},
 		{
@@ -564,12 +564,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E356742301BF1527D4033A086C509AF3BC8F3DC2",
-			"Assets": [
-				"/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "8CA160519AB3E78FE83FE515CC9141B53D3380F2",
 			"Assets": [
 				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
@@ -697,9 +691,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "54FD80404D715DC2B33E16589A97716A9DB2A028",
+			"ShaderMapHash": "E356742301BF1527D4033A086C509AF3BC8F3DC2",
 			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Interior"
+				"/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial"
 			]
 		},
 		{
