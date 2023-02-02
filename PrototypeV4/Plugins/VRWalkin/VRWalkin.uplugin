@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "VRWalkin",
+	"Description": "VRWalkin' is a compilation of blueprint locomotion paradigms for Virtual Reality. Initially designed to be utilised within a VR Travel Training tool. ",
+	"Category": "Other",
+	"CreatedBy": "Hannah Jacob",
+	"CreatedByURL": "https://hannah-ashna.github.io/VRWalkin-UE-Plugin/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

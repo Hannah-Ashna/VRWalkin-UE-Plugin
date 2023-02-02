@@ -311,6 +311,15 @@
 			]
 		},
 		{
+			"ShaderMapHash": "52ABE4613F34286A0F3064DFE5504362A2BFF15C",
+			"Assets": [
+				"/Game/VRPawns/Meshes/CustomControllerMesh/TriggerButtonContMat",
+				"/Game/VRPawns/Meshes/CustomControllerMesh/ThumbstickContMat",
+				"/Game/VRPawns/Meshes/CustomControllerMesh/ArmSwingContMat",
+				"/Game/VRPawns/Meshes/CustomControllerMesh/quest2ControllerMAT"
+			]
+		},
+		{
 			"ShaderMapHash": "51B97F4FEC0F52FD0A0F94B38A51FEA47CCD77AD",
 			"Assets": [
 				"/Game/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Under",
