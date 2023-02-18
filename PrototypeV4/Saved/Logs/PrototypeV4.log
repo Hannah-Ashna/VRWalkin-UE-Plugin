@@ -1877,3 +1877,340 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.18-14.59.46:013][ 43]AssetCheck: New page: Asset Save: multiple assets
 [2023.02.18-14.59.46:013][ 43]LogContentValidation: Display: Validating World /Game/Maps/VRJogMap.VRJogMap
 [2023.02.18-14.59.46:013][ 43]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/VRJogMap_BuiltData.VRJogMap_BuiltData
+[2023.02.18-15.00.04:675][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.02.18-15.00.04:803][444]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/VRTeleportMap.VRTeleportMap
+[2023.02.18-15.00.04:803][444]Cmd: MAP LOAD FILE="../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRTeleportMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.18-15.00.04:803][444]LightingResults: New page: Lighting Build
+[2023.02.18-15.00.04:803][444]LoadErrors: New page: Loading map: VRTeleportMap.umap
+[2023.02.18-15.00.04:835][444]LogWorld: UWorld::CleanupWorld for VRJogMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.18-15.00.04:836][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.18-15.00.04:836][444]MapCheck: New page: Map Check
+[2023.02.18-15.00.04:836][444]LightingResults: New page: Lighting Build
+[2023.02.18-15.00.04:860][444]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.18-15.00.04:867][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.02.18-15.00.04:867][444]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRTeleportMap'.
+[2023.02.18-15.00.04:969][444]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.18-15.00.04:969][444]LogAIModule: Creating AISystem for world VRTeleportMap
+[2023.02.18-15.00.04:969][444]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=300.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.02.18-15.00.04:998][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.02.18-15.00.05:005][444]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.18-15.00.05:006][444]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2023.02.18-15.00.05:006][444]LogFileHelpers: Loading map 'VRTeleportMap' took 0.202
+[2023.02.18-15.00.16:732][ 86]EditorErrors: New page: Actor attachment
+[2023.02.18-15.00.18:103][168]Cmd: DELETE
+[2023.02.18-15.00.18:103][168]Cmd: ACTOR DELETE
+[2023.02.18-15.00.18:130][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.02.18-15.00.18:134][168]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2023.02.18-15.00.21:399][341]EditorErrors: New page: Actor attachment
+[2023.02.18-15.00.25:983][592]EditorErrors: New page: Actor attachment
+[2023.02.18-15.00.31:816][908]EditorErrors: New page: Actor attachment
+[2023.02.18-15.00.37:171][205]Cmd: DELETE
+[2023.02.18-15.00.37:171][205]Cmd: ACTOR DELETE
+[2023.02.18-15.00.37:196][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.18-15.00.37:199][205]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2023.02.18-15.00.51:142][ 23]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.18-15.00.52:992][134]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.18-15.00.54:241][209]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.18-15.00.56:725][358]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.18-15.00.57:692][416]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.18-15.00.58:710][477]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.18-15.01.00:037][555]MapCheck: New page: Map Check
+[2023.02.18-15.01.00:053][555]Cmd: MAP REBUILD ALLVISIBLE
+[2023.02.18-15.01.00:054][555]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.02.18-15.01.00:138][555]LogWorld: UWorld::CleanupWorld for VRTeleportMap, bSessionEnded=true, bCleanupResources=false
+[2023.02.18-15.01.00:160][555]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2023.02.18-15.01.00:160][555]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2023.02.18-15.01.00:160][555]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2023.02.18-15.01.00:160][555]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2023.02.18-15.01.00:160][555]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=262.500 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.02.18-15.01.00:224][555]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.06s
+[2023.02.18-15.01.00:251][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.02.18-15.01.00:261][555]LogLevel: Display: Export Material TexCoord Scales took 0.006 seconds.
+[2023.02.18-15.01.00:266][555]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2023.02.18-15.01.00:293][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.02.18-15.01.00:316][555]LightingResults: New page: Lighting Build - 18 Feb 2023, 15:01:00
+[2023.02.18-15.01.00:324][555]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.02.18-15.01.00:326][555]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.02.18-15.01.00:326][555]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.02.18-15.01.00:327][555]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.02.18-15.01.00:327][555]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13432
+[2023.02.18-15.01.04:977][555]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2023.02.18-15.01.04:977][555]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.02.18-15.01.04:977][555]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.02.18-15.01.04:977][555]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.02.18-15.01.04:977][555]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.02.18-15.01.04:977][555]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.02.18-15.01.05:088][555]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2023.02.18-15.01.05:088][555]MapCheck: New page: VRTeleportMap - 18 Feb 2023, 15:01:05
+[2023.02.18-15.01.05:088][555]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.492ms to complete.
+[2023.02.18-15.01.05:090][555]LogEditorBuildUtils: Build time 0:05
+[2023.02.18-15.01.05:215][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.02.18-15.01.14:162][ 42]Job is a success!
+[2023.02.18-15.01.14:385][ 43]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.097s
+[2023.02.18-15.01.14:385][ 43]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2023.02.18-15.01.14:385][ 43]LogVolumetricLightmapImport:      BrickData (all levels) 3.4Mb
+[2023.02.18-15.01.14:385][ 43]LogVolumetricLightmapImport:      Bricks at depth
+[2023.02.18-15.01.14:385][ 43]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2023.02.18-15.01.14:385][ 43]LogVolumetricLightmapImport:          1: 8.3% covering 9.4% of volume
+[2023.02.18-15.01.14:385][ 43]LogVolumetricLightmapImport:          2: 90.4% covering 1.6% of volume
+[2023.02.18-15.01.14:385][ 43]LogVolumetricLightmapImport:      Bricks in each level
+[2023.02.18-15.01.14:385][ 43]LogVolumetricLightmapImport:          VRTeleportMap 			 581 bricks 	 100.0% (Persistent Level)
+[2023.02.18-15.01.14:467][ 43]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 512X512)
+[2023.02.18-15.01.14:467][ 43]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 512X512)
+[2023.02.18-15.01.14:467][ 43]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 256X256)
+[2023.02.18-15.01.14:467][ 43]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 64X64)
+[2023.02.18-15.01.14:467][ 43]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 64X64)
+[2023.02.18-15.01.14:467][ 43]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 256X256)
+[2023.02.18-15.01.14:467][ 43]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2023.02.18-15.01.14:467][ 43]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X64)
+[2023.02.18-15.01.14:500][ 43]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X128)
+[2023.02.18-15.01.14:534][ 43]Lightmass on NOTAHACKER: 8.79 sec total, 175 ms importing, 19 ms setup, 974 ms photons, 7.58 sec processing, 0 ms extra exporting [22/22 mappings]. Threads: 1:23 min total, 22.0 sec processing.
+[2023.02.18-15.01.14:544][ 43]LogStaticLightingSystem: VRTeleportMap_BuiltData storing lightmap data for 22 meshes in 3 LightmapResourceClusters (7.3 Meshes per cluster).
+[2023.02.18-15.01.14:586][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.02.18-15.01.14:656][ 43]LogStaticLightingSystem: Illumination: 14.2 sec (36 ms encoding lightmaps, 63 ms encoding shadowmaps)
+[2023.02.18-15.01.14:656][ 43]LogStaticLightingSystem: Lightmap texture memory:  0.6 MB (0.6 MB streaming, 0.0 MB non-streaming), 6 textures
+[2023.02.18-15.01.14:656][ 43]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 3 textures
+[2023.02.18-15.01.14:984][ 43]DumpUnbuiltLightIteractions
+[2023.02.18-15.01.14:984][ 43]Lights with unbuilt interactions: 0
+[2023.02.18-15.01.14:984][ 43]
+[2023.02.18-15.01.14:984][ 43]Primitives with unbuilt interactions: 0
+[2023.02.18-15.01.15:040][ 43]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2023.02.18-15.01.15:072][ 44]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.02.18-15.01.15:072][ 44]MapCheck: New page: VRTeleportMap - 18 Feb 2023, 15:01:15
+[2023.02.18-15.01.15:072][ 44]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.469ms to complete.
+[2023.02.18-15.01.18:089][217]LogSlate: Window 'Message Log' being destroyed
+[2023.02.18-15.01.18:097][217]LogSlate: Window 'Message Log' being destroyed
+[2023.02.18-15.01.19:034][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.02.18-15.01.19:072][271]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRTeleportMap0B0531F24195C3BFD76D54BD37E9D1B9.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRTeleportMap.umap'
+[2023.02.18-15.01.19:107][271]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRTeleportMap_BuiltDataD5A2DAF04A3C1624D42DA499D1066733.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRTeleportMap_BuiltData.uasset'
+[2023.02.18-15.01.19:120][271]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.18-15.01.19:120][271]LogContentValidation: Display: Validating World /Game/Maps/VRTeleportMap.VRTeleportMap
+[2023.02.18-15.01.19:120][271]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/VRTeleportMap_BuiltData.VRTeleportMap_BuiltData
+[2023.02.18-15.01.21:845][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.02.18-15.01.21:918][433]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/VRThumbstickMap.VRThumbstickMap
+[2023.02.18-15.01.21:918][433]Cmd: MAP LOAD FILE="../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRThumbstickMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.18-15.01.21:918][433]LightingResults: New page: Lighting Build
+[2023.02.18-15.01.21:918][433]LoadErrors: New page: Loading map: VRThumbstickMap.umap
+[2023.02.18-15.01.21:921][433]LogWorld: UWorld::CleanupWorld for VRTeleportMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.18-15.01.21:921][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.18-15.01.21:921][433]MapCheck: New page: Map Check
+[2023.02.18-15.01.21:921][433]LightingResults: New page: Lighting Build
+[2023.02.18-15.01.21:945][433]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.18-15.01.21:951][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.02.18-15.01.21:952][433]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRThumbstickMap'.
+[2023.02.18-15.01.22:042][433]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.18-15.01.22:042][433]LogAIModule: Creating AISystem for world VRThumbstickMap
+[2023.02.18-15.01.22:043][433]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=300.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.02.18-15.01.22:072][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.02.18-15.01.22:079][433]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.18-15.01.22:081][433]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.791ms to complete.
+[2023.02.18-15.01.22:081][433]LogFileHelpers: Loading map 'VRThumbstickMap' took 0.163
+[2023.02.18-15.01.35:800][217]EditorErrors: New page: Actor attachment
+[2023.02.18-15.01.37:384][305]EditorErrors: New page: Actor attachment
+[2023.02.18-15.01.43:150][597]EditorErrors: New page: Actor attachment
+[2023.02.18-15.01.45:221][721]Cmd: DELETE
+[2023.02.18-15.01.45:221][721]Cmd: ACTOR DELETE
+[2023.02.18-15.01.45:246][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.02.18-15.01.45:250][721]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2023.02.18-15.01.50:500][ 11]EditorErrors: New page: Actor attachment
+[2023.02.18-15.01.53:205][153]Cmd: DELETE
+[2023.02.18-15.01.53:205][153]Cmd: ACTOR DELETE
+[2023.02.18-15.01.53:230][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.18-15.01.53:232][153]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2023.02.18-15.02.07:040][962]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.18-15.02.08:224][ 33]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.18-15.02.09:591][115]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.18-15.02.10:758][185]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.18-15.02.11:539][231]MapCheck: New page: Map Check
+[2023.02.18-15.02.11:571][231]Cmd: MAP REBUILD ALLVISIBLE
+[2023.02.18-15.02.11:571][231]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.02.18-15.02.11:650][231]LogWorld: UWorld::CleanupWorld for VRThumbstickMap, bSessionEnded=true, bCleanupResources=false
+[2023.02.18-15.02.11:671][231]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2023.02.18-15.02.11:671][231]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2023.02.18-15.02.11:671][231]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2023.02.18-15.02.11:671][231]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2023.02.18-15.02.11:671][231]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=262.500 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.02.18-15.02.11:742][231]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.07s
+[2023.02.18-15.02.11:771][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.02.18-15.02.11:782][231]LogLevel: Display: Export Material TexCoord Scales took 0.007 seconds.
+[2023.02.18-15.02.11:786][231]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2023.02.18-15.02.11:810][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.02.18-15.02.11:833][231]LightingResults: New page: Lighting Build - 18 Feb 2023, 15:02:11
+[2023.02.18-15.02.11:838][231]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.02.18-15.02.11:840][231]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.02.18-15.02.11:840][231]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.02.18-15.02.11:840][231]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.02.18-15.02.11:840][231]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13432
+[2023.02.18-15.02.16:419][231]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2023.02.18-15.02.16:419][231]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.02.18-15.02.16:420][231]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.02.18-15.02.16:420][231]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.02.18-15.02.16:420][231]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.02.18-15.02.16:420][231]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.02.18-15.02.16:501][231]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2023.02.18-15.02.16:501][231]MapCheck: New page: VRThumbstickMap - 18 Feb 2023, 15:02:16
+[2023.02.18-15.02.16:502][231]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.814ms to complete.
+[2023.02.18-15.02.16:504][231]LogEditorBuildUtils: Build time 0:04
+[2023.02.18-15.02.16:698][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.02.18-15.02.25:168][699]Job is a success!
+[2023.02.18-15.02.25:406][700]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.099s
+[2023.02.18-15.02.25:406][700]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2023.02.18-15.02.25:406][700]LogVolumetricLightmapImport:      BrickData (all levels) 3.4Mb
+[2023.02.18-15.02.25:406][700]LogVolumetricLightmapImport:      Bricks at depth
+[2023.02.18-15.02.25:406][700]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2023.02.18-15.02.25:406][700]LogVolumetricLightmapImport:          1: 8.3% covering 9.4% of volume
+[2023.02.18-15.02.25:406][700]LogVolumetricLightmapImport:          2: 90.4% covering 1.6% of volume
+[2023.02.18-15.02.25:406][700]LogVolumetricLightmapImport:      Bricks in each level
+[2023.02.18-15.02.25:406][700]LogVolumetricLightmapImport:          VRThumbstickMap 			 581 bricks 	 100.0% (Persistent Level)
+[2023.02.18-15.02.25:467][700]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 512X512)
+[2023.02.18-15.02.25:467][700]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 512X512)
+[2023.02.18-15.02.25:467][700]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 256X256)
+[2023.02.18-15.02.25:467][700]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 256X256)
+[2023.02.18-15.02.25:467][700]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 64X64)
+[2023.02.18-15.02.25:467][700]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 64X64)
+[2023.02.18-15.02.25:467][700]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2023.02.18-15.02.25:500][700]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X64)
+[2023.02.18-15.02.25:500][700]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X128)
+[2023.02.18-15.02.25:551][700]Lightmass on NOTAHACKER: 8.31 sec total, 178 ms importing, 19 ms setup, 945 ms photons, 7.13 sec processing, 0 ms extra exporting [22/22 mappings]. Threads: 1:18 min total, 20.6 sec processing.
+[2023.02.18-15.02.25:561][700]LogStaticLightingSystem: VRThumbstickMap_BuiltData storing lightmap data for 22 meshes in 3 LightmapResourceClusters (7.3 Meshes per cluster).
+[2023.02.18-15.02.25:598][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.02.18-15.02.25:687][700]LogStaticLightingSystem: Illumination: 13.7 sec (33 ms encoding lightmaps, 46 ms encoding shadowmaps)
+[2023.02.18-15.02.25:687][700]LogStaticLightingSystem: Lightmap texture memory:  0.6 MB (0.6 MB streaming, 0.0 MB non-streaming), 6 textures
+[2023.02.18-15.02.25:687][700]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 3 textures
+[2023.02.18-15.02.26:427][700]DumpUnbuiltLightIteractions
+[2023.02.18-15.02.26:427][700]Lights with unbuilt interactions: 0
+[2023.02.18-15.02.26:427][700]
+[2023.02.18-15.02.26:427][700]Primitives with unbuilt interactions: 0
+[2023.02.18-15.02.26:451][700]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.18-15.02.26:451][700]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.02.18-15.02.26:451][700]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.02.18-15.02.26:451][700]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.02.18-15.02.26:451][700]LogShaderCompilers: Display: ================================================
+[2023.02.18-15.02.26:471][700]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2023.02.18-15.02.26:497][701]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.02.18-15.02.26:497][701]MapCheck: New page: VRThumbstickMap - 18 Feb 2023, 15:02:26
+[2023.02.18-15.02.26:498][701]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.458ms to complete.
+[2023.02.18-15.02.28:436][813]LogSlate: Window 'Message Log' being destroyed
+[2023.02.18-15.02.28:442][813]LogSlate: Window 'Message Log' being destroyed
+[2023.02.18-15.02.29:181][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.02.18-15.02.29:218][852]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRThumbstickMapC1C5C8DA4012915FF0C4BDBCDBACF78F.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRThumbstickMap.umap'
+[2023.02.18-15.02.29:252][852]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRThumbstickMap_BuiltData81B9700F405BA48E27479DB3F528D6FF.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRThumbstickMap_BuiltData.uasset'
+[2023.02.18-15.02.29:265][852]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.18-15.02.29:265][852]LogContentValidation: Display: Validating World /Game/Maps/VRThumbstickMap.VRThumbstickMap
+[2023.02.18-15.02.29:265][852]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/VRThumbstickMap_BuiltData.VRThumbstickMap_BuiltData
+[2023.02.18-15.02.38:275][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.02.18-15.02.38:361][378]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/VRArmSwingMap.VRArmSwingMap
+[2023.02.18-15.02.38:361][378]Cmd: MAP LOAD FILE="../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRArmSwingMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.18-15.02.38:361][378]LightingResults: New page: Lighting Build
+[2023.02.18-15.02.38:361][378]LoadErrors: New page: Loading map: VRArmSwingMap.umap
+[2023.02.18-15.02.38:387][378]LogWorld: UWorld::CleanupWorld for VRThumbstickMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.18-15.02.38:387][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.18-15.02.38:387][378]MapCheck: New page: Map Check
+[2023.02.18-15.02.38:387][378]LightingResults: New page: Lighting Build
+[2023.02.18-15.02.38:411][378]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.18-15.02.38:417][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.02.18-15.02.38:418][378]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRArmSwingMap'.
+[2023.02.18-15.02.38:515][378]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.18-15.02.38:515][378]LogAIModule: Creating AISystem for world VRArmSwingMap
+[2023.02.18-15.02.38:515][378]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=300.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.02.18-15.02.38:544][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.02.18-15.02.38:551][378]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.18-15.02.38:551][378]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.131ms to complete.
+[2023.02.18-15.02.38:551][378]LogFileHelpers: Loading map 'VRArmSwingMap' took 0.190
+[2023.02.18-15.02.51:334][ 76]EditorErrors: New page: Actor attachment
+[2023.02.18-15.02.54:018][215]EditorErrors: New page: Actor attachment
+[2023.02.18-15.02.57:601][406]EditorErrors: New page: Actor attachment
+[2023.02.18-15.02.58:768][465]EditorErrors: New page: Actor attachment
+[2023.02.18-15.03.01:289][614]Cmd: DELETE
+[2023.02.18-15.03.01:289][614]Cmd: ACTOR DELETE
+[2023.02.18-15.03.01:316][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.02.18-15.03.01:320][614]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2023.02.18-15.03.04:935][821]EditorErrors: New page: Actor attachment
+[2023.02.18-15.03.06:954][923]Cmd: DELETE
+[2023.02.18-15.03.06:955][923]Cmd: ACTOR DELETE
+[2023.02.18-15.03.06:981][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.02.18-15.03.06:982][923]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2023.02.18-15.03.17:392][531]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.18-15.03.18:876][620]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.18-15.03.19:609][664]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.18-15.03.21:584][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.02.18-15.03.21:622][780]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRArmSwingMapF22B51544C79797C85C36AAB6CC99A6B.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRArmSwingMap.umap'
+[2023.02.18-15.03.21:667][780]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRArmSwingMap_BuiltDataDC5EE6514AEC3900C82024ADDFC3D0F5.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRArmSwingMap_BuiltData.uasset'
+[2023.02.18-15.03.21:683][780]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.18-15.03.21:683][780]LogContentValidation: Display: Validating World /Game/Maps/VRArmSwingMap.VRArmSwingMap
+[2023.02.18-15.03.21:683][780]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/VRArmSwingMap_BuiltData.VRArmSwingMap_BuiltData
+[2023.02.18-15.03.22:574][830]MapCheck: New page: Map Check
+[2023.02.18-15.03.22:591][830]Cmd: MAP REBUILD ALLVISIBLE
+[2023.02.18-15.03.22:591][830]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.02.18-15.03.22:673][830]LogWorld: UWorld::CleanupWorld for VRArmSwingMap, bSessionEnded=true, bCleanupResources=false
+[2023.02.18-15.03.22:696][830]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2023.02.18-15.03.22:696][830]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2023.02.18-15.03.22:696][830]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2023.02.18-15.03.22:696][830]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2023.02.18-15.03.22:696][830]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=262.500 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.02.18-15.03.22:766][830]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.07s
+[2023.02.18-15.03.22:798][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.02.18-15.03.22:806][830]LogLevel: Display: Export Material TexCoord Scales took 0.008 seconds.
+[2023.02.18-15.03.22:810][830]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2023.02.18-15.03.22:834][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.02.18-15.03.22:868][830]LightingResults: New page: Lighting Build - 18 Feb 2023, 15:03:22
+[2023.02.18-15.03.22:872][830]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.02.18-15.03.22:874][830]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.02.18-15.03.22:874][830]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.02.18-15.03.22:875][830]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.02.18-15.03.22:875][830]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13432
+[2023.02.18-15.03.27:452][830]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2023.02.18-15.03.27:452][830]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.02.18-15.03.27:452][830]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.02.18-15.03.27:452][830]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.02.18-15.03.27:452][830]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.02.18-15.03.27:452][830]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.02.18-15.03.27:533][830]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2023.02.18-15.03.27:534][830]MapCheck: New page: VRArmSwingMap - 18 Feb 2023, 15:03:27
+[2023.02.18-15.03.27:535][830]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.877ms to complete.
+[2023.02.18-15.03.27:537][830]LogEditorBuildUtils: Build time 0:04
+[2023.02.18-15.03.27:667][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.02.18-15.03.36:235][298]Job is a success!
+[2023.02.18-15.03.36:472][299]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.098s
+[2023.02.18-15.03.36:472][299]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2023.02.18-15.03.36:472][299]LogVolumetricLightmapImport:      BrickData (all levels) 3.4Mb
+[2023.02.18-15.03.36:472][299]LogVolumetricLightmapImport:      Bricks at depth
+[2023.02.18-15.03.36:472][299]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2023.02.18-15.03.36:472][299]LogVolumetricLightmapImport:          1: 8.3% covering 9.4% of volume
+[2023.02.18-15.03.36:472][299]LogVolumetricLightmapImport:          2: 90.4% covering 1.6% of volume
+[2023.02.18-15.03.36:472][299]LogVolumetricLightmapImport:      Bricks in each level
+[2023.02.18-15.03.36:472][299]LogVolumetricLightmapImport:          VRArmSwingMap 			 581 bricks 	 100.0% (Persistent Level)
+[2023.02.18-15.03.36:535][299]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 512X512)
+[2023.02.18-15.03.36:536][299]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 512X512)
+[2023.02.18-15.03.36:536][299]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 256X256)
+[2023.02.18-15.03.36:536][299]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 256X256)
+[2023.02.18-15.03.36:536][299]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 64X64)
+[2023.02.18-15.03.36:536][299]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 64X64)
+[2023.02.18-15.03.36:536][299]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2023.02.18-15.03.36:536][299]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 256X64)
+[2023.02.18-15.03.36:568][299]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X128)
+[2023.02.18-15.03.36:620][299]Lightmass on NOTAHACKER: 8.42 sec total, 173 ms importing, 18 ms setup, 938 ms photons, 7.23 sec processing, 0 ms extra exporting [22/22 mappings]. Threads: 1:19 min total, 20.8 sec processing.
+[2023.02.18-15.03.36:630][299]LogStaticLightingSystem: VRArmSwingMap_BuiltData storing lightmap data for 22 meshes in 3 LightmapResourceClusters (7.3 Meshes per cluster).
+[2023.02.18-15.03.36:669][299]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.02.18-15.03.36:741][299]LogStaticLightingSystem: Illumination: 13.7 sec (34 ms encoding lightmaps, 48 ms encoding shadowmaps)
+[2023.02.18-15.03.36:741][299]LogStaticLightingSystem: Lightmap texture memory:  0.6 MB (0.6 MB streaming, 0.0 MB non-streaming), 6 textures
+[2023.02.18-15.03.36:741][299]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 3 textures
+[2023.02.18-15.03.37:456][299]DumpUnbuiltLightIteractions
+[2023.02.18-15.03.37:457][299]Lights with unbuilt interactions: 0
+[2023.02.18-15.03.37:457][299]
+[2023.02.18-15.03.37:457][299]Primitives with unbuilt interactions: 0
+[2023.02.18-15.03.37:505][299]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2023.02.18-15.03.37:532][300]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.02.18-15.03.37:532][300]MapCheck: New page: VRArmSwingMap - 18 Feb 2023, 15:03:37
+[2023.02.18-15.03.37:532][300]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.517ms to complete.
+[2023.02.18-15.03.39:425][410]LogSlate: Window 'Message Log' being destroyed
+[2023.02.18-15.03.39:431][410]LogSlate: Window 'Message Log' being destroyed
+[2023.02.18-15.03.49:582][997]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/WristMenuWidget07E7A069469CA91849BC03BEA39919C1.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/UI/WristMenuWidget.uasset'
+[2023.02.18-15.03.49:598][997]AssetCheck: New page: Asset Save: WristMenuWidget
+[2023.02.18-15.03.49:598][997]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WristMenuWidget.WristMenuWidget
+[2023.02.18-15.03.51:554][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.02.18-15.03.51:591][110]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRArmSwingMapABBAEEEB47E78A9BD0E70889E2071212.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRArmSwingMap.umap'
+[2023.02.18-15.03.51:625][110]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRArmSwingMap_BuiltData4848540D49F4D512E02AB4B20715315C.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRArmSwingMap_BuiltData.uasset'
+[2023.02.18-15.03.51:639][110]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.18-15.03.51:639][110]LogContentValidation: Display: Validating World /Game/Maps/VRArmSwingMap.VRArmSwingMap
+[2023.02.18-15.03.51:639][110]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/VRArmSwingMap_BuiltData.VRArmSwingMap_BuiltData
