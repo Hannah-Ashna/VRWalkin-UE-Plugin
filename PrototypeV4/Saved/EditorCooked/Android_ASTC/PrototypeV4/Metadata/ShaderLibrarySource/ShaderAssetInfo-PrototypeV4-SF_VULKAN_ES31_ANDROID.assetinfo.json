@@ -2,29 +2,23 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "8CFD457B90E1C82BA4319071C438FDF1669564ED",
-			"Assets": [
-				"/Game/VRPawns/Meshes/TeleportEndMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "5897394A41DDBAF7F1AF6DBC56F76FFEA27375D7",
-			"Assets": [
-				"/Game/VRPawns/Meshes/TeleportEndMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "DD842CFC119E4B5AF6E33FBDD3661119FE2ACF1C",
-			"Assets": [
-				"/Game/VRPawns/Meshes/TeleportEndMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "46419CCC020BEDDC60C0CB470CAB5962E6701FF5",
 			"Assets": [
 				"/Game/OtherAssets/TrafficLight/initialShadingGroup",
 				"/Engine/EngineDebugMaterials/M_SimpleOpaque",
 				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "BA9947FEEE599C8CB8C1AE9CD10E6F4DEB59AEF1",
+			"Assets": [
+				"/Game/OtherAssets/Target/GlowingTargetMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EDAB8769038F8E42DD94D52FB98F51C3D87A2F88",
+			"Assets": [
+				"/Engine/EditorMaterials/AssetViewer/M_SkyBox"
 			]
 		},
 		{
@@ -34,23 +28,17 @@
 			]
 		},
 		{
-			"ShaderMapHash": "52ABE4613F34286A0F3064DFE5504362A2BFF15C",
-			"Assets": [
-				"/Game/VRPawns/Meshes/CustomControllerMesh/ThumbstickContMat",
-				"/Game/VRPawns/Meshes/CustomControllerMesh/quest2ControllerMAT",
-				"/Game/VRPawns/Meshes/CustomControllerMesh/ArmSwingContMat"
-			]
-		},
-		{
 			"ShaderMapHash": "F76858CD469781F7B4E57A52BA11AD3A69B696EF",
 			"Assets": [
 				"/Engine/EditorMaterials/GridMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "EDAB8769038F8E42DD94D52FB98F51C3D87A2F88",
+			"ShaderMapHash": "52ABE4613F34286A0F3064DFE5504362A2BFF15C",
 			"Assets": [
-				"/Engine/EditorMaterials/AssetViewer/M_SkyBox"
+				"/Game/VRPawns/Meshes/CustomControllerMesh/ThumbstickContMat",
+				"/Game/VRPawns/Meshes/CustomControllerMesh/quest2ControllerMAT",
+				"/Game/VRPawns/Meshes/CustomControllerMesh/ArmSwingContMat"
 			]
 		},
 		{
@@ -80,6 +68,25 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0314AF0B5CE2D7288F6738E88427B1E4D21BB29E",
+			"Assets": [
+				"/Game/OtherAssets/House/HouseMaterial_Roof"
+			]
+		},
+		{
+			"ShaderMapHash": "33F271E91B794CA91D5A900337630373068E399F",
+			"Assets": [
+				"/Game/OtherAssets/House/HouseMaterial_Fence"
+			]
+		},
+		{
+			"ShaderMapHash": "28B0DADFBB0A778883A95E023EEEB44D0DDDE86A",
+			"Assets": [
+				"/Game/OtherAssets/House/HouseMaterial_Door",
+				"/Game/OtherAssets/House/HouseMaterial_Wall_2"
+			]
+		},
+		{
 			"ShaderMapHash": "19D7159108ABC6C75F4C519731FF88C2723196D2",
 			"Assets": [
 				"/Game/Roads/Materials/ZebraMarkingsMat"
@@ -95,6 +102,21 @@
 			"ShaderMapHash": "24C6F0F46A476D1658DEAD0B6944D082C41FD7DE",
 			"Assets": [
 				"/Game/Roads/Materials/RoadMat"
+			]
+		},
+		{
+			"ShaderMapHash": "05E8AA9A967DDCEA9B15F1D465FA1DEF289207AB",
+			"Assets": [
+				"/Game/Roads/Materials/PavementMat"
+			]
+		},
+		{
+			"ShaderMapHash": "5016B6BF61EFB10FDB5C11E4308A711EF6B17055",
+			"Assets": [
+				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Interior",
+				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior",
+				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Under",
+				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Under"
 			]
 		},
 		{
@@ -116,9 +138,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "B77F4D6E0B7CB420A3DBF5F4C02E0374550314CF",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
 			"ShaderMapHash": "3A87B46C677BA0AF5262E3A375C322D33B55CBBB",
 			"Assets": [
 				"/Engine/EngineResources/M_StreamingPause"
+			]
+		},
+		{
+			"ShaderMapHash": "AB9112DC90D5193ED5A0E32578981EFEE819BB4A",
+			"Assets": [
+				"/Engine/EngineMaterials/BlinkingCaret"
 			]
 		},
 		{
@@ -223,6 +257,32 @@
 			]
 		},
 		{
+			"ShaderMapHash": "626DF80E0012A6D1C155F0CC0FCDE9EBFA7CECFC",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial",
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Engine/EngineMaterials/HighResScreenshotCaptureRegion",
+				"/Engine/BufferVisualization/PostTonemapHDRColor",
+				"/Engine/BufferVisualization/PreTonemapHDRColor",
+				"/Engine/BufferVisualization/Velocity",
+				"/Engine/BufferVisualization/WorldTangent",
+				"/Engine/BufferVisualization/Anisotropy",
+				"/Engine/BufferVisualization/CustomStencil"
+			]
+		},
+		{
+			"ShaderMapHash": "6CA2551EAE7DBA04F30BA319DA7163D4E1749BA1",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/PhysicalMaterialMaskMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8CA06CE4D4C7CB14BB505BA00C998B32A42CEA79",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "29871DE04DE28785C04EEA35D54F3C21CD4154A4",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/ClothMaterial_WF"
@@ -276,20 +336,6 @@
 			"ShaderMapHash": "C11725D7E917ABA42C4A629E3B3CE3972D16752A",
 			"Assets": [
 				"/Engine/EngineMaterials/EmissiveMeshMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "626DF80E0012A6D1C155F0CC0FCDE9EBFA7CECFC",
-			"Assets": [
-				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
-				"/Engine/EngineMaterials/HighResScreenshotCaptureRegion",
-				"/Engine/BufferVisualization/PostTonemapHDRColor",
-				"/Engine/BufferVisualization/PreTonemapHDRColor",
-				"/Engine/BufferVisualization/Velocity",
-				"/Engine/BufferVisualization/WorldTangent",
-				"/Engine/BufferVisualization/Anisotropy",
-				"/Engine/BufferVisualization/CustomStencil",
-				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
 			]
 		},
 		{
@@ -368,6 +414,12 @@
 			"ShaderMapHash": "CF312AF1CCF849A803753F57C831AC561386D1CD",
 			"Assets": [
 				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "934C2EA1F032FB093F0462D3AED1A4ECA26D7C3C",
+			"Assets": [
+				"/OculusVR/Materials/touchController_mat"
 			]
 		},
 		{
@@ -483,6 +535,12 @@
 			"Assets": [
 				"/Engine/EditorLandscapeResources/LandscapeGizmo_Mat_Copied",
 				"/Engine/EditorLandscapeResources/LandscapeGizmo_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "E356742301BF1527D4033A086C509AF3BC8F3DC2",
+			"Assets": [
+				"/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial"
 			]
 		},
 		{
@@ -613,58 +671,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "BA9947FEEE599C8CB8C1AE9CD10E6F4DEB59AEF1",
-			"Assets": [
-				"/Game/OtherAssets/Target/GlowingTargetMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "0314AF0B5CE2D7288F6738E88427B1E4D21BB29E",
-			"Assets": [
-				"/Game/OtherAssets/House/HouseMaterial_Roof"
-			]
-		},
-		{
-			"ShaderMapHash": "33F271E91B794CA91D5A900337630373068E399F",
-			"Assets": [
-				"/Game/OtherAssets/House/HouseMaterial_Fence"
-			]
-		},
-		{
-			"ShaderMapHash": "28B0DADFBB0A778883A95E023EEEB44D0DDDE86A",
-			"Assets": [
-				"/Game/OtherAssets/House/HouseMaterial_Door",
-				"/Game/OtherAssets/House/HouseMaterial_Wall_2"
-			]
-		},
-		{
-			"ShaderMapHash": "7060D86652953A9CADC9758987ED4E71B35B4944",
-			"Assets": [
-				"/Game/VRPawns/Meshes/TeleportEndMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "2229AC87151BE1555D6F120EB690227AD08D2762",
-			"Assets": [
-				"/Game/VRPawns/Meshes/TeleportArcMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "05E8AA9A967DDCEA9B15F1D465FA1DEF289207AB",
-			"Assets": [
-				"/Game/Roads/Materials/PavementMat"
-			]
-		},
-		{
-			"ShaderMapHash": "5016B6BF61EFB10FDB5C11E4308A711EF6B17055",
-			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Under",
-				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Interior",
-				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Under",
-				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior"
-			]
-		},
-		{
 			"ShaderMapHash": "F30BD8D77C5F4D51693F2C29F3FE62A935CD28D9",
 			"Assets": [
 				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Body",
@@ -678,39 +684,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B77F4D6E0B7CB420A3DBF5F4C02E0374550314CF",
+			"ShaderMapHash": "5897394A41DDBAF7F1AF6DBC56F76FFEA27375D7",
 			"Assets": [
-				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
-			]
-		},
-		{
-			"ShaderMapHash": "AB9112DC90D5193ED5A0E32578981EFEE819BB4A",
-			"Assets": [
-				"/Engine/EngineMaterials/BlinkingCaret"
-			]
-		},
-		{
-			"ShaderMapHash": "6CA2551EAE7DBA04F30BA319DA7163D4E1749BA1",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/PhysicalMaterialMaskMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "8CA06CE4D4C7CB14BB505BA00C998B32A42CEA79",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "934C2EA1F032FB093F0462D3AED1A4ECA26D7C3C",
-			"Assets": [
-				"/OculusVR/Materials/touchController_mat"
-			]
-		},
-		{
-			"ShaderMapHash": "E356742301BF1527D4033A086C509AF3BC8F3DC2",
-			"Assets": [
-				"/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial"
+				"/Game/VRPawns/Meshes/TeleportEndMaterial"
 			]
 		},
 		{
@@ -735,6 +711,12 @@
 			"ShaderMapHash": "0602AB80EF4FDE595E5F1F372E41503774AC3C6D",
 			"Assets": [
 				"/Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2229AC87151BE1555D6F120EB690227AD08D2762",
+			"Assets": [
+				"/Game/VRPawns/Meshes/TeleportArcMaterial"
 			]
 		}
 	]
