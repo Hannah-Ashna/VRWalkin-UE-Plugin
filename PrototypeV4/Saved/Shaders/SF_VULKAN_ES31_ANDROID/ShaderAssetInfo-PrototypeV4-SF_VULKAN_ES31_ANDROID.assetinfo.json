@@ -16,9 +16,9 @@
 		{
 			"ShaderMapHash": "52ABE4613F34286A0F3064DFE5504362A2BFF15C",
 			"Assets": [
-				"/Game/VRPawns/Meshes/CustomControllerMesh/ArmSwingContMat",
 				"/Game/VRPawns/Meshes/CustomControllerMesh/ThumbstickContMat",
-				"/Game/VRPawns/Meshes/CustomControllerMesh/quest2ControllerMAT"
+				"/Game/VRPawns/Meshes/CustomControllerMesh/quest2ControllerMAT",
+				"/Game/VRPawns/Meshes/CustomControllerMesh/ArmSwingContMat"
 			]
 		},
 		{
@@ -113,10 +113,10 @@
 		{
 			"ShaderMapHash": "5016B6BF61EFB10FDB5C11E4308A711EF6B17055",
 			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Under",
 				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Interior",
 				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Under",
-				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior"
+				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior",
+				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Under"
 			]
 		},
 		{
@@ -124,12 +124,6 @@
 			"Assets": [
 				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Body",
 				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Body"
-			]
-		},
-		{
-			"ShaderMapHash": "85877ABF1A7126DC98230CA46849D757251C8477",
-			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/Masters/M_Glass"
 			]
 		},
 		{
@@ -681,6 +675,12 @@
 			"ShaderMapHash": "193A55CE4A9F8E89DAC12E1E2FC78F12F2387C9B",
 			"Assets": [
 				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "85877ABF1A7126DC98230CA46849D757251C8477",
+			"Assets": [
+				"/Game/VehicleVarietyPack/Materials/Masters/M_Glass"
 			]
 		},
 		{
