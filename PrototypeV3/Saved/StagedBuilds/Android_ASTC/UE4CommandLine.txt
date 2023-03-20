@@ -1,1 +1,0 @@
-../../../PrototypeV3/PrototypeV3.uproject  /Game/VRTemplate/Maps/VRTemplateMap -Messaging -SessionId=E137CF8546E7DCEB7CE30188CCAEFD04 -SessionOwner="SLATE 15" -SessionName="Launch On Device" -iterative
