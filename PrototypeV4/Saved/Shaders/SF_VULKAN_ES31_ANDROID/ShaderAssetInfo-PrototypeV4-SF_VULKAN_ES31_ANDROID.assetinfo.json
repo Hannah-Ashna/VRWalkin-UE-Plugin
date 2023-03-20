@@ -4,15 +4,9 @@
 		{
 			"ShaderMapHash": "52ABE4613F34286A0F3064DFE5504362A2BFF15C",
 			"Assets": [
-				"/Game/VRPawns/Meshes/CustomControllerMesh/ArmSwingContMat",
 				"/Game/VRPawns/Meshes/CustomControllerMesh/ThumbstickContMat",
-				"/Game/VRPawns/Meshes/CustomControllerMesh/quest2ControllerMAT"
-			]
-		},
-		{
-			"ShaderMapHash": "EDAB8769038F8E42DD94D52FB98F51C3D87A2F88",
-			"Assets": [
-				"/Engine/EditorMaterials/AssetViewer/M_SkyBox"
+				"/Game/VRPawns/Meshes/CustomControllerMesh/quest2ControllerMAT",
+				"/Game/VRPawns/Meshes/CustomControllerMesh/ArmSwingContMat"
 			]
 		},
 		{
@@ -24,21 +18,15 @@
 			]
 		},
 		{
+			"ShaderMapHash": "856E76C700D8A92F4A725FA0C20488807E8E7221",
+			"Assets": [
+				"/Game/OtherAssets/Target/Ch31_body"
+			]
+		},
+		{
 			"ShaderMapHash": "BA9947FEEE599C8CB8C1AE9CD10E6F4DEB59AEF1",
 			"Assets": [
 				"/Game/OtherAssets/Target/GlowingTargetMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "7C67D6C9082AA01D419DEB5AA9CBC5DCBDB0093E",
-			"Assets": [
-				"/Engine/EditorMaterials/PersonaFloorMat"
-			]
-		},
-		{
-			"ShaderMapHash": "F76858CD469781F7B4E57A52BA11AD3A69B696EF",
-			"Assets": [
-				"/Engine/EditorMaterials/GridMaterial"
 			]
 		},
 		{
@@ -74,22 +62,10 @@
 			]
 		},
 		{
-			"ShaderMapHash": "33F271E91B794CA91D5A900337630373068E399F",
-			"Assets": [
-				"/Game/OtherAssets/House/HouseMaterial_Fence"
-			]
-		},
-		{
 			"ShaderMapHash": "28B0DADFBB0A778883A95E023EEEB44D0DDDE86A",
 			"Assets": [
 				"/Game/OtherAssets/House/HouseMaterial_Door",
 				"/Game/OtherAssets/House/HouseMaterial_Wall_2"
-			]
-		},
-		{
-			"ShaderMapHash": "19D7159108ABC6C75F4C519731FF88C2723196D2",
-			"Assets": [
-				"/Game/Roads/Materials/ZebraMarkingsMat"
 			]
 		},
 		{
@@ -126,9 +102,9 @@
 			"ShaderMapHash": "5016B6BF61EFB10FDB5C11E4308A711EF6B17055",
 			"Assets": [
 				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Under",
+				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior",
 				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Interior",
-				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Under",
-				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior"
+				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Under"
 			]
 		},
 		{
@@ -160,12 +136,6 @@
 			"ShaderMapHash": "E489226897DA3A00A2991AD3DAA8279755866FA9",
 			"Assets": [
 				"/Game/Vehicle/Sedan/Materials/M_Vehicle_Sedan"
-			]
-		},
-		{
-			"ShaderMapHash": "B77F4D6E0B7CB420A3DBF5F4C02E0374550314CF",
-			"Assets": [
-				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
 			]
 		},
 		{
@@ -563,12 +533,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E356742301BF1527D4033A086C509AF3BC8F3DC2",
-			"Assets": [
-				"/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "8CA160519AB3E78FE83FE515CC9141B53D3380F2",
 			"Assets": [
 				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
@@ -702,9 +666,27 @@
 			]
 		},
 		{
-			"ShaderMapHash": "856E76C700D8A92F4A725FA0C20488807E8E7221",
+			"ShaderMapHash": "33F271E91B794CA91D5A900337630373068E399F",
 			"Assets": [
-				"/Game/OtherAssets/Target/Ch31_body"
+				"/Game/OtherAssets/House/HouseMaterial_Fence"
+			]
+		},
+		{
+			"ShaderMapHash": "19D7159108ABC6C75F4C519731FF88C2723196D2",
+			"Assets": [
+				"/Game/Roads/Materials/ZebraMarkingsMat"
+			]
+		},
+		{
+			"ShaderMapHash": "B77F4D6E0B7CB420A3DBF5F4C02E0374550314CF",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "E356742301BF1527D4033A086C509AF3BC8F3DC2",
+			"Assets": [
+				"/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial"
 			]
 		},
 		{
@@ -723,12 +705,6 @@
 			"ShaderMapHash": "CA10C727DD35296A5AF6C41B3137170C689093BE",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
-			]
-		},
-		{
-			"ShaderMapHash": "0602AB80EF4FDE595E5F1F372E41503774AC3C6D",
-			"Assets": [
-				"/Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial"
 			]
 		}
 	]
