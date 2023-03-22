@@ -1465,3 +1465,139 @@ Make sure 'VRChar_Holoport_C' has been compiled for  Get IsSeated
 [2023.03.22-17.21.22:735][687]LogEditorClassViewer: Warning: Class /Game/VRTemplate/Blueprints/VRPawn.PLACEHOLDER-CLASS__GrabComponent_C_1 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
 [2023.03.22-17.21.22:735][687]LogEditorClassViewer: Warning: Class /Game/VRTemplate/Blueprints/VRPawn.PLACEHOLDER-CLASS__Menu_C_2 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
 [2023.03.22-17.21.22:735][687]LogEditorClassViewer: Warning: Class /Game/VRTemplate/Blueprints/VRPawn.PLACEHOLDER-CLASS__VRInteractionBPI_C_3 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.22-17.32.34:526][178]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2023.03.22-17.32.39:023][426]LogContentBrowser: Attempting asset rename: VRTeleportVisualizer_2 -> VRVisualiser
+[2023.03.22-17.32.39:046][426]LogMetaData: Removing '/Game/VRTemplate/Blueprints/VRVisualiser.SKEL_VRVisualiser_C' ref from Metadata '/Game/VRTemplate/Blueprints/VRTeleportVisualizer_2.PackageMetaData'
+[2023.03.22-17.32.39:046][426]LogMetaData: Removing '/Game/VRTemplate/Blueprints/VRVisualiser.VRVisualiser_C' ref from Metadata '/Game/VRTemplate/Blueprints/VRTeleportVisualizer_2.PackageMetaData'
+[2023.03.22-17.32.39:046][426]LogMetaData: Removing '/Game/VRTemplate/Blueprints/VRVisualiser.SKEL_VRVisualiser_C:ReceiveBeginPlay' ref from Metadata '/Game/VRTemplate/Blueprints/VRTeleportVisualizer_2.PackageMetaData'
+[2023.03.22-17.32.39:046][426]LogMetaData: Removing '/Game/VRTemplate/Blueprints/VRVisualiser.SKEL_VRVisualiser_C:ReceiveTick' ref from Metadata '/Game/VRTemplate/Blueprints/VRTeleportVisualizer_2.PackageMetaData'
+[2023.03.22-17.32.39:046][426]LogMetaData: Removing '/Game/VRTemplate/Blueprints/VRVisualiser.SKEL_VRVisualiser_C:UserConstructionScript' ref from Metadata '/Game/VRTemplate/Blueprints/VRTeleportVisualizer_2.PackageMetaData'
+[2023.03.22-17.32.39:046][426]LogMetaData: Removing '/Game/VRTemplate/Blueprints/VRVisualiser.VRVisualiser_C:ReceiveBeginPlay' ref from Metadata '/Game/VRTemplate/Blueprints/VRTeleportVisualizer_2.PackageMetaData'
+[2023.03.22-17.32.39:046][426]LogMetaData: Removing '/Game/VRTemplate/Blueprints/VRVisualiser.VRVisualiser_C:ReceiveTick' ref from Metadata '/Game/VRTemplate/Blueprints/VRTeleportVisualizer_2.PackageMetaData'
+[2023.03.22-17.32.39:071][426]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRVisualiser22C621B4434785E3C66D7A87B7CE5877.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRTemplate/Blueprints/VRVisualiser.uasset'
+[2023.03.22-17.32.39:163][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.03.22-17.32.39:214][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.03.22-17.32.39:248][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.03.22-17.32.39:297][426]AssetCheck: New page: Asset Save: VRVisualiser
+[2023.03.22-17.32.39:297][426]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRVisualiser.VRVisualiser
+[2023.03.22-17.32.40:276][485]Cmd: EDIT CUT
+[2023.03.22-17.32.40:283][485]LogEditorActor: Deleted Actor: PlayerStart
+[2023.03.22-17.32.40:319][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2023.03.22-17.32.40:320][485]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2023.03.22-17.32.45:273][750]LogMetaData: Removing '/Game/VRPawns/VRVisualiser.VRVisualiser_C' ref from Metadata '/Game/VRTemplate/Blueprints/VRVisualiser.PackageMetaData'
+[2023.03.22-17.32.45:273][750]LogMetaData: Removing '/Game/VRPawns/VRVisualiser.VRVisualiser_C:ReceiveBeginPlay' ref from Metadata '/Game/VRTemplate/Blueprints/VRVisualiser.PackageMetaData'
+[2023.03.22-17.32.45:273][750]LogMetaData: Removing '/Game/VRPawns/VRVisualiser.VRVisualiser_C:ReceiveTick' ref from Metadata '/Game/VRTemplate/Blueprints/VRVisualiser.PackageMetaData'
+[2023.03.22-17.32.45:273][750]LogMetaData: Removing '/Game/VRPawns/VRVisualiser.SKEL_VRVisualiser_C' ref from Metadata '/Game/VRTemplate/Blueprints/VRVisualiser.PackageMetaData'
+[2023.03.22-17.32.45:273][750]LogMetaData: Removing '/Game/VRPawns/VRVisualiser.SKEL_VRVisualiser_C:ReceiveBeginPlay' ref from Metadata '/Game/VRTemplate/Blueprints/VRVisualiser.PackageMetaData'
+[2023.03.22-17.32.45:273][750]LogMetaData: Removing '/Game/VRPawns/VRVisualiser.SKEL_VRVisualiser_C:ReceiveTick' ref from Metadata '/Game/VRTemplate/Blueprints/VRVisualiser.PackageMetaData'
+[2023.03.22-17.32.45:273][750]LogMetaData: Removing '/Game/VRPawns/VRVisualiser.SKEL_VRVisualiser_C:UserConstructionScript' ref from Metadata '/Game/VRTemplate/Blueprints/VRVisualiser.PackageMetaData'
+[2023.03.22-17.32.45:308][750]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRVisualiser40B26D354301512548E4439333F9156A.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRVisualiser.uasset'
+[2023.03.22-17.32.45:431][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.03.22-17.32.45:474][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.03.22-17.32.45:508][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.03.22-17.32.45:562][750]AssetCheck: New page: Asset Save: VRVisualiser
+[2023.03.22-17.32.45:562][750]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRVisualiser.VRVisualiser
+[2023.03.22-17.32.55:433][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2023.03.22-17.33.01:965][331]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.22-17.33.06:829][605]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-17.33.06:829][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-17.33.07:364][630]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.03.22-17.33.07:364][630]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-17.33.07:364][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-17.33.38:680][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.03.22-17.33.46:152][465]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.22-17.33.56:139][ 39]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.22-17.33.56:238][ 39]LogMaterial: Display: Missing cached shadermap for Material_ArmSwing in PCD3D_SM5, Default, SM5 (DDC key hash: 342FF9FD17B1E74904EEDCA39C4A36C411718BE6), compiling. 
+[2023.03.22-17.33.56:295][ 39]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.03.22-17.33.56:298][ 39]LogMaterial: Display: Missing cached shadermap for TeleportArcMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 9D24A3DBE947731C776F832D428C70E97A766B53), compiling. 
+[2023.03.22-17.33.56:324][ 39]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 32
+[2023.03.22-17.33.56:324][ 39]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2023.03.22-17.33.56:324][ 39]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2023.03.22-17.33.56:324][ 39]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2023.03.22-17.33.56:324][ 39]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2023.03.22-17.33.56:324][ 39]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2023.03.22-17.33.56:324][ 39]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2023.03.22-17.33.56:324][ 39]LogShaderCompilers: Display: Started 32 'Local' shader compile jobs with 'Low' priority
+[2023.03.22-17.33.56:324][ 39]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.03.22-17.33.56:590][ 39]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 32
+[2023.03.22-17.33.56:590][ 39]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2023.03.22-17.33.56:590][ 39]LogStaticMesh: Building static mesh CylinderBeam...
+[2023.03.22-17.33.56:601][ 39]LogStaticMesh: Built static mesh [0.01s] /VRWalkin/Meshes/Mesh_Arc/CylinderBeam.CylinderBeam
+[2023.03.22-17.33.56:612][ 39]LogStaticMesh: Building static mesh TeleportArchMesh...
+[2023.03.22-17.33.56:620][ 39]LogStaticMesh: Built static mesh [0.01s] /VRWalkin/Meshes/Mesh_Arc/TeleportArchMesh.TeleportArchMesh
+[2023.03.22-17.33.56:632][ 39]LogMaterial: Display: Missing cached shadermap for Material_Standard in PCD3D_SM5, Default, SM5 (DDC key hash: 9030F8859AD11040452B72021128A316A7EEA1BA), compiling. 
+[2023.03.22-17.33.56:668][ 39]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.03.22-17.33.56:682][ 39]LogMaterial: Display: Missing cached shadermap for Material_Thumbstick in PCD3D_SM5, Default, SM5 (DDC key hash: 3A4FA3FF2C790CDA4E3E5205C0FBAC97E643256E), compiling. 
+[2023.03.22-17.33.56:721][ 39]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.03.22-17.33.56:731][ 39]LogMaterial: Display: Missing cached shadermap for Material_TriggerButton in PCD3D_SM5, Default, SM5 (DDC key hash: C592885CA019906D2A7E766767903FF3150B8A57), compiling. 
+[2023.03.22-17.33.56:776][ 39]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.03.22-17.33.57:039][ 39]LogUObjectHash: Compacting FUObjectHashTables data took  17.95ms
+[2023.03.22-17.34.00:744][ 39]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.22-17.34.00:957][ 39]LogUObjectGlobals: Force Deleting 28 Package(s):
+	Asset Name: /VRWalkin/Blueprints/Enum_ArmSwing.Enum_ArmSwing
+	Asset Name: /VRWalkin/Blueprints/VRChar_ArmSwing.VRChar_ArmSwing
+	Asset Name: /VRWalkin/Blueprints/VRChar_Jog.VRChar_Jog
+	Asset Name: /VRWalkin/Blueprints/VRChar_Menu.VRChar_Menu
+	Asset Name: /VRWalkin/Blueprints/VRChar_Thumbstick.VRChar_Thumbstick
+	Asset Name: /VRWalkin/Blueprints/VRChar_W2P.VRChar_W2P
+	Asset Name: /VRWalkin/Blueprints/WalkingCameraShake.WalkingCameraShake
+	Asset Name: /VRWalkin/Widgets/Widget_ArmSwingMenu.Widget_ArmSwingMenu
+	Asset Name: /VRWalkin/Widgets/Widget_JogMenu.Widget_JogMenu
+	Asset Name: /VRWalkin/Widgets/Widget_StandardMenu.Widget_StandardMenu
+[2023.03.22-17.34.05:807][ 39]LogMaterial: Display: Missing cached shadermap for Material_ArmSwing in PCD3D_SM5, Default, SM5 (DDC key hash: FE536CA5ADB3E92A68EBDDE674AA6B4B30866784), compiling. 
+[2023.03.22-17.34.05:808][ 39]LogMaterial: Warning: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\FYP-Prototype\PrototypeV4\Plugins\VRWalkin\Content\Meshes\Mesh_Controllers\Material_ArmSwing.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.03.22-17.34.05:808][ 39]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.03.22-17.34.05:808][ 39]LogMaterial: Warning: Material_ArmSwing: Requesting an invalid TextureIndex! (0 / 1)
+[2023.03.22-17.34.05:811][ 39]LogMaterial: Display: Missing cached shadermap for Material_ArmSwing in PCD3D_SM5, Default, SM5 (DDC key hash: FE536CA5ADB3E92A68EBDDE674AA6B4B30866784), compiling. 
+[2023.03.22-17.34.05:812][ 39]LogMaterial: Warning: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\FYP-Prototype\PrototypeV4\Plugins\VRWalkin\Content\Meshes\Mesh_Controllers\Material_ArmSwing.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.03.22-17.34.05:812][ 39]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.03.22-17.34.06:356][ 39]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2023.03.22-17.34.08:948][ 39]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 123
+[2023.03.22-17.34.08:949][ 39]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.03.22-17.34.10:702][ 39]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 113
+[2023.03.22-17.34.10:702][ 39]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.03.22-17.34.11:259][ 39]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 103
+[2023.03.22-17.34.11:259][ 39]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.03.22-17.34.11:259][ 39]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 93
+[2023.03.22-17.34.11:259][ 39]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.03.22-17.34.28:290][ 39]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 83
+[2023.03.22-17.34.28:290][ 39]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.03.22-17.34.30:504][ 39]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 73
+[2023.03.22-17.34.30:505][ 39]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.03.22-17.34.30:505][ 39]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 63
+[2023.03.22-17.34.30:505][ 39]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2023.03.22-17.34.36:352][ 39]LogUObjectHash: Compacting FUObjectHashTables data took  10.21ms
+[2023.03.22-17.34.36:468][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2023.03.22-17.34.36:602][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2023.03.22-17.34.36:716][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2023.03.22-17.34.36:844][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2023.03.22-17.34.36:966][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2023.03.22-17.34.37:100][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2023.03.22-17.34.37:210][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.03.22-17.34.37:317][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.03.22-17.34.37:420][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2023.03.22-17.34.37:521][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2023.03.22-17.34.37:611][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2023.03.22-17.34.37:696][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.03.22-17.34.37:801][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.03.22-17.34.37:888][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2023.03.22-17.34.37:990][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2023.03.22-17.34.38:089][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2023.03.22-17.34.38:188][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2023.03.22-17.34.38:275][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2023.03.22-17.34.38:378][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2023.03.22-17.34.38:464][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.03.22-17.34.38:555][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.03.22-17.34.38:655][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.03.22-17.34.38:746][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.03.22-17.34.38:832][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.03.22-17.34.38:926][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2023.03.22-17.34.39:018][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.03.22-17.34.39:114][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.03.22-17.34.39:215][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   8.13ms
+[2023.03.22-17.34.39:313][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2023.03.22-17.34.40:116][ 39]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.22-17.34.40:116][ 39]LogShaderCompilers: Display: Total job queries 160, among them cache hits 0 (0.00%)
+[2023.03.22-17.34.40:116][ 39]LogShaderCompilers: Display: Tracking 37 distinct input hashes that result in 26 distinct outputs (70.27%)
+[2023.03.22-17.34.40:116][ 39]LogShaderCompilers: Display: RAM used: 0.49 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.06%
+[2023.03.22-17.34.40:116][ 39]LogShaderCompilers: Display: ================================================
