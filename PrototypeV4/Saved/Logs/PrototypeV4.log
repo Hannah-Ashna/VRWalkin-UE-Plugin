@@ -2178,3 +2178,250 @@ Make sure 'VRChar_Teleport_C' has been compiled for  Get CollisionMaxHeight
 [2023.03.22-16.59.38:883][834]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/VRTeleportMap_BuiltData.VRTeleportMap_BuiltData
 [2023.03.22-17.00.04:268][810]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
 [2023.03.22-17.00.04:268][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-17.01.22:296][884]BlueprintLog: New page: Compile VRChar_ArmSwing
+[2023.03.22-17.01.22:370][884]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2023.03.22-17.01.23:091][914]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_ArmSwingBFFBEE5E48F53EFA93185FB1EEDEC4F5.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_ArmSwing.uasset'
+[2023.03.22-17.01.23:107][914]AssetCheck: New page: Asset Save: VRChar_ArmSwing
+[2023.03.22-17.01.23:107][914]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_ArmSwing.VRChar_ArmSwing
+[2023.03.22-17.01.28:097][201]BlueprintLog: New page: Compile VRChar_ArmSwing
+[2023.03.22-17.01.28:158][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.03.22-17.01.28:751][227]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_ArmSwing21E1F28C4C0E69CCC1DD7E979D4787AE.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_ArmSwing.uasset'
+[2023.03.22-17.01.28:768][227]AssetCheck: New page: Asset Save: VRChar_ArmSwing
+[2023.03.22-17.01.28:768][227]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_ArmSwing.VRChar_ArmSwing
+[2023.03.22-17.02.16:062][798]BlueprintLog: New page: Compile VRChar_ArmSwing
+[2023.03.22-17.02.16:128][798]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2023.03.22-17.02.16:614][818]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_ArmSwingF9C542A64308F1FE8AC452B0A29A3644.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_ArmSwing.uasset'
+[2023.03.22-17.02.16:629][818]AssetCheck: New page: Asset Save: VRChar_ArmSwing
+[2023.03.22-17.02.16:629][818]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_ArmSwing.VRChar_ArmSwing
+[2023.03.22-17.02.19:569][992]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2023.03.22-17.02.19:659][992]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/VRArmSwingMap.VRArmSwingMap
+[2023.03.22-17.02.19:659][992]Cmd: MAP LOAD FILE="../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRArmSwingMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.22-17.02.19:659][992]LightingResults: New page: Lighting Build
+[2023.03.22-17.02.19:661][992]LoadErrors: New page: Loading map: VRArmSwingMap.umap
+[2023.03.22-17.02.19:664][992]LogWorld: UWorld::CleanupWorld for VRTeleportMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-17.02.19:664][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-17.02.19:664][992]MapCheck: New page: Map Check
+[2023.03.22-17.02.19:664][992]LightingResults: New page: Lighting Build
+[2023.03.22-17.02.19:690][992]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.22-17.02.19:698][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.03.22-17.02.19:699][992]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRArmSwingMap'.
+[2023.03.22-17.02.19:801][992]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.22-17.02.19:801][992]LogAIModule: Creating AISystem for world VRArmSwingMap
+[2023.03.22-17.02.19:802][992]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=525.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.03.22-17.02.19:829][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.03.22-17.02.19:838][992]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.22-17.02.19:839][992]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.132ms to complete.
+[2023.03.22-17.02.19:839][992]LogFileHelpers: Loading map 'VRArmSwingMap' took 0.180
+[2023.03.22-17.02.26:111][329]LogEditorViewport: Clicking on Actor (LMB): RoadActor_C (RoadActor)
+[2023.03.22-17.02.26:608][357]LogEditorViewport: Clicking on Actor (LMB): TargetPoint_C (TargetPoint)
+[2023.03.22-17.02.36:478][948]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2023.03.22-17.02.37:822][ 28]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.22-17.02.38:572][ 73]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.22-17.02.39:541][130]LogTemp: Repeating last play command: VR Preview
+[2023.03.22-17.02.39:550][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.22-17.02.39:551][130]LogHMD: Initializing OVRPlugin session
+[2023.03.22-17.02.39:765][130]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2023.03.22-17.02.39:765][130]PIE: New page: PIE session: VRArmSwingMap (22 Mar 2023, 17:02:39)
+[2023.03.22-17.02.39:766][130]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_VRArmSwingMap
+[2023.03.22-17.02.39:774][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008735s)
+[2023.03.22-17.02.39:775][130]LogAIModule: Creating AISystem for world VRArmSwingMap
+[2023.03.22-17.02.39:775][130]LogPlayLevel: PIE: World Init took: (0.001415s)
+[2023.03.22-17.02.39:775][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/VRArmSwingMap.VRArmSwingMap to /Game/Maps/UEDPIE_0_VRArmSwingMap.VRArmSwingMap (0.010393s)
+[2023.03.22-17.02.39:805][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.03.22-17.02.39:808][130]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.03.22-17.02.39:808][130]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.22-17.02.39:808][130]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.22-17.02.39:808][130]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.22-17.02.39:808][130]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.22-17.02.39:808][130]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.22-17.02.39:808][130]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.22-17.02.39:808][130]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.22-17.02.39:808][130]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.22-17.02.39:808][130]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.22-17.02.39:808][130]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.22-17.02.39:808][130]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.22-17.02.39:808][130]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.22-17.02.39:812][130]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.22-17.02.39:812][130]LogAudioMixer: Display: 1: FrontRight
+[2023.03.22-17.02.39:815][130]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.22-17.02.39:815][130]LogAudioMixer: Display: 1: FrontRight
+[2023.03.22-17.02.39:816][130]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.22-17.02.39:816][130]LogAudioMixer: Display: 1: FrontRight
+[2023.03.22-17.02.39:819][130]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.22-17.02.39:819][130]LogAudioMixer: Display: 1: FrontRight
+[2023.03.22-17.02.39:828][130]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2023.03.22-17.02.39:828][130]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.22-17.02.39:828][130]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.22-17.02.39:828][130]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.22-17.02.39:829][130]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.22-17.02.39:829][130]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.22-17.02.39:829][130]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.22-17.02.39:830][130]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.22-17.02.39:830][130]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.22-17.02.39:830][130]LogInit: FAudioDevice initialized.
+[2023.03.22-17.02.39:830][130]LogAudio: Display: Audio Device (ID: 11) registered with world 'VRArmSwingMap'.
+[2023.03.22-17.02.39:838][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-17.02.39:847][130]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2023.03.22-17.02.39:892][130]LogLoad: Game class is 'VRArmSwing_C'
+[2023.03.22-17.02.39:897][130]LogWorld: Bringing World /Game/Maps/UEDPIE_0_VRArmSwingMap.VRArmSwingMap up for play (max tick rate 0) at 2023.03.22-17.02.39
+[2023.03.22-17.02.39:898][130]LogWorld: Bringing up level for play took: 0.004022
+[2023.03.22-17.02.39:898][130]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=300.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.03.22-17.02.39:898][130]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2023.03.22-17.02.39:901][130]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnCarActor) or object (Spawner Volume)
+[2023.03.22-17.02.39:901][130]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnCarActor) or object (Spawner Volume)
+[2023.03.22-17.02.39:904][130]PIE: Server logged in
+[2023.03.22-17.02.39:906][130]PIE: Play in editor total start time 0.358 seconds.
+[2023.03.22-17.02.39:906][130]LogEngine: Changing dynamic resolution state.
+[2023.03.22-17.02.39:917][130]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2023.03.22-17.02.42:555][403]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.03.22-17.02.42:555][403]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3499.999 Y=6319.998 Z=100.000] for [BP_Hatchback_C]
+[2023.03.22-17.02.42:555][403]LogScript: Warning: Attempted to access BP_Hatchback_C_2 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Hatchback_C_2 is pending kill
+	SpawnCarBP_C /Game/Maps/UEDPIE_0_VRArmSwingMap.VRArmSwingMap:PersistentLevel.SpawnCarBP2
+	Function /Game/Vehicle/HandleVehicles/SpawnCarBP.SpawnCarBP_C:ExecuteUbergraph_SpawnCarBP:0165
+[2023.03.22-17.02.42:555][403]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Hatchback_C_2 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Hatchback_C_2 is pending kill". Blueprint:  SpawnCarBP Function:  Execute Ubergraph Spawn Car BP Graph:  EventGraph Node:  Spawn Default Controller
+[2023.03.22-17.02.42:556][403]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.03.22-17.02.42:556][403]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3459.999 Y=-8359.997 Z=100.000] for [BP_Hatchback_C]
+[2023.03.22-17.02.42:556][403]LogScript: Warning: Attempted to access BP_Hatchback_C_3 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Hatchback_C_3 is pending kill
+	SpawnCarBP_C /Game/Maps/UEDPIE_0_VRArmSwingMap.VRArmSwingMap:PersistentLevel.SpawnCarBP_2
+	Function /Game/Vehicle/HandleVehicles/SpawnCarBP.SpawnCarBP_C:ExecuteUbergraph_SpawnCarBP:0165
+[2023.03.22-17.02.42:556][403]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Hatchback_C_3 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Hatchback_C_3 is pending kill". Blueprint:  SpawnCarBP Function:  Execute Ubergraph Spawn Car BP Graph:  EventGraph Node:  Spawn Default Controller
+[2023.03.22-17.03.04:062][960]LogNet: Browse: /Game/Maps/VRBaseMap
+[2023.03.22-17.03.04:062][960]LogHMD: FSplash::DoShow
+[2023.03.22-17.03.04:062][960]LogLoad: LoadMap: /Game/Maps/VRBaseMap
+[2023.03.22-17.03.04:062][960]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_VRArmSwingMap
+[2023.03.22-17.03.04:063][960]LogWorld: UWorld::CleanupWorld for VRArmSwingMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-17.03.04:063][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-17.03.04:087][960]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.22-17.03.04:091][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.03.22-17.03.04:098][960]LogAudio: Display: Audio Device (ID: 11) registered with world 'VRBaseMap'.
+[2023.03.22-17.03.04:099][960]LogAIModule: Creating AISystem for world VRBaseMap
+[2023.03.22-17.03.04:099][960]LogLoad: Game class is 'VRMenu_C'
+[2023.03.22-17.03.04:103][960]LogWorld: Bringing World /Game/Maps/UEDPIE_0_VRBaseMap.VRBaseMap up for play (max tick rate 0) at 2023.03.22-17.03.04
+[2023.03.22-17.03.04:104][960]LogWorld: Bringing up level for play took: 0.003827
+[2023.03.22-17.03.04:105][960]LogHMD: FSplash::OnPostLoadMap Hide Auto Splash
+[2023.03.22-17.03.04:105][960]LogLoad: Took 0.043332 seconds to LoadMap(/Game/Maps/VRBaseMap)
+[2023.03.22-17.03.04:108][961]LogHMD: FSplash::DoHide
+[2023.03.22-17.03.10:755][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-17.03.10:755][433]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_VRBaseMap
+[2023.03.22-17.03.10:809][433]LogSlate: Window 'VR Travel Training Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2023.03.22-17.03.10:841][433]LogWorld: UWorld::CleanupWorld for VRBaseMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-17.03.10:841][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-17.03.10:852][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.22-17.03.10:866][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-17.03.10:891][433]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.22-17.03.10:891][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.22-17.03.10:893][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.22-17.03.10:900][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.03.22-17.03.11:020][434]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.03.22-17.03.11:027][434]LogEngine: Changing dynamic resolution state.
+[2023.03.22-17.03.12:999][542]LogSlate: Window 'Message Log' being destroyed
+[2023.03.22-17.03.13:004][542]LogSlate: Window 'Message Log' being destroyed
+[2023.03.22-17.03.24:513][218]BlueprintLog: New page: Compile VRChar_ArmSwing
+[2023.03.22-17.03.24:586][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.03.22-17.03.25:187][244]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_ArmSwing979751B14AD55F6845B4D0836109368F.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_ArmSwing.uasset'
+[2023.03.22-17.03.25:212][244]AssetCheck: New page: Asset Save: VRChar_ArmSwing
+[2023.03.22-17.03.25:212][244]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_ArmSwing.VRChar_ArmSwing
+[2023.03.22-17.03.29:214][464]LogTemp: Repeating last play command: VR Preview
+[2023.03.22-17.03.29:221][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.22-17.03.29:221][464]LogHMD: Initializing OVRPlugin session
+[2023.03.22-17.03.29:419][464]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2023.03.22-17.03.29:419][464]PIE: New page: PIE session: VRArmSwingMap (22 Mar 2023, 17:03:29)
+[2023.03.22-17.03.29:419][464]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_VRArmSwingMap
+[2023.03.22-17.03.29:427][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007731s)
+[2023.03.22-17.03.29:428][464]LogAIModule: Creating AISystem for world VRArmSwingMap
+[2023.03.22-17.03.29:428][464]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2023.03.22-17.03.29:429][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/VRArmSwingMap.VRArmSwingMap to /Game/Maps/UEDPIE_0_VRArmSwingMap.VRArmSwingMap (0.008760s)
+[2023.03.22-17.03.29:457][464]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2023.03.22-17.03.29:457][464]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.03.22-17.03.29:458][464]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.22-17.03.29:458][464]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.22-17.03.29:458][464]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.22-17.03.29:458][464]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.22-17.03.29:458][464]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.22-17.03.29:458][464]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.22-17.03.29:458][464]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.22-17.03.29:458][464]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.22-17.03.29:458][464]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.22-17.03.29:458][464]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.22-17.03.29:458][464]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.22-17.03.29:458][464]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.22-17.03.29:461][464]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.22-17.03.29:461][464]LogAudioMixer: Display: 1: FrontRight
+[2023.03.22-17.03.29:463][464]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.22-17.03.29:463][464]LogAudioMixer: Display: 1: FrontRight
+[2023.03.22-17.03.29:465][464]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.22-17.03.29:465][464]LogAudioMixer: Display: 1: FrontRight
+[2023.03.22-17.03.29:469][464]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.22-17.03.29:469][464]LogAudioMixer: Display: 1: FrontRight
+[2023.03.22-17.03.29:473][464]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2023.03.22-17.03.29:474][464]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.22-17.03.29:474][464]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.22-17.03.29:474][464]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.22-17.03.29:474][464]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.22-17.03.29:474][464]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.22-17.03.29:474][464]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.22-17.03.29:475][464]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.22-17.03.29:475][464]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.22-17.03.29:475][464]LogInit: FAudioDevice initialized.
+[2023.03.22-17.03.29:475][464]LogAudio: Display: Audio Device (ID: 12) registered with world 'VRArmSwingMap'.
+[2023.03.22-17.03.29:487][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-17.03.29:497][464]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2023.03.22-17.03.29:541][464]LogLoad: Game class is 'VRArmSwing_C'
+[2023.03.22-17.03.29:545][464]LogWorld: Bringing World /Game/Maps/UEDPIE_0_VRArmSwingMap.VRArmSwingMap up for play (max tick rate 0) at 2023.03.22-17.03.29
+[2023.03.22-17.03.29:545][464]LogWorld: Bringing up level for play took: 0.003117
+[2023.03.22-17.03.29:545][464]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=300.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.03.22-17.03.29:546][464]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2023.03.22-17.03.29:548][464]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnCarActor) or object (Spawner Volume)
+[2023.03.22-17.03.29:548][464]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnCarActor) or object (Spawner Volume)
+[2023.03.22-17.03.29:551][464]PIE: Server logged in
+[2023.03.22-17.03.29:553][464]PIE: Play in editor total start time 0.332 seconds.
+[2023.03.22-17.03.29:553][464]LogEngine: Changing dynamic resolution state.
+[2023.03.22-17.03.29:565][464]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2023.03.22-17.03.32:237][654]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.03.22-17.03.32:237][654]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3499.999 Y=6319.998 Z=100.000] for [BP_Hatchback_C]
+[2023.03.22-17.03.32:237][654]LogScript: Warning: Attempted to access BP_Hatchback_C_2 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Hatchback_C_2 is pending kill
+	SpawnCarBP_C /Game/Maps/UEDPIE_0_VRArmSwingMap.VRArmSwingMap:PersistentLevel.SpawnCarBP2
+	Function /Game/Vehicle/HandleVehicles/SpawnCarBP.SpawnCarBP_C:ExecuteUbergraph_SpawnCarBP:0165
+[2023.03.22-17.03.32:237][654]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Hatchback_C_2 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Hatchback_C_2 is pending kill". Blueprint:  SpawnCarBP Function:  Execute Ubergraph Spawn Car BP Graph:  EventGraph Node:  Spawn Default Controller
+[2023.03.22-17.03.32:238][654]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.03.22-17.03.32:238][654]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3459.999 Y=-8359.997 Z=100.000] for [BP_Hatchback_C]
+[2023.03.22-17.03.32:238][654]LogScript: Warning: Attempted to access BP_Hatchback_C_3 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Hatchback_C_3 is pending kill
+	SpawnCarBP_C /Game/Maps/UEDPIE_0_VRArmSwingMap.VRArmSwingMap:PersistentLevel.SpawnCarBP_2
+	Function /Game/Vehicle/HandleVehicles/SpawnCarBP.SpawnCarBP_C:ExecuteUbergraph_SpawnCarBP:0165
+[2023.03.22-17.03.32:238][654]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Hatchback_C_3 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Hatchback_C_3 is pending kill". Blueprint:  SpawnCarBP Function:  Execute Ubergraph Spawn Car BP Graph:  EventGraph Node:  Spawn Default Controller
+[2023.03.22-17.03.49:016][859]LogNet: Browse: /Game/Maps/VRBaseMap
+[2023.03.22-17.03.49:016][859]LogHMD: FSplash::DoShow
+[2023.03.22-17.03.49:016][859]LogLoad: LoadMap: /Game/Maps/VRBaseMap
+[2023.03.22-17.03.49:016][859]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_VRArmSwingMap
+[2023.03.22-17.03.49:016][859]LogWorld: UWorld::CleanupWorld for VRArmSwingMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-17.03.49:017][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-17.03.49:065][859]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.22-17.03.49:069][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.03.22-17.03.49:076][859]LogAudio: Display: Audio Device (ID: 12) registered with world 'VRBaseMap'.
+[2023.03.22-17.03.49:077][859]LogAIModule: Creating AISystem for world VRBaseMap
+[2023.03.22-17.03.49:078][859]LogLoad: Game class is 'VRMenu_C'
+[2023.03.22-17.03.49:082][859]LogWorld: Bringing World /Game/Maps/UEDPIE_0_VRBaseMap.VRBaseMap up for play (max tick rate 0) at 2023.03.22-17.03.49
+[2023.03.22-17.03.49:082][859]LogWorld: Bringing up level for play took: 0.003820
+[2023.03.22-17.03.49:084][859]LogHMD: FSplash::OnPostLoadMap Hide Auto Splash
+[2023.03.22-17.03.49:084][859]LogLoad: Took 0.068074 seconds to LoadMap(/Game/Maps/VRBaseMap)
+[2023.03.22-17.03.49:088][860]LogHMD: FSplash::DoHide
+[2023.03.22-17.03.56:434][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-17.03.56:434][382]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_VRBaseMap
+[2023.03.22-17.03.56:483][382]LogSlate: Window 'VR Travel Training Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2023.03.22-17.03.56:532][382]LogWorld: UWorld::CleanupWorld for VRBaseMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-17.03.56:532][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-17.03.56:541][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.22-17.03.56:557][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-17.03.56:584][382]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.22-17.03.56:584][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.22-17.03.56:585][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.22-17.03.56:591][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.03.22-17.03.56:746][383]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.03.22-17.03.56:753][383]LogEngine: Changing dynamic resolution state.
+[2023.03.22-17.03.58:010][452]LogSlate: Window 'Message Log' being destroyed
+[2023.03.22-17.03.58:017][452]LogSlate: Window 'Message Log' being destroyed
+[2023.03.22-17.04.02:529][719]BlueprintLog: New page: Compile VRChar_ArmSwing
+[2023.03.22-17.04.02:592][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.03.22-17.04.03:204][746]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_ArmSwing9828B11743962F0A0D0E41A3CA13D501.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_ArmSwing.uasset'
+[2023.03.22-17.04.03:225][746]AssetCheck: New page: Asset Save: VRChar_ArmSwing
+[2023.03.22-17.04.03:225][746]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_ArmSwing.VRChar_ArmSwing
