@@ -1457,3 +1457,11 @@ Make sure 'VRChar_Holoport_C' has been compiled for  Get IsSeated
 [2023.03.22-17.18.22:852][501]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_Holoport1D595BA94D75B2A417A45F82C1AC2ED3.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_Holoport.uasset'
 [2023.03.22-17.18.22:868][501]AssetCheck: New page: Asset Save: VRChar_Holoport
 [2023.03.22-17.18.22:868][501]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_Holoport.VRChar_Holoport
+[2023.03.22-17.21.05:208][679]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2023.03.22-17.21.22:714][687]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.22-17.21.22:735][687]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.22-17.21.22:735][687]LogEditorClassViewer: Warning: Class /Game/VRTemplate/Blueprints/GrabComponent.PLACEHOLDER-CLASS__VRInteractionBPI_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.22-17.21.22:735][687]LogEditorClassViewer: Warning: Class /Game/VRTemplate/Blueprints/VRPawn.PLACEHOLDER-CLASS__VRTeleportVisualizer_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.22-17.21.22:735][687]LogEditorClassViewer: Warning: Class /Game/VRTemplate/Blueprints/VRPawn.PLACEHOLDER-CLASS__GrabComponent_C_1 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.22-17.21.22:735][687]LogEditorClassViewer: Warning: Class /Game/VRTemplate/Blueprints/VRPawn.PLACEHOLDER-CLASS__Menu_C_2 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.22-17.21.22:735][687]LogEditorClassViewer: Warning: Class /Game/VRTemplate/Blueprints/VRPawn.PLACEHOLDER-CLASS__VRInteractionBPI_C_3 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
