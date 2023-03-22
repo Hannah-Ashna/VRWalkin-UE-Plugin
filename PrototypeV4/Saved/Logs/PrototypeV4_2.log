@@ -1261,3 +1261,199 @@ Make sure 'VRChar_Jog_C' has been compiled for  Get VROrigin
 [2023.03.22-17.10.28:134][ 50]AssetCheck: New page: Asset Save: multiple assets
 [2023.03.22-17.10.28:134][ 50]LogContentValidation: Display: Validating World /Game/Maps/VRJogMap.VRJogMap
 [2023.03.22-17.10.28:134][ 50]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/VRJogMap_BuiltData.VRJogMap_BuiltData
+[2023.03.22-17.11.11:932][323]BlueprintLog: New page: Compile VRChar_ArmSwing
+[2023.03.22-17.11.11:997][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.03.22-17.11.12:636][351]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_ArmSwing651D2C09467A23FBCFE8398ED0FCE588.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_ArmSwing.uasset'
+[2023.03.22-17.11.12:651][351]AssetCheck: New page: Asset Save: VRChar_ArmSwing
+[2023.03.22-17.11.12:651][351]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_ArmSwing.VRChar_ArmSwing
+[2023.03.22-17.11.47:450][383]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_Jog787C4C214098B8224556D9B9FF82B6C1.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_Jog.uasset'
+[2023.03.22-17.11.47:464][383]AssetCheck: New page: Asset Save: VRChar_Jog
+[2023.03.22-17.11.47:464][383]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_Jog.VRChar_Jog
+[2023.03.22-17.12.09:211][953]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2023.03.22-17.12.09:281][953]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/VRHoloportMap.VRHoloportMap
+[2023.03.22-17.12.09:281][953]Cmd: MAP LOAD FILE="../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRHoloportMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.22-17.12.09:281][953]LightingResults: New page: Lighting Build
+[2023.03.22-17.12.09:281][953]LoadErrors: New page: Loading map: VRHoloportMap.umap
+[2023.03.22-17.12.09:284][953]LogWorld: UWorld::CleanupWorld for VRJogMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-17.12.09:285][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-17.12.09:285][953]MapCheck: New page: Map Check
+[2023.03.22-17.12.09:285][953]LightingResults: New page: Lighting Build
+[2023.03.22-17.12.09:313][953]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.22-17.12.09:321][953]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.03.22-17.12.09:322][953]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRHoloportMap'.
+[2023.03.22-17.12.09:441][953]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.22-17.12.09:441][953]LogAIModule: Creating AISystem for world VRHoloportMap
+[2023.03.22-17.12.09:441][953]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=525.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.03.22-17.12.09:442][953]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2023.03.22-17.12.09:478][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.03.22-17.12.09:487][953]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.22-17.12.09:487][953]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.143ms to complete.
+[2023.03.22-17.12.09:487][953]LogFileHelpers: Loading map 'VRHoloportMap' took 0.207
+[2023.03.22-17.12.14:299][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House)
+[2023.03.22-17.12.15:332][264]LogEditorViewport: Clicking on Actor (LMB): TargetPoint_C (TargetPoint2)
+[2023.03.22-17.12.24:601][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.03.22-17.12.24:640][816]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRHoloportMap9A90EC654027DD2276F23C82945CE0D9.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRHoloportMap.umap'
+[2023.03.22-17.12.24:688][816]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRHoloportMap_BuiltDataE081B20B4B67010AE25D1997C06A3D23.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRHoloportMap_BuiltData.uasset'
+[2023.03.22-17.12.24:703][816]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.22-17.12.24:703][816]LogContentValidation: Display: Validating World /Game/Maps/VRHoloportMap.VRHoloportMap
+[2023.03.22-17.12.24:704][816]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/VRHoloportMap_BuiltData.VRHoloportMap_BuiltData
+[2023.03.22-17.12.27:277][971]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2023.03.22-17.12.28:405][ 38]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.22-17.12.29:305][ 92]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.22-17.12.29:966][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.03.22-17.12.30:004][129]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRHoloportMapB72CA4A248E3434CC64BF2A7435E028F.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRHoloportMap.umap'
+[2023.03.22-17.12.30:042][129]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRHoloportMap_BuiltDataDE74A9E84A5B521BEA32089894D943A1.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRHoloportMap_BuiltData.uasset'
+[2023.03.22-17.12.30:055][129]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.22-17.12.30:055][129]LogContentValidation: Display: Validating World /Game/Maps/VRHoloportMap.VRHoloportMap
+[2023.03.22-17.12.30:055][129]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/VRHoloportMap_BuiltData.VRHoloportMap_BuiltData
+[2023.03.22-17.12.36:402][500]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRPawns/VRChar_Holoport.VRChar_Holoport
+[2023.03.22-17.13.38:435][ 60]BlueprintLog: New page: Compile VRChar_Holoport
+[2023.03.22-17.13.38:509][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2023.03.22-17.13.39:093][ 83]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_HoloportCB5E5A4D497295178AED9C86F9989500.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_Holoport.uasset'
+[2023.03.22-17.13.39:107][ 83]AssetCheck: New page: Asset Save: VRChar_Holoport
+[2023.03.22-17.13.39:107][ 83]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_Holoport.VRChar_Holoport
+[2023.03.22-17.13.54:885][  2]BlueprintLog: New page: Compile VRChar_Holoport
+[2023.03.22-17.13.54:957][  2]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2023.03.22-17.13.55:450][ 22]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_HoloportE37012B6471C1EA2734E1192C49D6017.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_Holoport.uasset'
+[2023.03.22-17.13.55:463][ 22]AssetCheck: New page: Asset Save: VRChar_Holoport
+[2023.03.22-17.13.55:463][ 22]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_Holoport.VRChar_Holoport
+[2023.03.22-17.14.16:132][158]BlueprintLog: New page: Compile VRChar_Holoport
+[2023.03.22-17.14.16:222][158]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2023.03.22-17.14.16:767][182]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_HoloportB568C82642974762CEEE98AF1E17BBD9.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_Holoport.uasset'
+[2023.03.22-17.14.16:783][182]AssetCheck: New page: Asset Save: VRChar_Holoport
+[2023.03.22-17.14.16:783][182]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_Holoport.VRChar_Holoport
+[2023.03.22-17.14.39:634][488]BlueprintLog: New page: Compile VRChar_Holoport
+[2023.03.22-17.14.39:722][488]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2023.03.22-17.14.40:289][510]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_HoloportF065550E4D8AB928E2F06BB8EA6AAED9.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_Holoport.uasset'
+[2023.03.22-17.14.40:305][510]AssetCheck: New page: Asset Save: VRChar_Holoport
+[2023.03.22-17.14.40:305][510]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_Holoport.VRChar_Holoport
+[2023.03.22-17.14.43:251][685]BlueprintLog: New page: Compile VRChar_Holoport
+[2023.03.22-17.14.43:327][685]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2023.03.22-17.14.43:870][707]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_HoloportA100F69045D9BFAB26277F94EE2087E9.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_Holoport.uasset'
+[2023.03.22-17.14.43:886][707]AssetCheck: New page: Asset Save: VRChar_Holoport
+[2023.03.22-17.14.43:886][707]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_Holoport.VRChar_Holoport
+[2023.03.22-17.15.16:503][519]BlueprintLog: New page: Compile VRChar_Holoport
+[2023.03.22-17.15.16:509][519]LogBlueprint: Warning: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\FYP-Prototype\PrototypeV4\Content\VRPawns\VRChar_Holoport.uasset: [Compiler] Could not find a variable named "IsSeated" in 'VRChar_Holoport_C'.
+Make sure 'VRChar_Holoport_C' has been compiled for  Get IsSeated
+[2023.03.22-17.15.16:519][519]LogBlueprint: Error: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\FYP-Prototype\PrototypeV4\Content\VRPawns\VRChar_Holoport.uasset: [Compiler] The property associated with  Is Seated  could not be found in '/Game/VRPawns/VRChar_Holoport.VRChar_Holoport_C'
+[2023.03.22-17.15.16:580][519]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2023.03.22-17.15.17:091][539]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_Holoport87A75AAF4F57381B28E4EBB7EDA78816.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_Holoport.uasset'
+[2023.03.22-17.15.17:107][539]AssetCheck: New page: Asset Save: VRChar_Holoport
+[2023.03.22-17.15.17:107][539]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_Holoport.VRChar_Holoport
+[2023.03.22-17.15.19:469][672]BlueprintLog: New page: Compile VRChar_Holoport
+[2023.03.22-17.15.19:547][672]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2023.03.22-17.15.20:159][696]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_Holoport098EC1EA4C6CFBABEDA1D8BA620D48EB.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_Holoport.uasset'
+[2023.03.22-17.15.20:176][696]AssetCheck: New page: Asset Save: VRChar_Holoport
+[2023.03.22-17.15.20:176][696]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_Holoport.VRChar_Holoport
+[2023.03.22-17.15.36:135][575]BlueprintLog: New page: Compile VRChar_Holoport
+[2023.03.22-17.15.36:215][575]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2023.03.22-17.15.36:774][597]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_Holoport8E4EC2224028AC0F43B26F843B82504F.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_Holoport.uasset'
+[2023.03.22-17.15.36:791][597]AssetCheck: New page: Asset Save: VRChar_Holoport
+[2023.03.22-17.15.36:791][597]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_Holoport.VRChar_Holoport
+[2023.03.22-17.15.51:530][461]LogTemp: Repeating last play command: VR Preview
+[2023.03.22-17.15.51:541][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.22-17.15.51:541][461]LogHMD: Initializing OVRPlugin session
+[2023.03.22-17.15.51:744][461]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2023.03.22-17.15.51:744][461]PIE: New page: PIE session: VRHoloportMap (22 Mar 2023, 17:15:51)
+[2023.03.22-17.15.51:744][461]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_VRHoloportMap
+[2023.03.22-17.15.51:752][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008429s)
+[2023.03.22-17.15.51:754][461]LogAIModule: Creating AISystem for world VRHoloportMap
+[2023.03.22-17.15.51:754][461]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2023.03.22-17.15.51:754][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/VRHoloportMap.VRHoloportMap to /Game/Maps/UEDPIE_0_VRHoloportMap.VRHoloportMap (0.009472s)
+[2023.03.22-17.15.51:790][461]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2023.03.22-17.15.51:791][461]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.03.22-17.15.51:791][461]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.22-17.15.51:791][461]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.22-17.15.51:791][461]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.22-17.15.51:791][461]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.22-17.15.51:791][461]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.22-17.15.51:792][461]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.22-17.15.51:792][461]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.22-17.15.51:792][461]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.22-17.15.51:792][461]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.22-17.15.51:792][461]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.22-17.15.51:792][461]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.22-17.15.51:792][461]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.22-17.15.51:797][461]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.22-17.15.51:797][461]LogAudioMixer: Display: 1: FrontRight
+[2023.03.22-17.15.51:799][461]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.22-17.15.51:799][461]LogAudioMixer: Display: 1: FrontRight
+[2023.03.22-17.15.51:800][461]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.22-17.15.51:800][461]LogAudioMixer: Display: 1: FrontRight
+[2023.03.22-17.15.51:804][461]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.22-17.15.51:804][461]LogAudioMixer: Display: 1: FrontRight
+[2023.03.22-17.15.51:814][461]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2023.03.22-17.15.51:814][461]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.22-17.15.51:814][461]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.22-17.15.51:814][461]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.22-17.15.51:814][461]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.22-17.15.51:814][461]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.22-17.15.51:814][461]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.22-17.15.51:818][461]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.22-17.15.51:818][461]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.22-17.15.51:818][461]LogInit: FAudioDevice initialized.
+[2023.03.22-17.15.51:818][461]LogAudio: Display: Audio Device (ID: 3) registered with world 'VRHoloportMap'.
+[2023.03.22-17.15.51:827][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-17.15.51:834][461]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2023.03.22-17.15.51:881][461]LogLoad: Game class is 'VRHoloport_C'
+[2023.03.22-17.15.51:888][461]LogWorld: Bringing World /Game/Maps/UEDPIE_0_VRHoloportMap.VRHoloportMap up for play (max tick rate 0) at 2023.03.22-17.15.51
+[2023.03.22-17.15.51:888][461]LogWorld: Bringing up level for play took: 0.005724
+[2023.03.22-17.15.51:889][461]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=300.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.03.22-17.15.51:889][461]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.03.22-17.15.51:892][461]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnCarActor) or object (Spawner Volume)
+[2023.03.22-17.15.51:892][461]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnCarActor) or object (Spawner Volume)
+[2023.03.22-17.15.51:895][461]PIE: Server logged in
+[2023.03.22-17.15.51:896][461]PIE: Play in editor total start time 0.359 seconds.
+[2023.03.22-17.15.51:897][461]LogEngine: Changing dynamic resolution state.
+[2023.03.22-17.15.51:910][461]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2023.03.22-17.15.54:544][727]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.03.22-17.15.54:544][727]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3499.999 Y=6319.998 Z=100.000] for [BP_Hatchback_C]
+[2023.03.22-17.15.54:544][727]LogScript: Warning: Attempted to access BP_Hatchback_C_2 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Hatchback_C_2 is pending kill
+	SpawnCarBP_C /Game/Maps/UEDPIE_0_VRHoloportMap.VRHoloportMap:PersistentLevel.SpawnCarBP2
+	Function /Game/Vehicle/HandleVehicles/SpawnCarBP.SpawnCarBP_C:ExecuteUbergraph_SpawnCarBP:0165
+[2023.03.22-17.15.54:544][727]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Hatchback_C_2 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Hatchback_C_2 is pending kill". Blueprint:  SpawnCarBP Function:  Execute Ubergraph Spawn Car BP Graph:  EventGraph Node:  Spawn Default Controller
+[2023.03.22-17.15.54:545][727]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.03.22-17.15.54:545][727]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3459.999 Y=-8359.997 Z=100.000] for [BP_Hatchback_C]
+[2023.03.22-17.15.54:545][727]LogScript: Warning: Attempted to access BP_Hatchback_C_3 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Hatchback_C_3 is pending kill
+	SpawnCarBP_C /Game/Maps/UEDPIE_0_VRHoloportMap.VRHoloportMap:PersistentLevel.SpawnCarBP_2
+	Function /Game/Vehicle/HandleVehicles/SpawnCarBP.SpawnCarBP_C:ExecuteUbergraph_SpawnCarBP:0165
+[2023.03.22-17.15.54:545][727]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Hatchback_C_3 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Hatchback_C_3 is pending kill". Blueprint:  SpawnCarBP Function:  Execute Ubergraph Spawn Car BP Graph:  EventGraph Node:  Spawn Default Controller
+[2023.03.22-17.16.34:725][630]LogNet: Browse: /Game/Maps/VRBaseMap
+[2023.03.22-17.16.34:725][630]LogHMD: FSplash::DoShow
+[2023.03.22-17.16.34:725][630]LogLoad: LoadMap: /Game/Maps/VRBaseMap
+[2023.03.22-17.16.34:725][630]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_VRHoloportMap
+[2023.03.22-17.16.34:725][630]LogWorld: UWorld::CleanupWorld for VRHoloportMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-17.16.34:726][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-17.16.34:794][630]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.22-17.16.34:809][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.03.22-17.16.34:820][630]LogAudio: Display: Audio Device (ID: 3) registered with world 'VRBaseMap'.
+[2023.03.22-17.16.34:821][630]LogAIModule: Creating AISystem for world VRBaseMap
+[2023.03.22-17.16.34:821][630]LogLoad: Game class is 'VRMenu_C'
+[2023.03.22-17.16.34:827][630]LogWorld: Bringing World /Game/Maps/UEDPIE_0_VRBaseMap.VRBaseMap up for play (max tick rate 0) at 2023.03.22-17.16.34
+[2023.03.22-17.16.34:827][630]LogWorld: Bringing up level for play took: 0.004474
+[2023.03.22-17.16.34:829][630]LogHMD: FSplash::OnPostLoadMap Hide Auto Splash
+[2023.03.22-17.16.34:829][630]LogLoad: Took 0.103489 seconds to LoadMap(/Game/Maps/VRBaseMap)
+[2023.03.22-17.16.34:831][631]LogHMD: FSplash::DoHide
+[2023.03.22-17.16.40:631][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-17.16.40:662][ 47]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_VRBaseMap
+[2023.03.22-17.16.40:713][ 47]LogSlate: Window 'VR Travel Training Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2023.03.22-17.16.40:751][ 47]LogWorld: UWorld::CleanupWorld for VRBaseMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-17.16.40:751][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-17.16.40:756][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.22-17.16.40:774][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-17.16.40:810][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.22-17.16.40:811][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.22-17.16.40:820][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.03.22-17.16.40:980][ 48]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.03.22-17.16.40:980][ 48]LogEngine: Changing dynamic resolution state.
+[2023.03.22-17.16.57:439][ 11]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Vehicle/HandleVehicles/SpawnCarBP.SpawnCarBP
+[2023.03.22-17.16.59:623][123]LogSlate: Window 'Message Log' being destroyed
+[2023.03.22-17.16.59:628][123]LogSlate: Window 'Message Log' being destroyed
+[2023.03.22-17.17.04:741][426]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.22-17.17.27:541][751]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-17.17.27:541][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-17.18.22:285][482]BlueprintLog: New page: Compile VRChar_Holoport
+[2023.03.22-17.18.22:372][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2023.03.22-17.18.22:852][501]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_Holoport1D595BA94D75B2A417A45F82C1AC2ED3.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_Holoport.uasset'
+[2023.03.22-17.18.22:868][501]AssetCheck: New page: Asset Save: VRChar_Holoport
+[2023.03.22-17.18.22:868][501]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_Holoport.VRChar_Holoport
