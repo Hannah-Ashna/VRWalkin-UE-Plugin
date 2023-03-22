@@ -200,7 +200,6 @@
 			"ShaderMapHash": "46419CCC020BEDDC60C0CB470CAB5962E6701FF5",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
-				"/Game/OtherAssets/Trees/Pine_Tree_Leaves",
 				"/Game/OtherAssets/TrafficLight/initialShadingGroup"
 			]
 		},
@@ -265,9 +264,47 @@
 			]
 		},
 		{
+			"ShaderMapHash": "67C545C2917AD019E0FACD737F936D3A0578643C",
+			"Assets": [
+				"/Game/VRPawns/Meshes/CustomControllerMesh/TriggerButtonContMat"
+			]
+		},
+		{
+			"ShaderMapHash": "5897394A41DDBAF7F1AF6DBC56F76FFEA27375D7",
+			"Assets": [
+				"/Game/VRPawns/Meshes/TeleportEndMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "52ABE4613F34286A0F3064DFE5504362A2BFF15C",
+			"Assets": [
+				"/Game/VRPawns/Meshes/CustomControllerMesh/quest2ControllerMAT",
+				"/Game/VRPawns/Meshes/CustomControllerMesh/ThumbstickContMat",
+				"/Game/VRPawns/Meshes/CustomControllerMesh/ArmSwingContMat"
+			]
+		},
+		{
 			"ShaderMapHash": "2229AC87151BE1555D6F120EB690227AD08D2762",
 			"Assets": [
 				"/Game/VRPawns/Meshes/TeleportArcMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E16398272134AB1F646206FA95A911FF8F8D2BA9",
+			"Assets": [
+				"/Game/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient"
+			]
+		},
+		{
+			"ShaderMapHash": "0012E27BE97ADB6967D852FEA4E289B057E0692D",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_TeleportNoise"
+			]
+		},
+		{
+			"ShaderMapHash": "70831422B3202BE5346DC95C147AEEE96FFFD5DF",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_TeleportCylinder"
 			]
 		},
 		{
@@ -283,85 +320,22 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5016B6BF61EFB10FDB5C11E4308A711EF6B17055",
-			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Interior",
-				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Box",
-				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Under",
-				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Interior",
-				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Under",
-				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior",
-				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Under"
-			]
-		},
-		{
-			"ShaderMapHash": "F30BD8D77C5F4D51693F2C29F3FE62A935CD28D9",
-			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Chassis",
-				"/Game/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Body",
-				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Body",
-				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Body",
-				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Body"
-			]
-		},
-		{
-			"ShaderMapHash": "85877ABF1A7126DC98230CA46849D757251C8477",
-			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/Masters/M_Glass"
-			]
-		},
-		{
-			"ShaderMapHash": "52ABE4613F34286A0F3064DFE5504362A2BFF15C",
-			"Assets": [
-				"/Game/VRPawns/Meshes/CustomControllerMesh/TriggerButtonContMat",
-				"/Game/VRPawns/Meshes/CustomControllerMesh/ThumbstickContMat",
-				"/Game/VRPawns/Meshes/CustomControllerMesh/ArmSwingContMat",
-				"/Game/VRPawns/Meshes/CustomControllerMesh/quest2ControllerMAT"
-			]
-		},
-		{
-			"ShaderMapHash": "51B97F4FEC0F52FD0A0F94B38A51FEA47CCD77AD",
-			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Under",
-				"/Game/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Interior"
-			]
-		},
-		{
-			"ShaderMapHash": "CF08F30D247D6ABCB2A07EC922F52346FE0E2F81",
-			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Body"
-			]
-		},
-		{
-			"ShaderMapHash": "F022DF2A37013496C8E5A7C22F7E29EFAC7E7229",
-			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/Hatchback/Mi_Hatchback_Glass",
-				"/Game/VehicleVarietyPack/Materials/Pickup/Mi_Pickup_Glass"
-			]
-		},
-		{
 			"ShaderMapHash": "19D7159108ABC6C75F4C519731FF88C2723196D2",
 			"Assets": [
 				"/Game/Roads/Materials/ZebraMarkingsMat"
 			]
 		},
 		{
-			"ShaderMapHash": "54FD80404D715DC2B33E16589A97716A9DB2A028",
+			"ShaderMapHash": "5DF428261A29C27B93C502DE0A2542740EC4C269",
 			"Assets": [
-				"/Game/VehicleVarietyPack/Materials/Pickup/M_Pickup_Interior"
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
 			]
 		},
 		{
 			"ShaderMapHash": "01F8AAEB1F57554F217607B1E34921E9F9B8FAB0",
 			"Assets": [
-				"/Game/OtherAssets/Trees/Oak_Tree_Leaves",
-				"/Game/OtherAssets/Trees/Oak_Tree_Wood"
-			]
-		},
-		{
-			"ShaderMapHash": "5DF428261A29C27B93C502DE0A2542740EC4C269",
-			"Assets": [
-				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+				"/Game/OtherAssets/Trees/Oak_Tree_Wood",
+				"/Game/OtherAssets/Trees/Oak_Tree_Leaves"
 			]
 		},
 		{
@@ -415,13 +389,53 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5016B6BF61EFB10FDB5C11E4308A711EF6B17055",
+			"Assets": [
+				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Under",
+				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Interior",
+				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Under",
+				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior"
+			]
+		},
+		{
+			"ShaderMapHash": "F30BD8D77C5F4D51693F2C29F3FE62A935CD28D9",
+			"Assets": [
+				"/Game/VehicleVarietyPack/Materials/SUV/M_SUV_Body",
+				"/Game/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "85877ABF1A7126DC98230CA46849D757251C8477",
+			"Assets": [
+				"/Game/VehicleVarietyPack/Materials/Masters/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "F022DF2A37013496C8E5A7C22F7E29EFAC7E7229",
+			"Assets": [
+				"/Game/VehicleVarietyPack/Materials/Hatchback/Mi_Hatchback_Glass"
+			]
+		},
+		{
 			"ShaderMapHash": "7754C779544D1DCC813C59B287EC9A0BACCB1B41",
 			"Assets": [
 				"/Game/Vehicle/Sedan/Materials/M_Vehicle_Sedan_Inst_Glass"
 			]
 		},
 		{
-			"ShaderMapHash": "C72A08AD169A15486238E9F59514B5890A9D9F5F",
+			"ShaderMapHash": "A48F1E0B4CD998A8FD314F5DD789D26B34BF6160",
+			"Assets": [
+				"/Game/OtherAssets/Target/Ch31_hair"
+			]
+		},
+		{
+			"ShaderMapHash": "856E76C700D8A92F4A725FA0C20488807E8E7221",
+			"Assets": [
+				"/Game/OtherAssets/Target/Ch31_body"
+			]
+		},
+		{
+			"ShaderMapHash": "BA9947FEEE599C8CB8C1AE9CD10E6F4DEB59AEF1",
 			"Assets": [
 				"/Game/OtherAssets/Target/GlowingTargetMaterial"
 			]
