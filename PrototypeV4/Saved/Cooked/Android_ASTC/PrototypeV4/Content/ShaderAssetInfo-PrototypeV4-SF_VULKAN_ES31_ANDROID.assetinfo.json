@@ -264,6 +264,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2229AC87151BE1555D6F120EB690227AD08D2762",
+			"Assets": [
+				"/Game/VRPawns/Meshes/TeleportArcMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "67C545C2917AD019E0FACD737F936D3A0578643C",
 			"Assets": [
 				"/Game/VRPawns/Meshes/CustomControllerMesh/TriggerButtonContMat"
@@ -284,15 +290,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2229AC87151BE1555D6F120EB690227AD08D2762",
+			"ShaderMapHash": "E489226897DA3A00A2991AD3DAA8279755866FA9",
 			"Assets": [
-				"/Game/VRPawns/Meshes/TeleportArcMaterial"
+				"/Game/Vehicle/Sedan/Materials/M_Vehicle_Sedan"
 			]
 		},
 		{
-			"ShaderMapHash": "E16398272134AB1F646206FA95A911FF8F8D2BA9",
+			"ShaderMapHash": "8CA06CE4D4C7CB14BB505BA00C998B32A42CEA79",
 			"Assets": [
-				"/Game/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient"
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
 			]
 		},
 		{
@@ -308,15 +314,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E489226897DA3A00A2991AD3DAA8279755866FA9",
+			"ShaderMapHash": "E16398272134AB1F646206FA95A911FF8F8D2BA9",
 			"Assets": [
-				"/Game/Vehicle/Sedan/Materials/M_Vehicle_Sedan"
-			]
-		},
-		{
-			"ShaderMapHash": "8CA06CE4D4C7CB14BB505BA00C998B32A42CEA79",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+				"/Game/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient"
 			]
 		},
 		{
