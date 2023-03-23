@@ -1521,3 +1521,327 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.23-13.49.08:914][530]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/CitySoundCue7A376FF041697F679680A8A93DC2A1F6.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/OtherAssets/CitySoundCue.uasset'
 [2023.03.23-13.49.08:928][530]AssetCheck: New page: Asset Save: CitySoundCue
 [2023.03.23-13.49.08:928][530]LogContentValidation: Display: Validating SoundCue /Game/OtherAssets/CitySoundCue.CitySoundCue
+[2023.03.23-13.49.28:815][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.03.23-13.49.28:836][877]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRBaseMap51D4DC614AA7A5B39284A8BB92F1AFED.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRBaseMap.umap'
+[2023.03.23-13.49.28:874][877]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRBaseMap_BuiltDataF2B0BA6846E641DB3D359CBA130182AE.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRBaseMap_BuiltData.uasset'
+[2023.03.23-13.49.28:887][877]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.23-13.49.28:887][877]LogContentValidation: Display: Validating World /Game/Maps/VRBaseMap.VRBaseMap
+[2023.03.23-13.49.28:887][877]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/VRBaseMap_BuiltData.VRBaseMap_BuiltData
+[2023.03.23-13.49.42:506][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.03.23-13.49.43:604][535]LogSlate: Window 'Save Content' being destroyed
+[2023.03.23-13.49.43:655][535]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/CitySFXF24F579A437EBEB4B33E878C4C506A90.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/OtherAssets/CitySFX.uasset'
+[2023.03.23-13.49.43:706][535]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/VRJogMap.VRJogMap
+[2023.03.23-13.49.43:706][535]Cmd: MAP LOAD FILE="../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRJogMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.23-13.49.43:706][535]LightingResults: New page: Lighting Build
+[2023.03.23-13.49.43:706][535]LoadErrors: New page: Loading map: VRJogMap.umap
+[2023.03.23-13.49.43:754][535]LogWorld: UWorld::CleanupWorld for VRBaseMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-13.49.43:754][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-13.49.43:755][535]MapCheck: New page: Map Check
+[2023.03.23-13.49.43:755][535]LightingResults: New page: Lighting Build
+[2023.03.23-13.49.43:788][535]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-13.49.43:797][535]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2023.03.23-13.49.43:797][535]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRJogMap'.
+[2023.03.23-13.49.43:913][535]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.23-13.49.43:914][535]LogAIModule: Creating AISystem for world VRJogMap
+[2023.03.23-13.49.43:914][535]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=600.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.03.23-13.49.43:915][535]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2023.03.23-13.49.43:951][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.03.23-13.49.43:959][535]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.23-13.49.43:960][535]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.157ms to complete.
+[2023.03.23-13.49.43:960][535]LogFileHelpers: Loading map 'VRJogMap' took 0.253
+[2023.03.23-13.49.43:984][535]AssetCheck: New page: Asset Save: CitySFX
+[2023.03.23-13.49.43:984][535]LogContentValidation: Display: Validating SoundWave /Game/OtherAssets/CitySFX.CitySFX
+[2023.03.23-13.49.49:976][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House5)
+[2023.03.23-13.49.50:505][901]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2023.03.23-13.49.51:758][975]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.23-13.49.52:575][ 24]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.23-13.49.53:993][109]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.23-13.49.59:942][465]LogTemp: Repeating last play command: VR Preview
+[2023.03.23-13.49.59:952][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-13.49.59:952][465]LogHMD: Initializing OVRPlugin session
+[2023.03.23-13.50.00:175][465]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2023.03.23-13.50.00:175][465]PIE: New page: PIE session: VRJogMap (23 Mar 2023, 13:50:00)
+[2023.03.23-13.50.00:175][465]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_VRJogMap
+[2023.03.23-13.50.00:184][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008519s)
+[2023.03.23-13.50.00:184][465]LogAIModule: Creating AISystem for world VRJogMap
+[2023.03.23-13.50.00:184][465]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2023.03.23-13.50.00:184][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/VRJogMap.VRJogMap to /Game/Maps/UEDPIE_0_VRJogMap.VRJogMap (0.009615s)
+[2023.03.23-13.50.00:219][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.03.23-13.50.00:222][465]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.03.23-13.50.00:222][465]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-13.50.00:222][465]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-13.50.00:222][465]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-13.50.00:222][465]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-13.50.00:222][465]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-13.50.00:222][465]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.23-13.50.00:222][465]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-13.50.00:222][465]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-13.50.00:223][465]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-13.50.00:223][465]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-13.50.00:223][465]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-13.50.00:223][465]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.23-13.50.00:227][465]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.23-13.50.00:227][465]LogAudioMixer: Display: 1: FrontRight
+[2023.03.23-13.50.00:229][465]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.23-13.50.00:230][465]LogAudioMixer: Display: 1: FrontRight
+[2023.03.23-13.50.00:232][465]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.23-13.50.00:232][465]LogAudioMixer: Display: 1: FrontRight
+[2023.03.23-13.50.00:235][465]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.23-13.50.00:235][465]LogAudioMixer: Display: 1: FrontRight
+[2023.03.23-13.50.00:246][465]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2023.03.23-13.50.00:247][465]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-13.50.00:247][465]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-13.50.00:247][465]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-13.50.00:247][465]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.23-13.50.00:247][465]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.23-13.50.00:247][465]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.23-13.50.00:248][465]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.23-13.50.00:248][465]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.23-13.50.00:248][465]LogInit: FAudioDevice initialized.
+[2023.03.23-13.50.00:248][465]LogAudio: Display: Audio Device (ID: 4) registered with world 'VRJogMap'.
+[2023.03.23-13.50.00:258][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-13.50.00:276][465]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2023.03.23-13.50.00:325][465]LogLoad: Game class is 'VRJog_C'
+[2023.03.23-13.50.00:331][465]LogWorld: Bringing World /Game/Maps/UEDPIE_0_VRJogMap.VRJogMap up for play (max tick rate 0) at 2023.03.23-13.50.00
+[2023.03.23-13.50.00:332][465]LogWorld: Bringing up level for play took: 0.005677
+[2023.03.23-13.50.00:332][465]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=300.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.03.23-13.50.00:333][465]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2023.03.23-13.50.00:336][465]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnCarActor) or object (Spawner Volume)
+[2023.03.23-13.50.00:336][465]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnCarActor) or object (Spawner Volume)
+[2023.03.23-13.50.00:339][465]PIE: Server logged in
+[2023.03.23-13.50.00:342][465]PIE: Play in editor total start time 0.392 seconds.
+[2023.03.23-13.50.00:343][465]LogEngine: Changing dynamic resolution state.
+[2023.03.23-13.50.00:364][465]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2023.03.23-13.50.00:373][466]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.350000 > MaxSimulationTimeStep (0.050) for 'VRChar_Jog_C_0', movement 'Walking'
+[2023.03.23-13.50.10:670][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-13.50.10:670][188]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_VRJogMap
+[2023.03.23-13.50.10:717][188]LogSlate: Window 'VR Travel Training Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2023.03.23-13.50.10:748][188]LogWorld: UWorld::CleanupWorld for VRJogMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-13.50.10:752][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-13.50.10:759][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-13.50.10:775][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-13.50.10:812][188]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-13.50.10:813][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.23-13.50.10:814][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.23-13.50.10:821][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.03.23-13.50.10:852][189]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.03.23-13.50.10:859][189]LogEngine: Changing dynamic resolution state.
+[2023.03.23-13.50.20:531][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.03.23-13.50.20:571][737]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRJogMapC6BF9DAC4EAD10DC6B6C1091B562883E.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRJogMap.umap'
+[2023.03.23-13.50.20:621][737]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRJogMap_BuiltDataFB41DFE94D6795D05833C2A4D35462A0.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRJogMap_BuiltData.uasset'
+[2023.03.23-13.50.20:636][737]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.23-13.50.20:636][737]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/VRJogMap_BuiltData.VRJogMap_BuiltData
+[2023.03.23-13.50.20:636][737]LogContentValidation: Display: Validating World /Game/Maps/VRJogMap.VRJogMap
+[2023.03.23-13.50.31:564][380]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/Images/JoggingIMG.JoggingIMG
+[2023.03.23-13.50.31:575][380]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2023.03.23-13.51.50:154][ 16]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRPawns/VRChar_ArmSwing.VRChar_ArmSwing
+[2023.03.23-13.51.51:934][ 93]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-13.51.51:935][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-13.51.52:334][110]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.03.23-13.51.52:334][110]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-13.51.52:334][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-13.51.56:053][318]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRPawns/VRChar_Jog.VRChar_Jog
+[2023.03.23-13.52.20:333][693]BlueprintLog: New page: Compile VRChar_Jog
+[2023.03.23-13.52.20:449][693]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2023.03.23-13.52.20:882][709]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_Jog3F41D3A54BD6ADDD7B26C7974D207B6C.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_Jog.uasset'
+[2023.03.23-13.52.20:902][709]AssetCheck: New page: Asset Save: VRChar_Jog
+[2023.03.23-13.52.20:902][709]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_Jog.VRChar_Jog
+[2023.03.23-13.52.47:036][201]BlueprintLog: New page: Compile VRChar_Jog
+[2023.03.23-13.52.47:128][201]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2023.03.23-13.52.47:770][226]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_Jog6AE6B5074945BCDB8A19DE8192CE1B4A.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_Jog.uasset'
+[2023.03.23-13.52.47:784][226]AssetCheck: New page: Asset Save: VRChar_Jog
+[2023.03.23-13.52.47:784][226]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_Jog.VRChar_Jog
+[2023.03.23-13.52.59:703][880]BlueprintLog: New page: Compile VRChar_Jog
+[2023.03.23-13.52.59:775][880]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2023.03.23-13.53.00:208][894]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_Jog696159B043B0BB81D38C71A1CA4ACCA5.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_Jog.uasset'
+[2023.03.23-13.53.00:221][894]AssetCheck: New page: Asset Save: VRChar_Jog
+[2023.03.23-13.53.00:221][894]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_Jog.VRChar_Jog
+[2023.03.23-13.53.58:196][272]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.03.23-13.53.58:206][272]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.23-13.54.42:932][915]BlueprintLog: New page: Compile VRChar_Jog
+[2023.03.23-13.54.43:007][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2023.03.23-13.54.43:418][928]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_JogE8C946AC4D96795B395599AEE8CC50F9.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_Jog.uasset'
+[2023.03.23-13.54.43:438][928]AssetCheck: New page: Asset Save: VRChar_Jog
+[2023.03.23-13.54.43:438][928]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_Jog.VRChar_Jog
+[2023.03.23-13.55.30:317][405]BlueprintLog: New page: Compile VRChar_Jog
+[2023.03.23-13.55.30:386][405]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2023.03.23-13.55.30:797][421]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_Jog321E52F34B3E0E09D3AA2A89BD7F0593.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_Jog.uasset'
+[2023.03.23-13.55.30:814][421]AssetCheck: New page: Asset Save: VRChar_Jog
+[2023.03.23-13.55.30:814][421]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_Jog.VRChar_Jog
+[2023.03.23-13.55.32:412][516]LogTemp: Repeating last play command: VR Preview
+[2023.03.23-13.55.32:420][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-13.55.32:420][516]LogHMD: Initializing OVRPlugin session
+[2023.03.23-13.55.32:616][516]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2023.03.23-13.55.32:616][516]PIE: New page: PIE session: VRJogMap (23 Mar 2023, 13:55:32)
+[2023.03.23-13.55.32:616][516]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_VRJogMap
+[2023.03.23-13.55.32:624][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008040s)
+[2023.03.23-13.55.32:625][516]LogAIModule: Creating AISystem for world VRJogMap
+[2023.03.23-13.55.32:625][516]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2023.03.23-13.55.32:625][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/VRJogMap.VRJogMap to /Game/Maps/UEDPIE_0_VRJogMap.VRJogMap (0.009025s)
+[2023.03.23-13.55.32:657][516]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2023.03.23-13.55.32:658][516]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.03.23-13.55.32:658][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-13.55.32:658][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-13.55.32:658][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-13.55.32:658][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-13.55.32:658][516]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-13.55.32:658][516]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.23-13.55.32:658][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-13.55.32:658][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-13.55.32:659][516]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-13.55.32:659][516]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-13.55.32:659][516]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-13.55.32:659][516]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.23-13.55.32:664][516]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.23-13.55.32:664][516]LogAudioMixer: Display: 1: FrontRight
+[2023.03.23-13.55.32:666][516]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.23-13.55.32:666][516]LogAudioMixer: Display: 1: FrontRight
+[2023.03.23-13.55.32:668][516]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.23-13.55.32:668][516]LogAudioMixer: Display: 1: FrontRight
+[2023.03.23-13.55.32:672][516]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.23-13.55.32:672][516]LogAudioMixer: Display: 1: FrontRight
+[2023.03.23-13.55.32:681][516]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2023.03.23-13.55.32:681][516]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-13.55.32:681][516]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-13.55.32:681][516]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-13.55.32:681][516]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.23-13.55.32:681][516]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.23-13.55.32:681][516]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.23-13.55.32:682][516]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.23-13.55.32:682][516]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.23-13.55.32:682][516]LogInit: FAudioDevice initialized.
+[2023.03.23-13.55.32:682][516]LogAudio: Display: Audio Device (ID: 5) registered with world 'VRJogMap'.
+[2023.03.23-13.55.32:695][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-13.55.32:706][516]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2023.03.23-13.55.32:746][516]LogLoad: Game class is 'VRJog_C'
+[2023.03.23-13.55.32:752][516]LogWorld: Bringing World /Game/Maps/UEDPIE_0_VRJogMap.VRJogMap up for play (max tick rate 0) at 2023.03.23-13.55.32
+[2023.03.23-13.55.32:752][516]LogWorld: Bringing up level for play took: 0.004651
+[2023.03.23-13.55.32:752][516]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=300.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.03.23-13.55.32:753][516]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2023.03.23-13.55.32:755][516]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnCarActor) or object (Spawner Volume)
+[2023.03.23-13.55.32:755][516]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnCarActor) or object (Spawner Volume)
+[2023.03.23-13.55.32:758][516]PIE: Server logged in
+[2023.03.23-13.55.32:759][516]PIE: Play in editor total start time 0.34 seconds.
+[2023.03.23-13.55.32:760][516]LogEngine: Changing dynamic resolution state.
+[2023.03.23-13.55.32:776][516]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2023.03.23-13.56.16:026][679]LogNet: Browse: /Game/Maps/VRBaseMap
+[2023.03.23-13.56.16:026][679]LogHMD: FSplash::DoShow
+[2023.03.23-13.56.16:026][679]LogLoad: LoadMap: /Game/Maps/VRBaseMap
+[2023.03.23-13.56.16:026][679]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_VRJogMap
+[2023.03.23-13.56.16:027][679]LogWorld: UWorld::CleanupWorld for VRJogMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-13.56.16:027][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-13.56.16:104][679]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-13.56.16:109][679]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.03.23-13.56.16:119][679]LogAudio: Display: Audio Device (ID: 5) registered with world 'VRBaseMap'.
+[2023.03.23-13.56.16:120][679]LogAIModule: Creating AISystem for world VRBaseMap
+[2023.03.23-13.56.16:120][679]LogLoad: Game class is 'VRMenu_C'
+[2023.03.23-13.56.16:124][679]LogWorld: Bringing World /Game/Maps/UEDPIE_0_VRBaseMap.VRBaseMap up for play (max tick rate 0) at 2023.03.23-13.56.16
+[2023.03.23-13.56.16:124][679]LogWorld: Bringing up level for play took: 0.004220
+[2023.03.23-13.56.16:127][679]LogHMD: FSplash::OnPostLoadMap Hide Auto Splash
+[2023.03.23-13.56.16:127][679]LogLoad: Took 0.100813 seconds to LoadMap(/Game/Maps/VRBaseMap)
+[2023.03.23-13.56.16:130][680]LogHMD: FSplash::DoHide
+[2023.03.23-13.56.21:220][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-13.56.21:220][ 42]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_VRBaseMap
+[2023.03.23-13.56.21:262][ 42]LogSlate: Window 'VR Travel Training Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2023.03.23-13.56.21:295][ 42]LogWorld: UWorld::CleanupWorld for VRBaseMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-13.56.21:296][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-13.56.21:306][ 42]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-13.56.21:321][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-13.56.21:354][ 42]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-13.56.21:354][ 42]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.23-13.56.21:355][ 42]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.23-13.56.21:362][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.03.23-13.56.21:393][ 43]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.03.23-13.56.21:402][ 43]LogEngine: Changing dynamic resolution state.
+[2023.03.23-13.57.27:835][748]BlueprintLog: New page: Compile VRChar_Jog
+[2023.03.23-13.57.27:904][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2023.03.23-13.57.28:469][771]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Saved/VRChar_Jog9F1B31484FC114CB1E0B87B7D6447C64.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/VRPawns/VRChar_Jog.uasset'
+[2023.03.23-13.57.28:487][771]AssetCheck: New page: Asset Save: VRChar_Jog
+[2023.03.23-13.57.28:487][771]LogContentValidation: Display: Validating Blueprint /Game/VRPawns/VRChar_Jog.VRChar_Jog
+[2023.03.23-13.57.31:781][966]LogTemp: Repeating last play command: VR Preview
+[2023.03.23-13.57.31:788][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-13.57.31:788][966]LogHMD: Initializing OVRPlugin session
+[2023.03.23-13.57.31:983][966]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2023.03.23-13.57.31:983][966]PIE: New page: PIE session: VRJogMap (23 Mar 2023, 13:57:31)
+[2023.03.23-13.57.31:983][966]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_VRJogMap
+[2023.03.23-13.57.31:992][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008358s)
+[2023.03.23-13.57.31:993][966]LogAIModule: Creating AISystem for world VRJogMap
+[2023.03.23-13.57.31:993][966]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2023.03.23-13.57.31:993][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/VRJogMap.VRJogMap to /Game/Maps/UEDPIE_0_VRJogMap.VRJogMap (0.009452s)
+[2023.03.23-13.57.32:034][966]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2023.03.23-13.57.32:035][966]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.03.23-13.57.32:035][966]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-13.57.32:035][966]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-13.57.32:035][966]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-13.57.32:035][966]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-13.57.32:035][966]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-13.57.32:035][966]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.23-13.57.32:035][966]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-13.57.32:035][966]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-13.57.32:035][966]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-13.57.32:036][966]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-13.57.32:036][966]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-13.57.32:036][966]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.23-13.57.32:040][966]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.23-13.57.32:040][966]LogAudioMixer: Display: 1: FrontRight
+[2023.03.23-13.57.32:041][966]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.23-13.57.32:041][966]LogAudioMixer: Display: 1: FrontRight
+[2023.03.23-13.57.32:043][966]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.23-13.57.32:043][966]LogAudioMixer: Display: 1: FrontRight
+[2023.03.23-13.57.32:047][966]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.23-13.57.32:047][966]LogAudioMixer: Display: 1: FrontRight
+[2023.03.23-13.57.32:054][966]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2023.03.23-13.57.32:055][966]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-13.57.32:055][966]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-13.57.32:055][966]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-13.57.32:055][966]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.23-13.57.32:055][966]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.23-13.57.32:055][966]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.23-13.57.32:056][966]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.23-13.57.32:056][966]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.23-13.57.32:056][966]LogInit: FAudioDevice initialized.
+[2023.03.23-13.57.32:056][966]LogAudio: Display: Audio Device (ID: 6) registered with world 'VRJogMap'.
+[2023.03.23-13.57.32:072][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-13.57.32:083][966]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2023.03.23-13.57.32:131][966]LogLoad: Game class is 'VRJog_C'
+[2023.03.23-13.57.32:137][966]LogWorld: Bringing World /Game/Maps/UEDPIE_0_VRJogMap.VRJogMap up for play (max tick rate 0) at 2023.03.23-13.57.32
+[2023.03.23-13.57.32:137][966]LogWorld: Bringing up level for play took: 0.004981
+[2023.03.23-13.57.32:137][966]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=300.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.03.23-13.57.32:138][966]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2023.03.23-13.57.32:140][966]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnCarActor) or object (Spawner Volume)
+[2023.03.23-13.57.32:140][966]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnCarActor) or object (Spawner Volume)
+[2023.03.23-13.57.32:143][966]PIE: Server logged in
+[2023.03.23-13.57.32:144][966]PIE: Play in editor total start time 0.357 seconds.
+[2023.03.23-13.57.32:144][966]LogEngine: Changing dynamic resolution state.
+[2023.03.23-13.57.32:160][966]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2023.03.23-13.57.52:765][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-13.57.52:765][465]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_VRJogMap
+[2023.03.23-13.57.52:819][465]LogSlate: Window 'VR Travel Training Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2023.03.23-13.57.52:856][465]LogWorld: UWorld::CleanupWorld for VRJogMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-13.57.52:856][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-13.57.52:870][465]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-13.57.52:888][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-13.57.52:927][465]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-13.57.52:927][465]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.23-13.57.52:928][465]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.23-13.57.52:937][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.03.23-13.57.52:970][466]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.03.23-13.57.52:977][466]LogEngine: Changing dynamic resolution state.
+[2023.03.23-13.58.06:917][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.03.23-13.58.06:960][282]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/VRBaseMap.VRBaseMap
+[2023.03.23-13.58.06:960][282]Cmd: MAP LOAD FILE="../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/FYP-Prototype/PrototypeV4/Content/Maps/VRBaseMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.23-13.58.06:960][282]LightingResults: New page: Lighting Build
+[2023.03.23-13.58.06:961][282]LoadErrors: New page: Loading map: VRBaseMap.umap
+[2023.03.23-13.58.06:964][282]LogWorld: UWorld::CleanupWorld for VRJogMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-13.58.06:964][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-13.58.06:964][282]MapCheck: New page: Map Check
+[2023.03.23-13.58.06:964][282]LightingResults: New page: Lighting Build
+[2023.03.23-13.58.06:993][282]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-13.58.06:999][282]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.03.23-13.58.07:000][282]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRBaseMap'.
+[2023.03.23-13.58.07:085][282]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.23-13.58.07:085][282]LogAIModule: Creating AISystem for world VRBaseMap
+[2023.03.23-13.58.07:121][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.03.23-13.58.07:131][282]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.23-13.58.07:131][282]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.147ms to complete.
+[2023.03.23-13.58.07:131][282]LogFileHelpers: Loading map 'VRBaseMap' took 0.171
