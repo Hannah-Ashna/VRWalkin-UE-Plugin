@@ -1,10 +1,10 @@
 package com.epicgames.ue4;
 
-import com.YourCompany.PrototypeV4.OBBDownloaderService;
-import com.YourCompany.PrototypeV4.DownloaderActivity;
+import com.YourCompany.VRWalkin.OBBDownloaderService;
+import com.YourCompany.VRWalkin.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.YourCompany.PrototypeV4.OBBData;
+import com.YourCompany.VRWalkin.OBBData;
 
 
 public class DownloadShim
