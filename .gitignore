@@ -68,11 +68,7 @@ Build/*/**
 **/**/Saved/StagedBuilds/*
 
 # Compiled source files for the engine to use
-PrototypeV4/Intermediate/*
 VRWalkin/Intermediate/*
-PrototypeV2/Intermediate/*
-PrototypeV1/Intermediate/*
-PrototypeV5/Intermediate/*
 **/Intermediate/*
 Plugins/*/Intermediate/*
 
@@ -81,9 +77,6 @@ DerivedDataCache/*
 
 # Deploys
 **/**/Deploys/*
-PrototypeV4/Content/OtherAssets/CitySFX.uasset
-PrototypeV4/Saved/Autosaves/Game/OtherAssets/CitySFX_Auto1.uasset
 VRWalkin/Content/OtherAssets/CitySFX.uasset
 VRWalkin/Saved/Autosaves/Game/OtherAssets/CitySFX_Auto1.uasset
 VRWalkin/Content/OtherAssets/CitySoundCue.uasset
-PrototypeV4/Content/OtherAssets/CitySFX.uasset
