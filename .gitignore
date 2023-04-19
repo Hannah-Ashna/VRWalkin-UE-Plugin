@@ -76,7 +76,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Deploys
-**/**/Deploys/*
+**/**/Deploys/**
 VRWalkin/Content/OtherAssets/CitySFX.uasset
 VRWalkin/Saved/Autosaves/Game/OtherAssets/CitySFX_Auto1.uasset
 VRWalkin/Content/OtherAssets/CitySoundCue.uasset
